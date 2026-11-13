@@ -2,7 +2,7 @@
 
 Vitruveo ecosystem brand assets, image galleries, editable templates, and a source-backed research handoff.
 
-**[Browse the actual images](GALLERY.md)** · **[Gaps needing technical assistance](DEVELOPER-HANDOFF.md)** · **[Read the research report](reports/RESEARCH-REPORT.md)** · **[Download ZIP packs](https://github.com/UNI-ASYNC/VTRU-brand/releases/latest)**
+**[Browse the actual images](GALLERY.md)** · **[Gaps needing technical assistance](DEVELOPER-HANDOFF.md)** · **[Read the research report](reports/RESEARCH-REPORT.md)** · **[Download ZIP packs](downloads/README.md)**
 
 ## Latest social banner collection
 
@@ -31,7 +31,7 @@ The four-brand version includes Vitruveo, Pretrend, AI Wars, and Vertical Founda
 
 ## Download and edit
 
-Use GitHub's **Code → Download ZIP** to download the repository with its folders intact. The [release downloads](https://github.com/UNI-ASYNC/VTRU-brand/releases/latest) also contain the two original complete delivery ZIPs and eight smaller ZIPs, each under 10 MB.
+Use GitHub's **Code → Download ZIP** to download the repository with its folders intact. The [downloads folder](downloads/README.md) also contains the two original complete delivery ZIPs and eight smaller ZIPs, each under 10 MB.
 
 For direct publishing, select the PNG in the relevant platform folder. For editing, preserve the folder structure: neon SVGs reference the shared background PNGs in `social-banners/00-Guide-and-Audit/Backgrounds/`. Source logos are embedded in the SVGs. Template fonts and their license are included in the collections.
 
