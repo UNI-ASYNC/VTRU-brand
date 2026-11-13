@@ -1,0 +1,34 @@
+{
+  "production_outputs": 383,
+  "production_designs": 176,
+  "production_counts": {
+    "identity-sheet": 3,
+    "social": 90,
+    "profile": 30,
+    "announcement": 30,
+    "document-header": 20,
+    "ecosystem-banner": 6,
+    "ecosystem-announcement": 4,
+    "Emojis": 100,
+    "Stickers": 40,
+    "letterhead": 60
+  },
+  "source_files": 70,
+  "source_archives": 5,
+  "emoji_pngs": 50,
+  "sticker_pngs": 20,
+  "letterhead_layouts": 15,
+  "social_layouts": 45,
+  "announcement_templates": 15,
+  "avatar_compositions": 15,
+  "document_headers": 10,
+  "ecosystem_layouts": 5,
+  "preview_book_pages": 17,
+  "source_mark_check": "all SVG embeddings match source bytes",
+  "limitations": [
+    "DOCX visual rendering not performed; structural checks passed",
+    "Live platform crop/upload not performed",
+    "RGB PDF without bleed, not certified PDF/X",
+    "Proposed slogans and supporting colors require owner editorial review"
+  ]
+}

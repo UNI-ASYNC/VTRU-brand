@@ -1,0 +1,355 @@
+{
+  "brand": "Pretrend",
+  "checked_on": "2026-11-13",
+  "scope": "Read-only audit of published site content, navigation and visible product surfaces; no wallet connection, signup, purchase or transaction.",
+  "method": [
+    "Browser-search fetches plus direct HTTPS GETs of current pages.",
+    "Direct HTML retained with hashes and response headers.",
+    "Search-index snippets were treated as potentially stale, not canonical."
+  ],
+  "canonical_current": {
+    "homepage": {
+      "url": "https://www.pretrend.ai/",
+      "title": "Trends | Pretrend",
+      "observed": "Market discovery/start page with pump.fun5-minute, Bitcoin15-minute, Ethereum30-minute read-only and AIWars5-minute game cards. No version number in current page.",
+      "confidence": "direct HTTP and web read agree"
+    },
+    "protocol": {
+      "url": "https://www.pretrend.ai/protocol/",
+      "version": "4.0",
+      "observed": "Positions Pretrend as its own trend-prediction marketplace within Vitruveo, developed by Vertical Foundation. VUSD is the market currency. Native Trend computation, Pretrend-operated oracle/notary and Vitruveo market settlement form one stack.",
+      "confidence": "direct HTTP"
+    },
+    "whitepaper": {
+      "url": "https://www.pretrend.ai/whitepaper/",
+      "version": "4.0",
+      "published_last_updated": "2026-11-10",
+      "observed": "Explicitly supersedes earlier third-party-oracle positioning with a Pretrend-operated marketplace. Current fee/payout/funding model uses VUSD on Vitruveo; funding can involve USDT on BNB Chain and USDT.b.",
+      "confidence": "direct HTTP"
+    },
+    "about": {
+      "url": "https://www.pretrend.ai/about/",
+      "redirects_to": "https://www.pretrend.ai/protocol/",
+      "observation": "About exists as a redirect, rather than a separate missing page."
+    }
+  },
+  "cached_or_legacy_findings": [
+    {
+      "url": "https://www.pretrend.ai/",
+      "search_result": "Version2.0; VTRU-primary-currency/third-party oracle/white-label starter kit and VIBE-revenue discussion.",
+      "current_direct_HTTP": "Current homepage is market discovery with no version and no VTRU occurrence.",
+      "interpretation": "Search cache is stale. Do not frame this as a simultaneous live homepage/protocol conflict, and do not reuse old financial/partner-program claims without confirmation."
+    },
+    {
+      "url": "https://www.pretrend.ai/whitepaper/",
+      "search_web_fetch": "Version3.0 dated2026-07-17, USDT.b, external-chain marketplace/hosted tenants,2.75% resolution fee and delayed trend reveal.",
+      "current_direct_HTTP": "Version4.0 dated2026-11-10; own marketplace, VUSD, per-buy fee and live OLS.",
+      "interpretation": "The same URL produced stale crawler text. Direct live HTML is the better evidence for current messaging."
+    },
+    {
+      "url": "https://www.pretrend.ai/trendpulse/",
+      "search_web_fetch": "An older extraction described BTC30-minute and BNB-transfer feed.",
+      "current_direct_HTTP": "Current text describes BTC15-minute; no BNB-transfer card in reviewed HTML.",
+      "interpretation": "Avoid carrying older feed inventories forward."
+    }
+  ],
+  "existing_resources": [
+    {
+      "kind": "Market discovery and launch funnel",
+      "url": "https://www.pretrend.ai/",
+      "reuse": "Preserve the direct market routes and educational links; this is already a product start page."
+    },
+    {
+      "kind": "Protocol and roadmap",
+      "url": "https://www.pretrend.ai/protocol/",
+      "reuse": "Reuse currentV4 wording and ecosystem relationship, with owner confirmation for availability claims. Equities/commodities/social feeds are marked planned; the2026 timeline is not proof every milestone is complete."
+    },
+    {
+      "kind": "Current whitepaper",
+      "url": "https://www.pretrend.ai/whitepaper/",
+      "reuse": "Existing substantial document, not a missing deliverable. Use liveV4 rather than cachedV2/V3."
+    },
+    {
+      "kind": "OLS explainer and interactive teaching",
+      "url": "https://www.pretrend.ai/ols/",
+      "reuse": "Existing residual/slope demonstration, worked example and manipulation comparison support educational posts; no replacement explainer needs assuming."
+    },
+    {
+      "kind": "Replay and native computation examples",
+      "url": "https://www.pretrend.ai/examples/",
+      "reuse": "Existing five historical BTC replay cases and native Trend precompile demo with several datasets. The page advertises read-only eth_call; execution was not invoked in this audit."
+    },
+    {
+      "kind": "Oracle and Notary status",
+      "url": "https://www.pretrend.ai/trendpulse/",
+      "reuse": "Existing feed/status interface; current source cards include pump.fun, Bitcoin, AIWars simulated telemetry, Ethereum and NYC temperature. Status depends on runtime; SSR waiting placeholders do not prove outage."
+    },
+    {
+      "kind": "Market UI and rulebooks",
+      "urls": [
+        "https://www.pretrend.ai/markets/pumpfun-5/",
+        "https://www.pretrend.ai/markets/bitcoin-15/"
+      ],
+      "reuse": "Existing wallet-connect/VUSD purchase interface, positions, history, rules and swap path. Paid-operation status requires confirmation because legacy rulebook copy conflicts with current UI/docs."
+    },
+    {
+      "kind": "Read-only market",
+      "url": "https://www.pretrend.ai/markets/ethereum-30/",
+      "reuse": "Existing observation surface explicitly marked read-only/in development; do not advertise as a paid live market."
+    },
+    {
+      "kind": "Funding/onboarding surface",
+      "url": "https://www.pretrend.ai/swap/",
+      "reuse": "Existing in-page VUSD funding interface and wallet-connect button. No email-registration flow was found within reviewed pages; wallet-led onboarding already exists."
+    },
+    {
+      "kind": "Leaderboard",
+      "url": "https://www.pretrend.ai/leaderboard/",
+      "reuse": "Existing wallet-based outcome-ranking interface with market/time filters and VUSD net/result explanation. Runtime population not certified."
+    },
+    {
+      "kind": "Cross-brand game",
+      "url": "https://www.epicaiwars.com/trends",
+      "found_on": "https://www.pretrend.ai/",
+      "reuse": "Existing AIWars game route and educational crossover. Current TrendPulse labels the telemetry simulated until live feed integration."
+    },
+    {
+      "kind": "Foundation and support",
+      "url": "https://www.verticalfoundation.net",
+      "contact": "mailto:info@verticalfoundation.net",
+      "found_on": "Reviewed page footers and protocol",
+      "reuse": "Existing organization link and contact email. Do not invent another support address."
+    },
+    {
+      "kind": "Native chain explorer",
+      "url": "https://explorer.vitruveo.ai",
+      "found_on": "https://www.pretrend.ai/protocol/",
+      "reuse": "Existing ecosystem technical reference."
+    }
+  ],
+  "audiences_inferred_from_existing_surfaces": [
+    {
+      "audience": "Market participants and observers",
+      "basis": "Homepage launch cards, VUSD interface, swap and leaderboard."
+    },
+    {
+      "audience": "Developers and technically curious readers",
+      "basis": "Native precompile interface, datasets, OLS explanation and whitepaper."
+    },
+    {
+      "audience": "AIWars players and community educators",
+      "basis": "Linked5-minute game and simulated game-telemetry feed."
+    }
+  ],
+  "within_reviewed_pages_not_found": {
+    "legal": [
+      "No Terms/Privacy links appeared in navigation/footer anchors of reviewed pages. Conventional /terms/ and /privacy/ returned404; this does not establish that legal documents do not exist elsewhere.",
+      "Jurisdiction restrictions are described in current protocol/whitepaper, so availability policy already has published coverage."
+    ],
+    "media_and_brand": [
+      "No downloadable press/media kit, logo ZIP or explicit brand guidelines link found within reviewed Pretrend navigation/footer. Uploaded brand ZIPs already exist in this chat; request any other existing kit location before creating one."
+    ],
+    "support": [
+      "Contact email is present; no separate help-center/FAQ/contact-form route was linked in reviewed Pretrend navigation. /contact/ returned404; it is not needed to use the existing email link."
+    ],
+    "social": [
+      "No official social-account links found within the reviewed Pretrend page anchors. They may be published on Foundation or another ecosystem site."
+    ],
+    "signup": [
+      "No email account/signup form found within reviewed text/links. Wallet-connect and funding surfaces are already published."
+    ]
+  },
+  "improve": [
+    {
+      "priority": "high",
+      "issue": "Canonical content/version discoverability",
+      "evidence": [
+        "https://www.pretrend.ai/",
+        "https://www.pretrend.ai/whitepaper/"
+      ],
+      "action": "Refresh indexing and clearly label current version/change history; prevent staleV2/V3 statements from informing new banners."
+    },
+    {
+      "priority": "high",
+      "issue": "Product-status copy conflict",
+      "evidence": [
+        "https://www.pretrend.ai/markets/pumpfun-5/",
+        "https://www.pretrend.ai/markets/bitcoin-15/",
+        "https://www.pretrend.ai/leaderboard/",
+        "https://www.pretrend.ai/protocol/"
+      ],
+      "action": "Reconcile rulebook statements that calls are browser-local and staking/settlement/leaderboard still designed with existingVUSD buy UI/current protocol and leaderboard. Confirm actual status before campaign copy."
+    },
+    {
+      "priority": "medium",
+      "issue": "Link-preview image metadata",
+      "evidence": "No og:image or twitter:image declarations found in rawHTML of12 reviewed page responses, including about redirect destination.",
+      "action": "Add share-image metadata using approved existing logo/content assets, if not provided by another publishing layer; root confirms existing favicon separately."
+    },
+    {
+      "priority": "medium",
+      "issue": "Launch versus planned feed labeling",
+      "evidence": [
+        "https://www.pretrend.ai/protocol/",
+        "https://www.pretrend.ai/trendpulse/"
+      ],
+      "action": "Keep planned asset categories, read-onlyETH and simulatedAIWars feed labels visible in campaign/resource descriptions."
+    },
+    {
+      "priority": "medium",
+      "issue": "Existing resource discovery",
+      "evidence": "Substantial docs, examples, app routes and contact exist; specific media/social/legal destinations were not found in reviewed navigation.",
+      "action": "Improve links to existing materials first; ask for their existing locations before commissioning replacements."
+    }
+  ],
+  "new_only_if_gap_confirmed": [
+    "A compact public resource directory connecting the already-existing protocol, whitepaper, examples, status, market rules, support and official social links.",
+    "A coordinated share-preview image set using supplied brand marks, if no existing approved preview-image set is available.",
+    "A shortV4change-note or onboarding checklist that points into current wallet/swap/market resources, after owner confirms status and copy."
+  ],
+  "needs_confirmation": [
+    "Whether marketrulebook no-stakes wording is stale and which markets/features are production-ready.",
+    "Canonical approvedV4marketing summary and whether any legacy third-party-oracle/starter-kit/white-label program remains active.",
+    "Official social handles, legal/privacy locations, support resources and media-kit destinations that may exist elsewhere.",
+    "Whether AIWars simulated telemetry and ETHread-only status remain intentional before promotional use.",
+    "Any technical/financial claims should be owner-confirmed and independently substantiated before publishing; this audit records claims rather than certifying contracts, reserves, results or returns."
+  ],
+  "runtime_limits": {
+    "read_only_endpoint_probe": "GET to publicTrendPulse /notary discovered in publishedJS timed out; stopped further probing.",
+    "dynamic_search_snapshot": "Search rendering showed resolved-market andVUSD-payout counters onTrendPulse; treated as an ephemeral website claim, not certified operations or an absence finding.",
+    "no_actions": "No wallet connected, transactions sent, signup completed or private services accessed."
+  },
+  "page_fetches": [
+    {
+      "url": "https://www.pretrend.ai/",
+      "final_url": "https://www.pretrend.ai/",
+      "http_status": 200,
+      "title": "Trends | Pretrend",
+      "sha256": "69b9c1c20cc964f2fb813e303b83c3babefc16106648d5174cf3ca8b0bc129ec",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/protocol/",
+      "final_url": "https://www.pretrend.ai/protocol/",
+      "http_status": 200,
+      "title": "Protocol | Pretrend",
+      "sha256": "68d7c4920efd570b938f5130687a08acb474462428fed5e8bf7778a76bb60f1a",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/about/",
+      "final_url": "https://www.pretrend.ai/protocol/",
+      "http_status": 200,
+      "title": "Protocol | Pretrend",
+      "sha256": "68d7c4920efd570b938f5130687a08acb474462428fed5e8bf7778a76bb60f1a",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/whitepaper/",
+      "final_url": "https://www.pretrend.ai/whitepaper/",
+      "http_status": 200,
+      "title": "Whitepaper | Pretrend Protocol",
+      "sha256": "ff04e5eff0a47a9a1b901f378ebf0524c1f6d7409c4da1a6e8e1014ee4b853ea",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/ols/",
+      "final_url": "https://www.pretrend.ai/ols/",
+      "http_status": 200,
+      "title": "OLS | Pretrend Protocol",
+      "sha256": "2f790f11b1594303040e742d97100374a6765e40a24849d0044d7065ed8dfab5",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/examples/",
+      "final_url": "https://www.pretrend.ai/examples/",
+      "http_status": 200,
+      "title": "Examples | Pretrend Protocol",
+      "sha256": "ea6f0177a91701f0d59d4ba48b38137cd64eec7d20bdc06bc4ce0905e380ccd3",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/trendpulse/",
+      "final_url": "https://www.pretrend.ai/trendpulse/",
+      "http_status": 200,
+      "title": "TrendPulse | Pretrend Protocol",
+      "sha256": "aecea55628979d896281e4f0b33e71148c9f18c6d63dc9634ca95c9ee1c531cc",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/markets/pumpfun-5/",
+      "final_url": "https://www.pretrend.ai/markets/pumpfun-5/",
+      "http_status": 200,
+      "title": "pump.fun 5 | Pretrend",
+      "sha256": "74379cc97b8016b8e5c397eceb957e397d9e1ee55ceb3327c75428d0c32d3963",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/markets/bitcoin-15/",
+      "final_url": "https://www.pretrend.ai/markets/bitcoin-15/",
+      "http_status": 200,
+      "title": "Bitcoin 15 | Pretrend",
+      "sha256": "0c5b831a6ce0e4d9f19bfef92b16d2006e2effa5ffebc6b3739aec9f0d8379cc",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/markets/ethereum-30/",
+      "final_url": "https://www.pretrend.ai/markets/ethereum-30/",
+      "http_status": 200,
+      "title": "Ethereum 30 | Pretrend",
+      "sha256": "ab8663596299443f52004c44d42a474066bd056ccdb4c3cbc7a7cdb9f41a81a9",
+      "error": null
+    },
+    {
+      "url": "https://www.pretrend.ai/swap/",
+      "final_url": "https://www.pretrend.ai/swap/",
+      "http_status": 200,
+      "title": "Swap VUSD | Pretrend",
+      "sha256": "8c0e1a0ff50115c47779e04544e1ec91715b20693a0ff4c28e6af071fd8d84a1",
+      "error": null
+    },
+    {
+      "url": "/robots.txt",
+      "final_url": null,
+      "http_status": null,
+      "title": null,
+      "sha256": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "/sitemap.xml",
+      "final_url": null,
+      "http_status": null,
+      "title": null,
+      "sha256": null,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.pretrend.ai/leaderboard/",
+      "final_url": "https://www.pretrend.ai/leaderboard/",
+      "http_status": 200,
+      "title": "Leaderboard | Pretrend"
+    }
+  ],
+  "other_path_checks": [
+    {
+      "url": "https://www.pretrend.ai/terms/",
+      "status": 404
+    },
+    {
+      "url": "https://www.pretrend.ai/privacy/",
+      "status": 404
+    },
+    {
+      "url": "https://www.pretrend.ai/contact/",
+      "status": 404
+    }
+  ],
+  "share_image_meta_check": {
+    "pages_checked": 12,
+    "og_image_declarations_found": 0,
+    "twitter_image_declarations_found": 0,
+    "all_declared_icon": "/assets/pretrend-logomark.png",
+    "note": "Declaredicon validity/dimensions independently checked by root; no newiconsproduced."
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "checked_date": "2026-11-13",
+  "project": "AI Wars",
+  "canonical_site": "https://www.epicaiwars.com/",
+  "scope": "Public page content, navigation and direct HTTP reads. No wallet, authentication, purchase, mint, betting or signed-message actions were performed. Site claims were not independently verified against contracts or production game servers.",
+  "positioning": {
+    "summary": "A game-first persistent science-fiction universe, with story, combat, autonomous/human Actors and durable history. The premium game and the Trends engagement should be described separately.",
+    "sources": [
+      "https://www.epicaiwars.com/",
+      "https://www.epicaiwars.com/whitepaper"
+    ]
+  },
+  "relationships": [
+    {
+      "brand": "Vertical Foundation",
+      "evidence": "The homepage identifies AI Wars as a Vertical Foundation project and links to the foundation.",
+      "source": "https://www.epicaiwars.com/"
+    },
+    {
+      "brand": "Vitruveo",
+      "evidence": "Whitepaper describes durable records and ownership beneath real-time gameplay. The mint page specifies NFTs on Vitruveo, with payments on BNB Chain.",
+      "sources": [
+        "https://www.epicaiwars.com/whitepaper",
+        "https://www.epicaiwars.com/mint"
+      ]
+    },
+    {
+      "brand": "Pretrend",
+      "evidence": "Homepage describes an external observation/data relationship; the game is not controlled by the market.",
+      "source": "https://www.epicaiwars.com/"
+    },
+    {
+      "brand": "VTRU Scope",
+      "evidence": "Genesis links to an existing VTRU bridge at scope.vitruveo.ai. This is a linked infrastructure journey, not evidence of a separate AI Wars ownership role.",
+      "sources": [
+        "https://www.epicaiwars.com/genesis",
+        "https://scope.vitruveo.ai/bridge/vtru"
+      ]
+    }
+  ],
+  "audiences": [
+    {
+      "audience": "Science-fiction/action-game players",
+      "basis": "Inference from world, combat and Actor design in the whitepaper.",
+      "source": "https://www.epicaiwars.com/whitepaper"
+    },
+    {
+      "audience": "Vitruveo community members and prospective early holders",
+      "basis": "Genesis explicitly addresses the Vitruveo community; shard pages describe holder access.",
+      "sources": [
+        "https://www.epicaiwars.com/genesis",
+        "https://www.epicaiwars.com/nft"
+      ]
+    },
+    {
+      "audience": "Wallet-enabled Trends participants",
+      "basis": "Separate engagement with VTRU stakes and shard-credit rules; no claim of audience size or suitability.",
+      "source": "https://www.epicaiwars.com/trends"
+    }
+  ],
+  "observed_statuses": [
+    {
+      "surface": "Main game",
+      "status": "Vision and future roadmap, not verified as publicly playable",
+      "evidence": "Roadmap places Arena after Foundations and gives later alpha, prologue and Early Access milestones. Dates are conditional on funding.",
+      "source": "https://www.epicaiwars.com/roadmap"
+    },
+    {
+      "surface": "Shard mint",
+      "status": "Public page available; rendered UI says opening soon",
+      "evidence": "Mint page has a wallet CTA and staged sale details, but no mint was attempted.",
+      "source": "https://www.epicaiwars.com/mint"
+    },
+    {
+      "surface": "Genesis",
+      "status": "Public explanation and onboarding; opening soon displayed",
+      "evidence": "Referral/claim mechanics and bridge/buy/refer/redeem steps already exist. Benefits are site claims.",
+      "source": "https://www.epicaiwars.com/genesis"
+    },
+    {
+      "surface": "Scape",
+      "status": "Public sector interface and FAQ available",
+      "evidence": "Site explains terrain previews, holder beacons and signing. HTML showed no lit sectors. Interactive rendering/signing was not tested.",
+      "source": "https://www.epicaiwars.com/scape"
+    },
+    {
+      "surface": "AI Wars Trends",
+      "status": "Public engagement labelled live; telemetry explicitly simulated",
+      "evidence": "Page says the live game feed is not yet connected. Wallet-gated play, stake/settlement rules and leaderboard exist; execution was not tested.",
+      "source": "https://www.epicaiwars.com/trends"
+    },
+    {
+      "surface": "Enlist",
+      "status": "Public engagement explanation and roster surface available",
+      "evidence": "One operative per shard, backstory/portrait and future game carry-over are described. HTML showed loading dispatch and zero enlisted; generation was not tested.",
+      "source": "https://www.epicaiwars.com/enlist"
+    }
+  ],
+  "existing_resources_to_reuse": [
+    {
+      "resource": "Universe, Prologue and Actors presentation",
+      "url": "https://www.epicaiwars.com/#universe"
+    },
+    {
+      "resource": "Detailed HTML whitepaper",
+      "url": "https://www.epicaiwars.com/whitepaper"
+    },
+    {
+      "resource": "Public release/sprint roadmap and funding model",
+      "url": "https://www.epicaiwars.com/roadmap"
+    },
+    {
+      "resource": "Shard explanation, tier readout and activation information",
+      "url": "https://www.epicaiwars.com/nft"
+    },
+    {
+      "resource": "Mint entry surface",
+      "url": "https://www.epicaiwars.com/mint"
+    },
+    {
+      "resource": "Genesis onboarding and existing bridge link",
+      "url": "https://www.epicaiwars.com/genesis"
+    },
+    {
+      "resource": "Scape explanation and FAQ",
+      "url": "https://www.epicaiwars.com/scape"
+    },
+    {
+      "resource": "Trends rulebook and leaderboard",
+      "url": "https://www.epicaiwars.com/trends"
+    },
+    {
+      "resource": "Enlist character/dispatch engagement",
+      "url": "https://www.epicaiwars.com/enlist"
+    },
+    {
+      "resource": "Existing Meridian/Archive/fleet imagery and narrative treatments",
+      "url": "https://www.epicaiwars.com/",
+      "qualification": "Visible marketing assets exist. Root is auditing actual asset files; approval/licensing and preferred current assets require owner confirmation."
+    }
+  ],
+  "needs_confirmation": [
+    {
+      "issue": "Status disagreement",
+      "evidence": "Roadmap marks Foundations delivered and describes Genesis/shard sale as in production, while their rendered pages show opening soon.",
+      "sources": [
+        "https://www.epicaiwars.com/roadmap",
+        "https://www.epicaiwars.com/genesis",
+        "https://www.epicaiwars.com/mint"
+      ]
+    },
+    {
+      "issue": "Live interface versus live game telemetry",
+      "evidence": "Trends contains both live-product wording and an explicit simulated-feed qualification. Promotions must not imply the main game feed is already connected.",
+      "source": "https://www.epicaiwars.com/trends"
+    },
+    {
+      "issue": "Commercial and roadmap promises",
+      "evidence": "Future gameplay perks, beta entry, referrals, reward credits and dated releases need current owner-approved wording; public copy alone does not verify delivery.",
+      "sources": [
+        "https://www.epicaiwars.com/nft",
+        "https://www.epicaiwars.com/genesis",
+        "https://www.epicaiwars.com/roadmap"
+      ]
+    }
+  ],
+  "reuse_improve_possible_gap": {
+    "reuse": [
+      "Link to the existing whitepaper, roadmap, shard explanation, Scape FAQ and Trends rulebook rather than recreate them.",
+      "Use owner-approved existing world art and user-supplied ZIP marks for campaign materials."
+    ],
+    "improve": [
+      "Reconcile public status labels and distinguish product availability from telemetry readiness.",
+      "Create short campaign-specific summaries and channel assets that lead to existing canonical destinations."
+    ],
+    "possible_gap": [
+      "A clearly discoverable public support/contact entry, press/brand-kit index and social-channel directory were not observed in the reviewed navigation.",
+      "Consider a concise no-wallet new-visitor route if owners confirm the current pages do not already meet that need."
+    ],
+    "qualification": "These are bounded discoverability findings and potential improvements, not proof that private, unlinked or other-domain resources do not exist. No replacement site or product build is recommended from this audit alone."
+  },
+  "pages_read": [
+    {
+      "url": "https://www.epicaiwars.com/",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/vision",
+      "http_status": 404,
+      "canonical_alternative": "https://www.epicaiwars.com/#universe"
+    },
+    {
+      "url": "https://www.epicaiwars.com/genesis",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/nft",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/mint",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/scape",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/whitepaper",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/roadmap",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/trends",
+      "http_status": 200
+    },
+    {
+      "url": "https://www.epicaiwars.com/enlist",
+      "http_status": 200
+    }
+  ],
+  "method_limits": [
+    "Read-only public HTML and web-reader evidence; client-side actions were not exercised.",
+    "Direct HTTP reads were checked on the stated date; cached web-reader content sometimes differed in details, so current direct HTML was used for status qualification.",
+    "Only this current first-party domain and linked public destinations were assessed; legacy AI Wars/Trends material was not treated as a complete description of the current game.",
+    "No audience metrics, production telemetry integrity, ownership, license rights or commercial promises were independently validated."
+  ]
+}

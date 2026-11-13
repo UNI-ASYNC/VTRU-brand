@@ -1,0 +1,303 @@
+{
+  "brand": "Vertical Foundation",
+  "checked_date": "2026-11-13",
+  "mode": "read-only public website audit",
+  "created_assets": false,
+  "remote_mutations": false,
+  "statement_status": "Site-published statements; legal status, launch performance, ownership and financial arrangements were not independently verified.",
+  "working_domain": {
+    "url": "https://www.verticalfoundation.net/",
+    "basis": [
+      "Fresh HTTP 200 on home, news and validators pages",
+      "https://verticalfoundation.net/ returns 307 to www.verticalfoundation.net",
+      "http://www.verticalfnd.com/ returns 302 to https://www.verticalfoundation.net/",
+      "Current Pretrend homepage links this domain and its contact email"
+    ],
+    "canonical_link_in_home_html": false,
+    "inconsistencies": [
+      "Current Vitruveo homepage still links https://www.verticalfnd.com",
+      "HTTPS legacy www domain requests returned 503 during this audit; apex HTTPS returned proxy/tunnel403",
+      "Cached legacy-domain page carries different Vibe Legal/Verticals positioning"
+    ],
+    "recommendation": "Use .net as the working destination and have owner confirm/update legacy links. Do not describe the observed HTTPS failure as universal downtime."
+  },
+  "pages_read": [
+    {
+      "url": "https://www.verticalfoundation.net/",
+      "final_url": "https://www.verticalfoundation.net/",
+      "status": 200,
+      "method": "Fresh HTTP HTML plus search reader",
+      "title": "Vertical Foundation | Vitruveo Blockchain Governance",
+      "coverage": "Positioning, all six pillar sections, stewardship, navigation/footer, contact and outbound resource links"
+    },
+    {
+      "url": "https://www.verticalfoundation.net/news",
+      "final_url": "https://www.verticalfoundation.net/news/",
+      "status": 200,
+      "redirect_status": 308,
+      "method": "Fresh HTTP HTML; search reader was older",
+      "title": "News | Vertical Foundation",
+      "coverage": "November11 Pretrend launch announcement and July1 Foundation establishment announcement, including governance, incorporation intention, acquisition statement and resources"
+    },
+    {
+      "url": "https://www.verticalfoundation.net/validators",
+      "final_url": "https://www.verticalfoundation.net/validators/",
+      "status": 200,
+      "redirect_status": 308,
+      "method": "Fresh HTTP HTML; search reader inaccessible",
+      "title": "Validators | Vertical Foundation",
+      "coverage": "Node rejoining, calculator, benefits, support offer, Legacy link and footer"
+    },
+    {
+      "url": "https://www.verticalfnd.com/",
+      "current_access": "HTTPS fresh requests503; web open timeout",
+      "method": "Search-cached full page text, crawler reports four months old",
+      "title": "Vertical Foundation | Vitruveo Governance",
+      "coverage": "Historical governance, core utilities, HOST, Vibe Legal and Verticals narrative",
+      "currentness": "Not established as current copy"
+    },
+    {
+      "url": "http://www.verticalfnd.com/",
+      "final_url": "https://www.verticalfoundation.net/",
+      "redirect_status": 302,
+      "status": 200,
+      "method": "Fresh HTTP redirect-chain capture"
+    },
+    {
+      "url": "https://www.verticalfoundation.net/pretrend/",
+      "status": 404,
+      "method": "Fresh HTTP404; older cached page read through search tool",
+      "cached_content": "Pretrend Protocol Version2.0 and 2026 roadmap",
+      "use": "Historical evidence only, not current launch status"
+    },
+    {
+      "url": "https://www.pretrend.ai/",
+      "status": 200,
+      "method": "Fresh HTTP crosslink extraction plus search reader",
+      "coverage": "Foundation footer attribution/contact and AIWars Trends referral"
+    },
+    {
+      "url": "https://www.vitruveo.ai/",
+      "status": 200,
+      "method": "Fresh HTTP crosslink extraction only",
+      "coverage": "Legacy foundation-domain backlink, not a full Vitruveo content audit"
+    },
+    {
+      "url": "https://kalyani.com/",
+      "status": 200,
+      "method": "Fresh HTTP navigation extraction plus search reader",
+      "title": "HOST: HTTP Outbound Service Trigger | Nik Kalyani",
+      "coverage": "Linked HTML technical-paper destination and trend-paper navigation; no PDF download confirmed"
+    }
+  ],
+  "architecture": {
+    "foundation_role": "Governing, funding and development/stewardship body for Vitruveo",
+    "foundation_role_source": "https://www.verticalfoundation.net/",
+    "pillars": [
+      {
+        "name": "VTRU",
+        "type": "native network asset"
+      },
+      {
+        "name": "Pretrend",
+        "type": "prediction-market trend protocol/product"
+      },
+      {
+        "name": "VIBE",
+        "expanded_name": "Vitruveo Income Building Engine",
+        "type": "community income/revenue-sharing program"
+      },
+      {
+        "name": "Scope",
+        "type": "first-party application",
+        "function": "Vitruveo asset viewing, organization and management"
+      },
+      {
+        "name": "Protocol",
+        "type": "chain capabilities/developer surface"
+      },
+      {
+        "name": "Validators",
+        "type": "network operations and onboarding"
+      }
+    ],
+    "edges": [
+      {
+        "from": "Vertical Foundation",
+        "relation": "governs and funds",
+        "to": "Vitruveo",
+        "source": "https://www.verticalfoundation.net/"
+      },
+      {
+        "from": "Vertical Foundation",
+        "relation": "builds, hosts and improves",
+        "to": "Scope",
+        "source": "https://www.verticalfoundation.net/"
+      },
+      {
+        "from": "Pretrend",
+        "relation": "identifies as project of",
+        "to": "Vertical Foundation",
+        "source": "https://www.pretrend.ai/"
+      },
+      {
+        "from": "Pretrend",
+        "relation": "links game use case",
+        "to": "AI Wars Trends",
+        "source": "https://www.pretrend.ai/",
+        "target": "https://www.epicaiwars.com/",
+        "limit": "Referral is not an independent governance/ownership determination"
+      }
+    ],
+    "identity_implication": "Keep supplied marks distinct. The six pillars mix organization, asset, application, program and infrastructure roles; do not turn every pillar into a new company brand by inference.",
+    "naming_note": "Foundation page calls the product Scope; supplied source kit is VTRU Scope. Preserve artwork and confirm editorial long/short name."
+  },
+  "announcements": [
+    {
+      "date": "2026-11-11",
+      "title": "Pretrend Is Live",
+      "url": "https://www.verticalfoundation.net/news/",
+      "site_statement": "Launch of feed, Pump.fun5-minute market, VUSD and swap; betting within24h of publication",
+      "reuse_limit": "Dated statement; relative opening timing is not current evergreen copy"
+    },
+    {
+      "date": "2026-07-01",
+      "title": "Vertical Foundation Established to Steward Vitruveo",
+      "url": "https://www.verticalfoundation.net/news/",
+      "site_statement": "Foundation governance, founding handles, intended incorporation, planned Yieldable acquisition, six-pillar strategy and historical project deprecation",
+      "reuse_limit": "Does not prove incorporation or acquisition completion; historical deprecation must be reconciled with current AIWars crosslinks"
+    }
+  ],
+  "existing_copy_candidates": [
+    {
+      "text": "The foundation governing and funding the Vitruveo ecosystem.",
+      "source": "https://www.verticalfoundation.net/",
+      "status": "existing public copy; owner approval for new official use not inferred"
+    },
+    {
+      "text": "VTRU, Pretrend, VIBE, Scope, Protocol, Validators",
+      "source": "https://www.verticalfoundation.net/",
+      "status": "current six-pillar terminology"
+    },
+    {
+      "text": "Vitruveo Income Building Engine",
+      "source": "https://www.verticalfoundation.net/",
+      "status": "current expansion of VIBE; distinct from cached Vibe Legal"
+    }
+  ],
+  "contact": {
+    "email": "info@verticalfoundation.net",
+    "source_pages": [
+      "https://www.verticalfoundation.net/",
+      "https://www.verticalfoundation.net/news/",
+      "https://www.verticalfoundation.net/validators/"
+    ],
+    "physical_address_found": false,
+    "incorporated_entity_name_found": false,
+    "instruction": "Keep missing formal contact/legal fields editable; do not infer them."
+  },
+  "existing_resources": [
+    {
+      "name": "Foundation news",
+      "url": "https://www.verticalfoundation.net/news/",
+      "kind": "announcement archive"
+    },
+    {
+      "name": "Validators",
+      "url": "https://www.verticalfoundation.net/validators/",
+      "kind": "onboarding, benefits, support and projection calculator"
+    },
+    {
+      "name": "Scope Legacy",
+      "url": "https://scope.vitruveo.ai/legacy",
+      "kind": "outbound app resource",
+      "status": "link discovered; not interacted with"
+    },
+    {
+      "name": "Developer Hub",
+      "url": "https://www.vitruveo.ai/developers",
+      "kind": "outbound developer resource",
+      "status": "link discovered; another audit owns full review"
+    },
+    {
+      "name": "HOST paper",
+      "url": "https://kalyani.com/",
+      "kind": "HTML technical paper",
+      "status": "page read; PDF not confirmed"
+    },
+    {
+      "name": "Trend paper",
+      "url": "https://kalyani.com/trend.html",
+      "kind": "HTML technical-paper navigation",
+      "status": "discovered, not read"
+    },
+    {
+      "name": "Pretrend whitepaper article link",
+      "url": "https://www.pretrend.ai/",
+      "kind": "homepage target",
+      "status": "Article anchor says whitepaper but target is current homepage"
+    },
+    {
+      "name": "VIBE app CTA",
+      "url": "https://scope.vitruveo.ai/vibe",
+      "status": "404 returned by search fetch"
+    },
+    {
+      "name": "Existing website logo, icons and OG card",
+      "url": "https://www.verticalfoundation.net/",
+      "kind": "linked image assets and metadata",
+      "status": "Root agent audits files/dimensions; suppliedZIP remains artwork source of truth"
+    }
+  ],
+  "reuse_improve_new_needs_confirmation": {
+    "reuse": [
+      "Supplied protected marks",
+      "Current Foundation role and six-pillar terminology",
+      "Public contact",
+      "Existing news/developer/validator resources"
+    ],
+    "improve": [
+      "Domain-link consistency",
+      "Dated announcement templates",
+      "Separate stewardship, network, asset, app and program communication",
+      "Confirm Scope editorial naming"
+    ],
+    "new": [
+      "Relationship diagram",
+      "Media index",
+      "Approved-copy library based on dated evidence"
+    ],
+    "needs_confirmation": [
+      "Preferred domain and legacy HTTPS route",
+      "Scope long/short editorial name",
+      "Incorporation/acquisition completion if required in collateral",
+      "VIBE destination",
+      "Historical project-deprecation language versus current AIWars referral",
+      "Pretrend cross-chain versus Vitruveo/VUSD deployment/version copy"
+    ]
+  },
+  "not_found_in_scope": {
+    "scope": "Current Foundation home, news and validators navigation/footer; targeted site searches",
+    "items": [
+      "Brand or press download page",
+      "Brand-guidelines PDF",
+      "Presentation/deck",
+      "Direct social profile",
+      "Discord invite",
+      "Privacy/terms page",
+      "Charter/bylaws",
+      "Governance voting page",
+      "Registration document"
+    ],
+    "limit": "Bounded audit finding, not proof resources do not exist elsewhere",
+    "robots_status": 404,
+    "sitemap_status": 404
+  },
+  "editorial_cautions_from_evidence": [
+    "Do not substitute historical Vibe Legal claims for current VIBE positioning.",
+    "Do not independently assert cached legal enforceability, court admissibility or tax-compliance claims.",
+    "Do not infer that AIWars is inactive from a historical project-deprecation sentence.",
+    "Validator calculator labels its token prices hypothetical and returns projections; numbers need dated product-owner review if used.",
+    "Cached search snapshots were older than fresh HTTP responses; prefer captured current source when they differ."
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "checked_on": "2026-11-13",
+  "evidence_policy": "First-party product help only for verified requirements. Meta pages were login-blocked; their production targets below are not presented as newly verified official specs. In-app crops must be checked before publishing.",
+  "platforms": [
+    {
+      "platform": "Facebook",
+      "surface": "Page cover",
+      "production_targets": [
+        [
+          1702,
+          630
+        ],
+        [
+          1640,
+          720
+        ]
+      ],
+      "verified": false,
+      "official_url": "https://www.facebook.com/help/125379114252045",
+      "access": "Redirected to login / temporarily blocked. Did not verify current text.",
+      "notes": [
+        "851x315 is the commonly indexed fastest-loading source dimension, not a guaranteed display crop;1702x630 is its2x export.",
+        "1640x720 is an alternate mobile-friendly production canvas from prior package, not an official requirement. Keep critical identities centered and check profile overlap.",
+        "Do not claim old desktop820x312/mobile640x360 figures were verified today."
+      ]
+    },
+    {
+      "platform": "X",
+      "surface": "Profile header",
+      "production_targets": [
+        [
+          1500,
+          500
+        ]
+      ],
+      "verified": true,
+      "official_url": "https://help.x.com/en/managing-your-account/common-issues-when-uploading-profile-photo",
+      "official_facts": {
+        "recommended_width": 1500,
+        "recommended_height": 500,
+        "possible_top_crop": 60,
+        "possible_bottom_crop": 60
+      },
+      "notes": [
+        "Keep important text/logos away from60px top/bottom and lower-left profile overlap."
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "surface": "Channel banner",
+      "production_targets": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "verified": true,
+      "official_url": "https://support.google.com/youtube/answer/10456525?co=GENIE.Platform%3DDesktop&hl=en",
+      "official_facts": {
+        "minimum": [
+          2048,
+          1152
+        ],
+        "safe_at_minimum": [
+          1235,
+          338
+        ],
+        "recommended": [
+          2560,
+          1440
+        ],
+        "max_bytes": 6000000
+      },
+      "derived_safe_at_recommended": {
+        "width": 1543.75,
+        "height": 422.5,
+        "x": 508.125,
+        "y": 508.75
+      },
+      "recommended_conservative_safe": {
+        "width": 1544,
+        "height": 422,
+        "x": 508,
+        "y": 509
+      },
+      "notes": [
+        "The familiar1546x423 safe strip is an approximation. First-party official1235x338 at2048x1152 scales to1543.75x422.5.",
+        "All essential logos, small copy and CTA must fit the centered safe region; background can fill TV canvas."
+      ]
+    },
+    {
+      "platform": "TikTok",
+      "surface": "Vertical video/post cover / photo creative",
+      "production_targets": [
+        [
+          1080,
+          1920
+        ]
+      ],
+      "verified": true,
+      "official_url": "https://ads.tiktok.com/resources/help/article/tiktok-auction-in-feed-ads?lang=en",
+      "source_last_updated": "June2026",
+      "official_facts": {
+        "preferred_video_ratio": "9:16",
+        "minimum_vertical_video": [
+          540,
+          960
+        ],
+        "safe_zone": "Varies by captions/additional formats; official template downloads exist."
+      },
+      "notes": [
+        "1080x1920 is a proposed high-resolution9:16 production target, not an official static-header requirement.",
+        "Use vertical cover/photo creative; do not label it a TikTok profile banner.",
+        "Keep essential logo/copy central away from bottom captions/right action rail; in-app preview varies.",
+        "Official product help on profile photo exists but fetch was robots-blocked; no profile-header surface established."
+      ]
+    },
+    {
+      "platform": "Instagram",
+      "surface": "Feed / Story / Reel cover",
+      "production_targets": [
+        [
+          1080,
+          1080
+        ],
+        [
+          1080,
+          1350
+        ],
+        [
+          1080,
+          1440
+        ],
+        [
+          1080,
+          1920
+        ]
+      ],
+      "verified": false,
+      "official_url": "https://help.instagram.com/1631821640426723",
+      "additional_official_url": "https://www.facebook.com/business/ads-guide/image/instagram-story",
+      "access": "Instagram photo help returned429; Facebook mirror/ads guide redirected to login.",
+      "notes": [
+        "Provide square1:1, portrait4:5 (and optional3:4 feed), plus vertical9:16 story/Reel cover as production targets.",
+        "Do not label these Instagram profile banners.",
+        "Current third-party indexes quote native3:4 support, but that is not a verified first-party fact from this session.",
+        "Center critical logo/copy, avoid interface overlap and check feed/profile-grid crops in app."
+      ]
+    },
+    {
+      "platform": "Rumble",
+      "surface": "Channel banner / backsplash",
+      "production_targets": [
+        [
+          3600,
+          600
+        ]
+      ],
+      "verified": true,
+      "official_url": "https://rumble.support/help/channel-backsplash-dimensions-and-best-practices",
+      "source_last_updated": "2024-02-21",
+      "official_facts": {
+        "recommended": [
+          3600,
+          600
+        ],
+        "aspect_ratio": "6:1",
+        "formats": [
+          "JPG",
+          "PNG"
+        ],
+        "recommended_max_bytes": 2000000
+      },
+      "notes": [
+        "Profile image and invisible region can overlap banner; side crops change with viewport/mobile.",
+        "Use ample central safe area and account for lower-left profile image.",
+        "Do not reuse YouTube16:9 as Rumble backsplash."
+      ]
+    }
+  ],
+  "important_distinction": "TikTok and Instagram deliverables are content covers/feed/story formats, not nonexistent or unverified profile-header banners.",
+  "research_sources": [
+    {
+      "title": "X Help — Help with uploading a profile photo",
+      "url": "https://help.x.com/en/managing-your-account/common-issues-when-uploading-profile-photo",
+      "status": "Verified current page"
+    },
+    {
+      "title": "YouTube Help — Manage your channel branding",
+      "url": "https://support.google.com/youtube/answer/10456525?co=GENIE.Platform%3DDesktop&hl=en",
+      "status": "Verified current page"
+    },
+    {
+      "title": "Rumble Help — Channel Banner/Backsplash Dimensions and Best Practices",
+      "url": "https://rumble.support/help/channel-backsplash-dimensions-and-best-practices",
+      "status": "Verified current page",
+      "updated": "2024-02-21"
+    },
+    {
+      "title": "TikTok Auction In-Feed Ads",
+      "url": "https://ads.tiktok.com/resources/help/article/tiktok-auction-in-feed-ads?lang=en",
+      "status": "Verified current page",
+      "updated": "June2026"
+    },
+    {
+      "title": "Facebook Page profile picture and cover photo dimensions",
+      "url": "https://www.facebook.com/help/125379114252045",
+      "status": "Login-blocked"
+    },
+    {
+      "title": "Instagram image resolution",
+      "url": "https://help.instagram.com/1631821640426723",
+      "status": "Rate-limited429"
+    }
+  ]
+}

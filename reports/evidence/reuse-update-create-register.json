@@ -1,0 +1,120 @@
+{
+  "checked_on": "2026-11-13",
+  "status": "research only; no new brand production or website changes",
+  "items": [
+    {
+      "item": "Five original brand kits",
+      "decision": "reuse",
+      "evidence": "Public five-brand center matches allfive uploaded ZIP archives and all70member hashes.",
+      "source": "https://www.vitruveo.ai/ecosystem/brands"
+    },
+    {
+      "item": "Favicons",
+      "decision": "reuse / confirm Scope choice",
+      "evidence": "Allfive sites serve a valid favicon; Scope shares Vitruveo icon.",
+      "source": "See web-asset-audit.json"
+    },
+    {
+      "item": "Foundation app/Apple icons",
+      "decision": "reuse",
+      "evidence": "Declared512px general icon and180px Apple icon returnvalidPNGs.",
+      "source": "https://www.verticalfoundation.net/"
+    },
+    {
+      "item": "Home link-preview images",
+      "decision": "reuse",
+      "evidence": "Vitruveo,Foundation,AIWars have reachable1200x630 share images.",
+      "source": "See web-asset-audit.json"
+    },
+    {
+      "item": "Pretrend share-image metadata",
+      "decision": "improve",
+      "evidence": "Noog:image/twitter:image in12reviewedHTMLresponses; current favicon exists.",
+      "source": "https://www.pretrend.ai/"
+    },
+    {
+      "item": "Scope share-preview metadata",
+      "decision": "improve",
+      "evidence": "NoOG/Twitter declarations observed after clientrendering.",
+      "source": "https://scope.vitruveo.ai/"
+    },
+    {
+      "item": "Vitruveo developer content",
+      "decision": "reuse",
+      "evidence": "Current docs,HOST primer,node tutorial and demo links alreadyexist.",
+      "source": "https://www.vitruveo.ai/developers"
+    },
+    {
+      "item": "Pretrend product education",
+      "decision": "reuse",
+      "evidence": "V4protocol/whitepaper,OLS,examples,TrendPulse,marketpages,swapUI,leaderboard.",
+      "source": "https://www.pretrend.ai/protocol/"
+    },
+    {
+      "item": "AIWars product content",
+      "decision": "reuse",
+      "evidence": "Universe,whitepaper,roadmap,shards,onboarding,ScapeFAQ,Trends.",
+      "source": "https://www.epicaiwars.com/"
+    },
+    {
+      "item": "Scope About/release history",
+      "decision": "reuse / improve discoverability",
+      "evidence": "Existingpagepublic but notlinked fromaudited Info menu.",
+      "source": "https://scope.vitruveo.ai/info/about"
+    },
+    {
+      "item": "Foundation news/validator material",
+      "decision": "reuse",
+      "evidence": "Currentpublicnews and validator pages.",
+      "source": "https://www.verticalfoundation.net/news/"
+    },
+    {
+      "item": "Current roles and naming",
+      "decision": "consolidate",
+      "evidence": "Foundationsteward;Vitruveonetwork;Pretrendmarketproduct;Scopeassetmanager;AIWarsgame+separateTrends.",
+      "source": "Brand research JSONs"
+    },
+    {
+      "item": "Other ecosystem components",
+      "decision": "inventory",
+      "evidence": "VTRU,VIBE,HOST,VNS,bridges,Explorer/networkmetrics areexistingparts beyondfivekitfamilies.",
+      "source": "https://www.vitruveo.ai/ecosystem"
+    },
+    {
+      "item": "Pretrend rulebook/status wording",
+      "decision": "confirm / update",
+      "evidence": "Oldfree/future wordingcoexistswithVUSDUIandlivepubliccounters; do notcertifyoperationfromUIalone.",
+      "source": "https://www.pretrend.ai/markets/pumpfun-5/"
+    },
+    {
+      "item": "AIWars launch/status wording",
+      "decision": "confirm / update",
+      "evidence": "Roadmapproduction languageversusMint/Genesisopeningsoon; Trendsfeedexplicitlysimulated.",
+      "source": "https://www.epicaiwars.com/roadmap"
+    },
+    {
+      "item": "Foundation destination links",
+      "decision": "review / update",
+      "evidence": "Current.netdestination;someVitruveolinksuselegacy.com; /vibe404versus/assets/vibe.",
+      "source": "https://www.verticalfoundation.net/"
+    },
+    {
+      "item": "Press boilerplate/contact index",
+      "decision": "inventory before creation",
+      "evidence": "Separatepresspack notfoundwithinreviewedpages; logoassetcenteralreadyexists.",
+      "source": "Brand research JSONs"
+    },
+    {
+      "item": "Email templates / sales decks / internal UI library",
+      "decision": "private inventory needed",
+      "evidence": "Cannot determine from publicsites whether internalcopiesalreadyexist.",
+      "source": "Not publicly observable"
+    },
+    {
+      "item": "Support and incident communications",
+      "decision": "inventory / discoverability",
+      "evidence": "Find existing support/statusdestinations before proposingnew systems; networkmetricsare notincidenthistory.",
+      "source": "Brand research JSONs"
+    }
+  ]
+}

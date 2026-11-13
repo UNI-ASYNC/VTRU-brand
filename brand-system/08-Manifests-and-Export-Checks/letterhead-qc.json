@@ -1,0 +1,11 @@
+{
+  "letterhead_sets": 15,
+  "checks": [
+    "A4 PDF single page",
+    "2480x3508 300dpi PNG",
+    "DOCX repeating headers/footers",
+    "exact source PNG embedded in DOCX",
+    "exact source SVG embedded in SVG"
+  ],
+  "failures": []
+}

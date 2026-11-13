@@ -1,0 +1,27 @@
+{
+  "compositions": 79,
+  "pngs": 79,
+  "editable_svgs": 79,
+  "collections": 7,
+  "platforms": [
+    "Facebook",
+    "X",
+    "YouTube",
+    "TikTok",
+    "Instagram",
+    "Rumble"
+  ],
+  "preview_pages": 9,
+  "original_logo_source_match": "passed",
+  "counts": {
+    "Facebook": 21,
+    "X": 7,
+    "YouTube": 14,
+    "TikTok": 7,
+    "Instagram": 21,
+    "Rumble": 7,
+    "Master": 2
+  },
+  "backgrounds": "new generated decorative art without logos",
+  "all_logo_artwork": "exact SVGs from user supplied brand ZIPs"
+}

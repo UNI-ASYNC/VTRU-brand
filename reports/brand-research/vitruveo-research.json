@@ -1,0 +1,591 @@
+{
+  "brand": "Vitruveo",
+  "access_date": "2026-11-13",
+  "scope": "Research only: current positioning, existing assets and resources, brand relationships, messaging gaps. No new artwork, uploads, purchases, transactions, wallet connection, or demo submissions.",
+  "method_limits": [
+    "Live urllib HTTPS requests are the primary current evidence. Search/crawler results were useful for discovery but sometimes stale: crawler showed an obsolete 12-PSC list and a missing ecosystem route; live requests showed 13 PSCs and HTTP200 ecosystem content.",
+    "HTTP200 and accessible copy establish page/resource availability, not correct smart-contract operation, security, commercial readiness, or truth of universal superlatives.",
+    "HOST/demo routes initially return client-rendered shells. A headless Chromium hydration check was attempted but blocked by this environment's proxy certificate trust (ERR_CERT_AUTHORITY_INVALID). TLS verification was not disabled. These routes are therefore not labeled broken.",
+    "MCP endpoint/configuration show Loading in the initial developer HTML; runtime population was not verified. Network dashboard contains client-side template values in initial HTML; its live metrics were not verified."
+  ],
+  "current_positioning": {
+    "headline": "Webhooks for Web3",
+    "secondary_tagline": "The First Active Blockchain",
+    "description": "The live site presents an EVM chain for smart contracts to trigger signed outbound HTTP/webhooks and off-chain AI workflows through HOST. It markets protocol-native capabilities beyond standard Solidity execution.",
+    "classification": "site positioning and claims, not independent functional validation",
+    "sources": [
+      "https://www.vitruveo.ai/",
+      "https://www.vitruveo.ai/developers",
+      "https://www.vitruveo.ai/host-primer"
+    ]
+  },
+  "audiences": [
+    {
+      "audience": "Solidity / EVM application developers",
+      "basis": "Developer hub supplies precompile examples, client code, network settings and MCP tool descriptions.",
+      "status": "inferred from explicit developer content",
+      "sources": [
+        "https://www.vitruveo.ai/developers"
+      ]
+    },
+    {
+      "audience": "AI/automation builders integrating Web2 and on-chain events",
+      "basis": "HOST positioning and use-case categories center off-chain agents, automation and webhooks.",
+      "status": "inferred from site content",
+      "sources": [
+        "https://www.vitruveo.ai/host-primer"
+      ]
+    },
+    {
+      "audience": "Validator and node operators",
+      "basis": "Primer explains authorization roles; linked snapshot site provides build, checksum and node-run instructions.",
+      "status": "explicit documentation audience",
+      "sources": [
+        "https://www.vitruveo.ai/host-primer",
+        "https://snapshot.vitruveo.ai"
+      ]
+    },
+    {
+      "audience": "Users of ecosystem markets and asset tools",
+      "basis": "Ecosystem page links Pretrend, bridges, multisig wallets, VNS and VIBE.",
+      "status": "inferred from product CTAs; functionality not tested",
+      "sources": [
+        "https://www.vitruveo.ai/ecosystem"
+      ]
+    },
+    {
+      "audience": "Media / provenance developers",
+      "basis": "C2PA and on-chain file-storage pages include artwork-oriented examples.",
+      "status": "inferred technical use case",
+      "sources": [
+        "https://www.vitruveo.ai/developers/psc/content-credentials",
+        "https://www.vitruveo.ai/developers/psc/file-storage"
+      ]
+    }
+  ],
+  "existing_assets_and_resources": [
+    {
+      "category": "Brand library",
+      "finding": "A public five-brand center already exists, with full-color logo, dark, white and grayscale variants plus mark/circle/square SVG and transparent PNG downloads.",
+      "urls": [
+        "https://www.vitruveo.ai/ecosystem/brands"
+      ],
+      "verified_state": "Brand-center HTML200; all five ZIP downloads200, each byte-identical to the user upload; all70 member hashes identical.",
+      "action": "reuse",
+      "comparison_file": "public-brandkit-comparison.json"
+    },
+    {
+      "category": "Developer hub and PSC reference",
+      "finding": "Current live hub lists 13 protocol capabilities: HOST, Trend, RNG, Shuffle, Compound Interest, Passkey, Multisig, Merkle Proof, Content Credentials, Protobuf, File Storage, Batch Balance and Batch Balance Native. Solidity/client examples and a 17-tool MCP reference are already present.",
+      "urls": [
+        "https://www.vitruveo.ai/developers",
+        "https://www.vitruveo.ai/developers/psc"
+      ],
+      "verified_state": "Live200; text read. MCP connection details are client-populated and were not verified.",
+      "action": "reuse and improve onboarding"
+    },
+    {
+      "category": "HOST technical primer",
+      "finding": "Existing narrative, authorization model, workflow, encryption explanation and code examples. It identifies validator-owner approval and contract whitelisting; a dedicated Registry App is still labeled coming soon.",
+      "urls": [
+        "https://www.vitruveo.ai/host-primer",
+        "https://www.vitruveo.ai/host/examples"
+      ],
+      "verified_state": "Primer live200 and substantive. Examples route200 but only shell in initial HTML.",
+      "action": "reuse; confirm current app status"
+    },
+    {
+      "category": "Interactive demos",
+      "finding": "Home links AI Alpha Scout, Google Sheets update and ntfy demos. Trend reference includes selectable datasets and an analysis interface.",
+      "urls": [
+        "https://www.vitruveo.ai/host",
+        "https://www.vitruveo.ai/host/scout",
+        "https://www.vitruveo.ai/host/sheets",
+        "https://www.vitruveo.ai/host/ntfy",
+        "https://www.vitruveo.ai/developers/psc/trend"
+      ],
+      "verified_state": "HTTP200 routes; read-only review only, no wallet or workflow execution.",
+      "action": "reuse; validate before promising working outcomes"
+    },
+    {
+      "category": "Existing product media",
+      "finding": "File Storage reference includes a Vitruveo.mp4 sample, download link and Explorer transaction references. A HEAD request confirms a 3,046,150-byte video/mp4 resource is accessible.",
+      "urls": [
+        "https://www.vitruveo.ai/developers/psc/file-storage",
+        "https://rpc.vitruveo.ai/file/8f684b47bd39dbd2140dbf3eb17e7d89d30ff249b140810f45f67bbd79f19a7c.mp4"
+      ],
+      "verified_state": "Documentation200 and media HEAD200. Storage provenance was not independently reconstructed.",
+      "action": "reuse after reviewing suitability"
+    },
+    {
+      "category": "Media provenance reference",
+      "finding": "C2PA documentation includes APIs, current trust-list claims, supported signatures/formats and explicit limitations.",
+      "urls": [
+        "https://www.vitruveo.ai/developers/psc/content-credentials"
+      ],
+      "verified_state": "Live200; current technical documentation read, not a security audit.",
+      "action": "reuse for product explanation"
+    },
+    {
+      "category": "Node onboarding",
+      "finding": "Dedicated snapshot site supplies source build, checksum verification, peer config, read-only node run and upgrade instructions.",
+      "urls": [
+        "https://snapshot.vitruveo.ai",
+        "https://github.com/Vitruveo/vitruveo-protocol"
+      ],
+      "verified_state": "Snapshot page200 and tutorial read. Snapshot download/sync not executed.",
+      "action": "reuse"
+    },
+    {
+      "category": "Social / source repositories",
+      "finding": "Current footer links X/Twitter and GitHub.",
+      "urls": [
+        "https://twitter.com/vitruveochain",
+        "https://github.com/vitruveo"
+      ],
+      "verified_state": "Links observed on live pages; account operation and current content not audited.",
+      "action": "reuse; confirm preferred public handles"
+    },
+    {
+      "category": "Explorer and network visibility",
+      "finding": "Current pages link a block explorer and network dashboard; snapshot footer calls the latter Network status.",
+      "urls": [
+        "https://explorer.vitruveo.ai",
+        "https://network.vitruveo.ai"
+      ],
+      "verified_state": "Links observed; network dashboard200 but dynamic metrics not verified.",
+      "action": "reuse; distinguish metrics from an incident-status service"
+    },
+    {
+      "category": "AI support surface",
+      "finding": "AI Chat and footer Ask Vitruveo AI are existing help/discovery surfaces.",
+      "urls": [
+        "https://www.vitruveo.ai/chat"
+      ],
+      "verified_state": "Route200; client-only initial Loading state. No chat message was submitted.",
+      "action": "reuse after read-only runtime verification"
+    }
+  ],
+  "relationships": [
+    {
+      "relationship": "Vitruveo \u2192 Vertical Foundation",
+      "evidence": "Current footer Powered-by image links to https://www.verticalfnd.com. The ecosystem page also claims Foundation wallets use the linked multisig app.",
+      "sources": [
+        "https://www.vitruveo.ai/",
+        "https://www.vitruveo.ai/ecosystem"
+      ],
+      "limit": "This supports an ecosystem connection; it does not establish corporate ownership or legal control."
+    },
+    {
+      "relationship": "Vitruveo \u2192 Pretrend",
+      "evidence": "Ecosystem page presents Pretrend as a Vitruveo-native market product, labels it live since November11,2026, and connects settlement to native statistics.",
+      "sources": [
+        "https://www.vitruveo.ai/ecosystem"
+      ],
+      "limit": "Launch date and live/production status are website claims; markets not executed."
+    },
+    {
+      "relationship": "Vitruveo \u2192 VTRU Scope",
+      "evidence": "Ecosystem tools for multisig, VTRU/USDT bridges, VNS and VIBE link to scope.vitruveo.ai.",
+      "sources": [
+        "https://www.vitruveo.ai/ecosystem"
+      ],
+      "limit": "Links prove the published relationship, not bridge solvency or functional state."
+    },
+    {
+      "relationship": "Vitruveo \u2192 AI Wars",
+      "evidence": "AI Wars is one of the five brands in the public brand center, with exact matching downloadable artwork. No AI Wars project card was found on the reviewed ecosystem page.",
+      "sources": [
+        "https://www.vitruveo.ai/ecosystem/brands",
+        "https://www.vitruveo.ai/ecosystem"
+      ],
+      "limit": "Current product role/status needs confirmation; absence from one directory is not discontinuation evidence."
+    },
+    {
+      "relationship": "Additional ecosystem projects",
+      "evidence": "Directory links Quadplot; Coinveyor, AIGIS and Instagraphic are marked coming soon.",
+      "sources": [
+        "https://www.vitruveo.ai/ecosystem"
+      ],
+      "limit": "These are site labels, not independent readiness tests."
+    }
+  ],
+  "historical_messaging": {
+    "finding": "A dated April29,2024 article by the Vitruveo Chain Medium account emphasizes VTRU Studio, Creator Vault, artwork licensing and creator income. Current .ai pages lead with HTTP/webhooks, AI and protocol capabilities. Creative use cases remain in current C2PA/file-storage documentation, so a total abandonment of creators should not be inferred.",
+    "sources": [
+      "https://vitruveochain.medium.com/vitruveos-creator-vault-smart-contract-feature-dfb480dcb2be",
+      "https://www.vitruveo.ai/",
+      "https://www.vitruveo.ai/developers/psc/content-credentials"
+    ],
+    "action": "Confirm present brand story and treatment of legacy creator channels before reusing old slogans, tokenomics claims or contact details."
+  },
+  "not_found_in_reviewed_pages": [
+    {
+      "item": "Current human support/contact path, support email or help-center link",
+      "scope": "Reviewed .ai global navigation/footer, developer hub, primer, ecosystem and brand center.",
+      "conclusion": "Not found in these pages; could exist elsewhere. AI chat exists."
+    },
+    {
+      "item": "Current press/media kit with approved boilerplate, spokesperson contacts and product screenshots",
+      "scope": "Brand center offers logo masters, and docs offer a video sample; reviewed nav/footer had no press page.",
+      "conclusion": "Not found in reviewed pages; do not duplicate undiscovered internal materials."
+    },
+    {
+      "item": "Linked privacy/terms/security disclosure pages",
+      "scope": "Reviewed .ai navigation/footer and content links.",
+      "conclusion": "Not found in reviewed pages; this is discovery scope, not a legal compliance judgment."
+    },
+    {
+      "item": "Incident-history / uptime status page",
+      "scope": "Explorer and network metrics are linked, but reviewed links showed no dedicated incident feed.",
+      "conclusion": "Not found in reviewed pages; existing network dashboard should not be relabeled a full incident service."
+    },
+    {
+      "item": "Detailed typography, clear-space and co-branding rules",
+      "scope": "Reviewed brand center supplies variant usage labels and downloadable sources.",
+      "conclusion": "Not found in reviewed page beyond basic variant descriptions; existing internal rules need checking."
+    },
+    {
+      "item": "Discoverable sitemap and robots metadata at conventional paths",
+      "scope": "GET /sitemap.xml and /robots.txt.",
+      "conclusion": "Both returned404 on access date; this says nothing about other indexing configuration."
+    }
+  ],
+  "candidate_areas": {
+    "reuse": [
+      "Existing five-brand public source library, all byte-matched to canonical uploads.",
+      "Developer/PSC references, HOST primer, snapshot tutorial and linked repository.",
+      "Existing product demo links and source-provenanced video example.",
+      "Current X/GitHub links, Explorer and network dashboard."
+    ],
+    "improve": [
+      "Add concise audience-specific start paths around existing docs: build a webhook, use an ecosystem app, run a node.",
+      "Surface contact/support and owner-approved legal/security links if they already exist.",
+      "Connect brand downloads to owner-approved usage rules and a source/version record.",
+      "Bring legacy social and long-lived articles into a clearly dated current-story framework.",
+      "Add beginner success criteria and current readiness labels without replacing detailed technical docs."
+    ],
+    "new_if_no_existing_internal_material": [
+      "Compact current product/company one-pager and approved boilerplate.",
+      "A current press/contact page or media index assembling existing assets.",
+      "A developer onboarding checklist and reusable diagram derived from the documented authorization flow.",
+      "An incident/service-health communication page if the owner needs it beyond network metrics."
+    ],
+    "needs_confirmation": [
+      "Preferred current positioning and audiences; status of legacy creator products and channels.",
+      "Current HOST Registry App readiness and working MCP connection details.",
+      "Approved support/contact/legal/security endpoints and spokespeople.",
+      "AI Wars current product status and whether it belongs in the live ecosystem directory.",
+      "Any official use rules, licensing text or typography standards that already exist internally.",
+      "Which performance, security, first-in-category and financial claims are approved for collateral."
+    ]
+  },
+  "public_brandkit_comparison": [
+    {
+      "brand": "vitruveo",
+      "url": "https://www.vitruveo.ai/brands/vitruveo/vitruveo-brandkit.zip",
+      "status": 200,
+      "final_url": "https://www.vitruveo.ai/brands/vitruveo/vitruveo-brandkit.zip",
+      "bytes": 478561,
+      "public_zip_sha256": "f18265db93b8e2691f00feaa884b203c40b6e08ca8ffe25ea96e41a3ebe5ab72",
+      "uploaded_zip_sha256": "f18265db93b8e2691f00feaa884b203c40b6e08ca8ffe25ea96e41a3ebe5ab72",
+      "archive_bytes_identical": true,
+      "public_member_count": 14,
+      "uploaded_member_count": 14,
+      "member_names_identical": true,
+      "all_member_hashes_identical": true,
+      "member_hashes": {
+        "vitruveo-logo-bw.svg": "b0c510c777b513e794b0f1b541522f00603e34f90e155757a1b46ae796d4c3aa",
+        "vitruveo-logo-dark.svg": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983",
+        "vitruveo-logo-white.svg": "3f5fab385e6ba8d78a586fa44f770651bb401add34302ed5e1452498c7c70bd7",
+        "vitruveo-logo.svg": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15",
+        "vitruveo-logomark-circle.svg": "2882054ff1de26dc8210b1309a900e0f8c0e1c5658c3c50db7a29ebce33019ba",
+        "vitruveo-logomark-square.svg": "3973b77e9b38c6a2789d836668541d0f9a4d0c9d207c274bb7c540070fcd3795",
+        "vitruveo-logomark.svg": "6692c2780d72c5bc7a7614d3f205170ffea67f053add8046d217944b351cf8e1",
+        "vitruveo-logo-bw.png": "328cb7de7007cce588eb7a71f01318b166d344097375260971ab244004f0db8b",
+        "vitruveo-logo-dark.png": "f24e98c9845bd44393a7bc5db1ca0f6240f62c0d5b24166431a985eb40fcb9a0",
+        "vitruveo-logo-white.png": "013e11ac82f4ee0414a71ba4a4830a5b47c96dfdda96737f2889af9c606cd20e",
+        "vitruveo-logo.png": "90e896cc9d5ef1fe28d4ec28943070798477a75b069043952151e198da8c58e1",
+        "vitruveo-logomark-circle.png": "0ea136470ae6974dc1d798d5040d9b35d0282d8c979626f7ab404d3de5663c23",
+        "vitruveo-logomark-square.png": "536e149d4dac22b6770d2fa4bc2db419fb8bf190b2d86329f94cb9c865621bf7",
+        "vitruveo-logomark.png": "fbdb494d70e55b022fe549d4420e573243a6826b37d5bb8da7384700a98b1ae6"
+      },
+      "crc_check": "pass",
+      "access_date": "2026-11-13"
+    },
+    {
+      "brand": "pretrend",
+      "url": "https://www.vitruveo.ai/brands/pretrend/pretrend-brandkit.zip",
+      "status": 200,
+      "final_url": "https://www.vitruveo.ai/brands/pretrend/pretrend-brandkit.zip",
+      "bytes": 723804,
+      "public_zip_sha256": "9ff787d5a026cbc00b5408350d3a36ce8e92523d1b59f84e74a0d5429d498cbf",
+      "uploaded_zip_sha256": "9ff787d5a026cbc00b5408350d3a36ce8e92523d1b59f84e74a0d5429d498cbf",
+      "archive_bytes_identical": true,
+      "public_member_count": 14,
+      "uploaded_member_count": 14,
+      "member_names_identical": true,
+      "all_member_hashes_identical": true,
+      "member_hashes": {
+        "pretrend-logo-bw.svg": "238bfb53e7f5df01e5944a72c8794e90f2d5404c4f838c71a28a000148df3744",
+        "pretrend-logo-dark.svg": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6",
+        "pretrend-logo-white.svg": "ac0c13ae9f39afe37f8fde538dbeb36d76494eb051c145e188eba0031b95851e",
+        "pretrend-logo.svg": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c",
+        "pretrend-logomark-circle.svg": "02aca5df94f26f84fdb1e8921e8c2a48ab306b93ea539eb8b8c909dd9306c8c0",
+        "pretrend-logomark-square.svg": "72efb480d4756e72b01366c61b2501813015c459b756c1b78051fea76c546f64",
+        "pretrend-logomark.svg": "d5fbfd7091630df7b4d09c190a8fa4ebc0fb28a10ab313ccec823c1beb881b15",
+        "pretrend-logo-bw.png": "d8d88fb86aa8148b03d898236851b2852bded5a66a5e01c6c003e7a55c1b8067",
+        "pretrend-logo-dark.png": "d7385e8129515a12326d53e6dcc2e1c25644dfb4d3a2532760dae802f7b8563e",
+        "pretrend-logo-white.png": "907098c3452ca15c49dbb14fb0c079b2261bb3bd4685678b882c855aa4e94f2a",
+        "pretrend-logo.png": "faef71ffa049e48b1ac2a5dade16d13eeef141cb5997567ca8839b3d0561f6a0",
+        "pretrend-logomark-circle.png": "c75d8993bb1f4eb8cc8227a516893b951a9ae4be2f6ce7cefcb61b3a29eb77e8",
+        "pretrend-logomark-square.png": "be0db0a2e2210a8077befa14d46c9140ec0eca199e9329b3ff2f8f4f04741b7f",
+        "pretrend-logomark.png": "e163473c33db9a917989aa07b747362b57de1928f4426cb35bf49f2b09fc1c7e"
+      },
+      "crc_check": "pass",
+      "access_date": "2026-11-13"
+    },
+    {
+      "brand": "vtruscope",
+      "url": "https://www.vitruveo.ai/brands/vtruscope/vtruscope-brandkit.zip",
+      "status": 200,
+      "final_url": "https://www.vitruveo.ai/brands/vtruscope/vtruscope-brandkit.zip",
+      "bytes": 569278,
+      "public_zip_sha256": "96f045764ab433a728b7a0dbb516fca4c3e657f982e7a479f85cf1e0b58f0b88",
+      "uploaded_zip_sha256": "96f045764ab433a728b7a0dbb516fca4c3e657f982e7a479f85cf1e0b58f0b88",
+      "archive_bytes_identical": true,
+      "public_member_count": 14,
+      "uploaded_member_count": 14,
+      "member_names_identical": true,
+      "all_member_hashes_identical": true,
+      "member_hashes": {
+        "vtruscope-logo-bw.svg": "f67da89ae28465602b900bc7357685ea65e00ef36d13f7aefa6e058aa743a02a",
+        "vtruscope-logo-dark.svg": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211",
+        "vtruscope-logo-white.svg": "1ba560290c5dc3a78296b381b4fbf18743ab9be1e27019ac1cd5ef3814d5d591",
+        "vtruscope-logo.svg": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025",
+        "vtruscope-logomark-circle.svg": "ae5c65f31d3bf2fe6eb27b9fe7118f041c98ba1b9d8a63ba3c2a19215c76d7ee",
+        "vtruscope-logomark-square.svg": "b179f5ac44685d518cb02f9a7ba5ed495d67b7b8f3d94cf434619f0445de2012",
+        "vtruscope-logomark.svg": "ca259026c016ab89ccaaa5e16200a75c4b7a1b04d919fd262254fb8e77735ecf",
+        "vtruscope-logo-bw.png": "0a7e2bd38e90665b49ecb9666e315b98647978957b772932b84b37865bf35400",
+        "vtruscope-logo-dark.png": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "vtruscope-logo-white.png": "e945196de93e221b5594bd2801c3148204571e9c27bd0087ead2b92d46e348f8",
+        "vtruscope-logo.png": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "vtruscope-logomark-circle.png": "85176ed60d862abc135bd4bc121df372cc7030018f4f9009322e99da6934f9d9",
+        "vtruscope-logomark-square.png": "6c4540d2b18aa5c37e12e438a9eb26ca7c408b3ac412de9741c14c147e0db591",
+        "vtruscope-logomark.png": "66eb9d6643392f25e77a4af7c22f8014475d65eeec2ee1f59df1c3fb26e21d4b"
+      },
+      "crc_check": "pass",
+      "access_date": "2026-11-13"
+    },
+    {
+      "brand": "aiwars",
+      "url": "https://www.vitruveo.ai/brands/aiwars/aiwars-brandkit.zip",
+      "status": 200,
+      "final_url": "https://www.vitruveo.ai/brands/aiwars/aiwars-brandkit.zip",
+      "bytes": 335802,
+      "public_zip_sha256": "948f7b7234be79eecb83bd0fe3891aaee1cfc99f1c9b329f48b75d5f69d0a8a4",
+      "uploaded_zip_sha256": "948f7b7234be79eecb83bd0fe3891aaee1cfc99f1c9b329f48b75d5f69d0a8a4",
+      "archive_bytes_identical": true,
+      "public_member_count": 14,
+      "uploaded_member_count": 14,
+      "member_names_identical": true,
+      "all_member_hashes_identical": true,
+      "member_hashes": {
+        "aiwars-logo-bw.svg": "034ae4f758b3913b2896626dbd4503c3c4751a31f6e0b80302a9dc34a8645e5d",
+        "aiwars-logo-dark.svg": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b",
+        "aiwars-logo-white.svg": "40470dab89dcb4635b3fd213e7034ae7a3d625af6c684417f60d1f6754367f3c",
+        "aiwars-logo.svg": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3",
+        "aiwars-logomark-circle.svg": "28db609dbdd373e52d53ad5f0e7029177005be2d804c73ffbd5c7ca9595764bb",
+        "aiwars-logomark-square.svg": "daa9ccc88f45f1715be6aa53d3c3404bc37565e7ebe61c025be298047cb58c15",
+        "aiwars-logomark.svg": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3",
+        "aiwars-logo-bw.png": "6738609e143ba642096f2e9000f27cbbe5c3deec2725fb7b5ed659159505ade4",
+        "aiwars-logo-dark.png": "5c6911c007cdf12f6b00e49aea968b7a7e38da2075f2b888a26d1bcc4c5b5c25",
+        "aiwars-logo-white.png": "dc4e6926c5b61aaafcad5e4dfc41f50f025b6a632fdd191853565024ea526390",
+        "aiwars-logo.png": "a71e5e8328dac6c994cd8bf1e11c0260595170de812cc5b50a6a414a96d1f779",
+        "aiwars-logomark-circle.png": "5a6cf90663b7dbbf493d7bf3dfba1d6eb67ec2bc066bd598c197c051d5ed4cea",
+        "aiwars-logomark-square.png": "9479a7672811e75e73878d0c792208354cfa1c20208d4062105cfe7064d257fe",
+        "aiwars-logomark.png": "a604853eaca0177302a5611c6b45f20e024ad9ccf59105a2e29ae9d5ea89b824"
+      },
+      "crc_check": "pass",
+      "access_date": "2026-11-13"
+    },
+    {
+      "brand": "verticalfoundation",
+      "url": "https://www.vitruveo.ai/brands/verticalfoundation/verticalfoundation-brandkit.zip",
+      "status": 200,
+      "final_url": "https://www.vitruveo.ai/brands/verticalfoundation/verticalfoundation-brandkit.zip",
+      "bytes": 290615,
+      "public_zip_sha256": "72f0486eafcfe54f183694e5dc131bbb86854303e6793a928881bf586608608a",
+      "uploaded_zip_sha256": "72f0486eafcfe54f183694e5dc131bbb86854303e6793a928881bf586608608a",
+      "archive_bytes_identical": true,
+      "public_member_count": 14,
+      "uploaded_member_count": 14,
+      "member_names_identical": true,
+      "all_member_hashes_identical": true,
+      "member_hashes": {
+        "verticalfoundation-logo-bw.svg": "64fe33a8b0cbb72e45cbadb9c52dbf494519feac5c80518555b0ba0f494d53f2",
+        "verticalfoundation-logo-dark.svg": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a",
+        "verticalfoundation-logo-white.svg": "9635f5a017ef03504406c02f7c2ff2176fbbf57e65293b5a97a44dd3c0c1d239",
+        "verticalfoundation-logo.svg": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a",
+        "verticalfoundation-logomark-circle.svg": "4bb9cb06715281a3de50dbc99cb3a25b4d5f9632822e753f1ac22a314e2734b6",
+        "verticalfoundation-logomark-square.svg": "935176044f478144d205f54c6646b9876a6227f819af7ca8232ddbda1f650833",
+        "verticalfoundation-logomark.svg": "4251116ad8eea40c9195ca412f413134d11e1437bccaa4a9629cd1653675b5d7",
+        "verticalfoundation-logo-bw.png": "259afafe53db1055a0b37d4b0beee20e29791ede73ebf13c8fc80f46b0a90b02",
+        "verticalfoundation-logo-dark.png": "79011e2659b8e98e32a7ae7b998cbec3784eadd243fe7bec36f08b77728077f9",
+        "verticalfoundation-logo-white.png": "f28271585bf6e0fae8399345aece2a859b7c7ca886d424bbb377bb48e391500e",
+        "verticalfoundation-logo.png": "79011e2659b8e98e32a7ae7b998cbec3784eadd243fe7bec36f08b77728077f9",
+        "verticalfoundation-logomark-circle.png": "4d4a40e28a6caf2e80aefbc5ceba16ba83c41a8038cf48c9003daa215c1f80ed",
+        "verticalfoundation-logomark-square.png": "ee61d13d657e9d80e018209eac67ed3d92d1c53b0539a56c84a448d542dd6ad8",
+        "verticalfoundation-logomark.png": "9e2e0632d88908daeea1914e2017b28ffffa774d4f50070d09013288562821f0"
+      },
+      "crc_check": "pass",
+      "access_date": "2026-11-13"
+    }
+  ],
+  "pages_read": [
+    {
+      "url": "https://www.vitruveo.ai/",
+      "final_url": "https://www.vitruveo.ai/",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/developers",
+      "final_url": "https://www.vitruveo.ai/developers",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/developers/psc",
+      "final_url": "https://www.vitruveo.ai/developers#psc",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host-primer",
+      "final_url": "https://www.vitruveo.ai/host-primer",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host",
+      "final_url": "https://www.vitruveo.ai/host",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host/examples",
+      "final_url": "https://www.vitruveo.ai/host/examples",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host/scout",
+      "final_url": "https://www.vitruveo.ai/host/scout",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host/sheets",
+      "final_url": "https://www.vitruveo.ai/host/sheets",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/host/ntfy",
+      "final_url": "https://www.vitruveo.ai/host/ntfy",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/chat",
+      "final_url": "https://www.vitruveo.ai/chat",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/ecosystem",
+      "final_url": "https://www.vitruveo.ai/ecosystem",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/ecosystem/brands",
+      "final_url": "https://www.vitruveo.ai/ecosystem/brands",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/about",
+      "final_url": "https://www.vitruveo.ai/ecosystem",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/developers/psc/trend",
+      "final_url": "https://www.vitruveo.ai/developers/psc/trend",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/developers/psc/file-storage",
+      "final_url": "https://www.vitruveo.ai/developers/psc/file-storage",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://www.vitruveo.ai/developers/psc/content-credentials",
+      "final_url": "https://www.vitruveo.ai/developers/psc/content-credentials",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET with inherited proxy and TLS verification; HTML text and links reviewed"
+    },
+    {
+      "url": "https://snapshot.vitruveo.ai",
+      "final_url": "https://snapshot.vitruveo.ai",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET; HTML text and links reviewed"
+    },
+    {
+      "url": "https://network.vitruveo.ai",
+      "final_url": "https://network.vitruveo.ai",
+      "http_status": 200,
+      "access_date": "2026-11-13",
+      "method": "Live HTTPS GET; HTML text and links reviewed"
+    },
+    {
+      "url": "https://vitruveochain.medium.com/vitruveos-creator-vault-smart-contract-feature-dfb480dcb2be",
+      "access_date": "2026-11-13",
+      "published_date": "2024-04-29",
+      "method": "Web page read; historical account-authored article, not current product-status proof"
+    }
+  ],
+  "additional_observations": [
+    {
+      "url": "https://www.vitruveo.ai/robots.txt",
+      "http_status": 404,
+      "access_date": "2026-11-13"
+    },
+    {
+      "url": "https://www.vitruveo.ai/sitemap.xml",
+      "http_status": 404,
+      "access_date": "2026-11-13"
+    }
+  ]
+}

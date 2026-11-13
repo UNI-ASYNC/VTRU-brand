@@ -1,0 +1,2801 @@
+{
+  "status": "PASS",
+  "expected_designs": 79,
+  "checked_designs": 79,
+  "errors": [],
+  "warnings": [],
+  "checks": [
+    {
+      "file": "01-Ecosystem-Four-Brands/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 732518,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 484638,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 709439,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 679153,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 485326,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 1084712,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Master/reference-wide-master.svg",
+      "svg_dimensions": [
+        2400,
+        800
+      ],
+      "safe_area": [
+        160,
+        90,
+        2080,
+        580
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 1077376,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 787463,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 1091510,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 630095,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 1211939,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "01-Ecosystem-Four-Brands/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 548361,
+      "text_count": 3,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 733494,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 483809,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 708417,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 684050,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 490195,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 1089067,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Master/reference-wide-master.svg",
+      "svg_dimensions": [
+        2400,
+        800
+      ],
+      "safe_area": [
+        160,
+        90,
+        2080,
+        580
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 1073561,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 786936,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 1096914,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 629860,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 1215124,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        },
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        },
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        },
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        },
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 548618,
+      "text_count": 3,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973",
+        "role": "VTRU Scope logo only; exact supplied high-resolution PNG substituted for PNG export; SVG master retains exact supplied SVG"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 505533,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 291998,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 485434,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 464240,
+      "text_count": 2,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 322788,
+      "text_count": 2,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 791606,
+      "text_count": 2,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 525233,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 800161,
+      "text_count": 2,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 410777,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 934079,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "03-Vitruveo/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "vitruveo-logo-dark.svg",
+          "sha256": "cba4a78fc9c1e6801a7f644f9c0fb080837f98744b164ddc292493052dee0983"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 325337,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 494583,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 281014,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 472903,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 459445,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 318776,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 788588,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 505722,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 797839,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 396444,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 916067,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "04-Vertical-Foundation/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "verticalfoundation-logo-dark.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 312704,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 503269,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 291017,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 480417,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 467844,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 326726,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 796001,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 512968,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 804464,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 404168,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 923537,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "05-Pretrend/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "pretrend-logo-dark.svg",
+          "sha256": "0c826e82c31dceff81805bbab244675fa4b70790cc7367a207242a26ba62c2e6"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 323979,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 508662,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 294514,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 489634,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 467541,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 326827,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 794931,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 533034,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 803670,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 410749,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 940127,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "06-AI-Wars/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "aiwars-logo-dark.svg",
+          "sha256": "edef73e8e77b75152c20968a0dc80a01681cf369969e096f7a51b5d0188a5a1b"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 327966,
+      "text_count": 1,
+      "png_source_override": null,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.svg",
+      "svg_dimensions": [
+        1640,
+        720
+      ],
+      "safe_area": [
+        300,
+        100,
+        1060,
+        520
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 513349,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Facebook/facebook-feed-landscape.svg",
+      "svg_dimensions": [
+        1200,
+        630
+      ],
+      "safe_area": [
+        60,
+        50,
+        1080,
+        530
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 301871,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Facebook/facebook-page-cover.svg",
+      "svg_dimensions": [
+        1702,
+        630
+      ],
+      "safe_area": [
+        320,
+        80,
+        1140,
+        470
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 494820,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Instagram/instagram-feed-portrait.svg",
+      "svg_dimensions": [
+        1080,
+        1350
+      ],
+      "safe_area": [
+        75,
+        120,
+        930,
+        1110
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 472425,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Instagram/instagram-feed-square.svg",
+      "svg_dimensions": [
+        1080,
+        1080
+      ],
+      "safe_area": [
+        65,
+        65,
+        950,
+        950
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 329664,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Instagram/instagram-story-reel-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        90,
+        270,
+        850,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 798476,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/Rumble/rumble-channel-backsplash.svg",
+      "svg_dimensions": [
+        3600,
+        600
+      ],
+      "safe_area": [
+        850,
+        100,
+        2250,
+        400
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 538239,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/TikTok/tiktok-vertical-cover.svg",
+      "svg_dimensions": [
+        1080,
+        1920
+      ],
+      "safe_area": [
+        108,
+        270,
+        800,
+        1230
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/portrait.png"
+      ],
+      "png_bytes": 806854,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/X/x-profile-banner.svg",
+      "svg_dimensions": [
+        1500,
+        500
+      ],
+      "safe_area": [
+        380,
+        65,
+        1060,
+        360
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 418807,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/YouTube/youtube-channel-banner.svg",
+      "svg_dimensions": [
+        2560,
+        1440
+      ],
+      "safe_area": [
+        508,
+        509,
+        1544,
+        422
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 947619,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "file": "07-VTRU-Scope/YouTube/youtube-video-thumbnail.svg",
+      "svg_dimensions": [
+        1280,
+        720
+      ],
+      "safe_area": [
+        50,
+        50,
+        1180,
+        610
+      ],
+      "sources": [
+        {
+          "file": "vtruscope-logo-dark.svg",
+          "sha256": "10beda69b8476c723ac5ff8d1c316f843b9367b7fd48b0e6fd338323caf68211"
+        }
+      ],
+      "backgrounds": [
+        "00-Guide-and-Audit/Backgrounds/wide.png"
+      ],
+      "png_bytes": 334990,
+      "text_count": 1,
+      "png_source_override": {
+        "file": "vtruscope-logo-dark.png",
+        "sha256": "8080f10927830015be3c5d3bd2235c3b1d62d007e73ac3b7ccee871e2be00973"
+      },
+      "errors": [],
+      "warnings": []
+    }
+  ],
+  "limits": [
+    "Internal safe areas and file targets tested; platform accounts and live upload/cropping not tested."
+  ],
+  "summary": {
+    "svg_count": 79,
+    "png_design_count": 79,
+    "source_svg_logo_placements": 163,
+    "background_links_resolve": 79,
+    "scope_png_source_overrides_verified": 23,
+    "max_rumble_png_bytes": 787463,
+    "max_youtube_channel_png_bytes": 1215124
+  },
+  "visual_review": {
+    "status": "PASS",
+    "initial_representative_designs_reviewed": 39,
+    "youtube_exact_safe_crops_reviewed": 7,
+    "post_polish_affected_pngs_reviewed": 23,
+    "findings": "All intended source marks visible, source proportions intact, no text clipping or panel overlap observed. Updated Scope exports are clear and in the same layout positions.",
+    "review_sheets": [
+      "work/neon-ecosystem-visual-review.jpg",
+      "work/neon-youtube-safe-visual-review.jpg",
+      "work/neon-scope-postpolish-review.jpg"
+    ]
+  },
+  "post_polish_check": {
+    "status": "PASS",
+    "scope": "All23 Scope-containing PNG exports after supplied2400px sourcePNG substitution",
+    "metadata_hash_match": true,
+    "temporary_files_in_production": [],
+    "independent_pixel_comparison": [
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/X/x-profile-banner.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Master/reference-wide-master.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-page-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-feed-landscape.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/X/x-profile-banner.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/YouTube/youtube-channel-banner.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/YouTube/youtube-video-thumbnail.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/TikTok/tiktok-vertical-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-feed-square.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-feed-portrait.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-story-reel-cover.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      },
+      {
+        "file": "07-VTRU-Scope/Rumble/rumble-channel-backsplash.png",
+        "identical_to_independent_png_source_render": true,
+        "max_channel_difference": 0
+      }
+    ],
+    "reproduction_method": "For eachaffected SVG, substitute only exactoriginal PNGbytes at thesame imagecoordinates, resolve background hrefs toabsolute paths, and renderin unique collection+stem files under work/neon-postpolish-pixel-check. Normalizeboth PNGs toRGBA and compare everychannel. All23 outputs pixel-identical.",
+    "affected_export_hashes": [
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.png",
+        "sha256": "b7aea1adc4094c910e98e46d6dbcc89da33e70a2b9b6de94f20325865aa66976"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.png",
+        "sha256": "6595dbf92d103d5a6aa24f3fc78c3c575cc069c787f4395cbee0bda71380965f"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.png",
+        "sha256": "51834608567542de8dc2a16c9214e2f4d247d8aa3fa975c881347d50540f05e2"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.png",
+        "sha256": "591d4e60c8d83b238139a1f904d6a8128c6f840500ba2de014f6fd79e3a017dc"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.png",
+        "sha256": "a5fb3df1749de7b26b32fd295163bae592aa7fa9f5c9006f5ca2a10aad3a148c"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.png",
+        "sha256": "6b3f063bf6e705f3d6416669e1263327fdf960b74dbab541dafc1370ff0f4d94"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Master/reference-wide-master.png",
+        "sha256": "0b92c4a67609129aa700d952a638aae4d23862f8e5fccdffab601b8616678550"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.png",
+        "sha256": "58e1a172c87b14b628ba4d6ea74ff25c707e074e54e997581e515ee9d4adc474"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.png",
+        "sha256": "221a388f70dde316b0387590f86753920cdef2784e7ae3d8a8772f0c1b312341"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/X/x-profile-banner.png",
+        "sha256": "b8722f63dc169998938dfeaf9314c64fe870b8d59a7419323b30a04deece38b3"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.png",
+        "sha256": "0ac38df0276f3c1a88dc2966c5cf289aba2f4779e8653c7b1664a16158f72c09"
+      },
+      {
+        "file": "02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.png",
+        "sha256": "2fa786e6a7f9a7b3d10aa982e43748d1b5e845711a6f8c8bc1f284401501883d"
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.png",
+        "sha256": "077993bb3f610a367269bc0e6fdbea5b82957c034c5205e2765cb4e8e5ccfe86"
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-feed-landscape.png",
+        "sha256": "130b1e239509a74bc863f132402d94a822155a71740ac0b2f05ffb5c9645b8dd"
+      },
+      {
+        "file": "07-VTRU-Scope/Facebook/facebook-page-cover.png",
+        "sha256": "e628e8ebe8edd6541c450cb96dbad7f5b0168c87f85cd2e3dcae81752717125b"
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-feed-portrait.png",
+        "sha256": "b56755b14f82e9418757716401b3a1ead7a82e0c51cf90bce211a29f67297010"
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-feed-square.png",
+        "sha256": "13ce381bc58c142e22fd51f35ed8d038105c83d97a6c02e7cf9a4f092dbd0939"
+      },
+      {
+        "file": "07-VTRU-Scope/Instagram/instagram-story-reel-cover.png",
+        "sha256": "9ea232403550b3dd45b87fecbf2e2951fa9d0ba513fe3e491b573a0a90b7fdcb"
+      },
+      {
+        "file": "07-VTRU-Scope/Rumble/rumble-channel-backsplash.png",
+        "sha256": "a87cc2c46ff18a8fd84cdc09cdd4b0427ad8dab05e1d59f5f924f0d14bfee19c"
+      },
+      {
+        "file": "07-VTRU-Scope/TikTok/tiktok-vertical-cover.png",
+        "sha256": "909718856b9cc1e8c22061661eab4157d7e7c0af6489d144a92910e6c605e204"
+      },
+      {
+        "file": "07-VTRU-Scope/X/x-profile-banner.png",
+        "sha256": "aadacbe66ca83b1ab2a750c655ff5554ec475240faa51113e4a08b99b7130987"
+      },
+      {
+        "file": "07-VTRU-Scope/YouTube/youtube-channel-banner.png",
+        "sha256": "a78feb294814a7ecd07d7f53c3458f212052b993dceb78e0e8f4c422a6c3dfbf"
+      },
+      {
+        "file": "07-VTRU-Scope/YouTube/youtube-video-thumbnail.png",
+        "sha256": "bc043a9c61b9c6a501f3037e5584274a2a89b80f1938b8af15c1cdbae7464db4"
+      }
+    ]
+  }
+}

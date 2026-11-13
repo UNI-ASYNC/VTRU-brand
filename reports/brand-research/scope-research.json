@@ -1,0 +1,85 @@
+{
+  "brand": "VTRU Scope / Scope",
+  "checked_on": "2026-11-13",
+  "canonical_url": "https://scope.vitruveo.ai/",
+  "method": "Read-only rendered Chromium inspection and retained public page snapshots; no wallet connected and no transactions submitted.",
+  "relationships": [
+    {
+      "statement": "Foundation describes Scope as its first-party asset-management application.",
+      "source": "https://www.verticalfoundation.net/"
+    },
+    {
+      "statement": "Vitruveo ecosystem links Scope-hosted tools.",
+      "source": "https://www.vitruveo.ai/ecosystem"
+    }
+  ],
+  "positioning": {
+    "text": "The focal point for your Vitruveo assets",
+    "source": "https://scope.vitruveo.ai/"
+  },
+  "existing_resources": [
+    {
+      "url": "https://scope.vitruveo.ai/tokenomics",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/assets/multisig",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/staking/vtru",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/bridge/vtru",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/bridge/usdt",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/vns",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/assets/vibe",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/reflect",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/info/contracts",
+      "observed": "Public page/route exists; financial actions not tested."
+    },
+    {
+      "url": "https://scope.vitruveo.ai/info/about",
+      "observed": "Public page/route exists; financial actions not tested."
+    }
+  ],
+  "existing_about": "https://scope.vitruveo.ai/info/about includes About text and version history through v0.8.9; it was not linked in the inspected Info menu.",
+  "icons": {
+    "url": "https://scope.vitruveo.ai/favicon.ico",
+    "exists": true,
+    "note": "ICO with16/32/48px white Vitruveo symbol; bytes identical to Vitruveo site favicon. It is not a missing favicon."
+  },
+  "metadata": "Client-rendered title and description both VTRU Scope by Vitruveo; no OG/Twitter/icon/manifest head links observed after rendering.",
+  "improve": [
+    "Decide whether shared Vitruveo favicon or distinct supplied Scope mark is intended.",
+    "Improve link-preview metadata.",
+    "Make existing About/release notes discoverable.",
+    "Review general FAQ route: observed heading without FAQ content.",
+    "Foundation Open VIBE link /vibe returned404; public app uses /assets/vibe."
+  ],
+  "needs_confirmation": [
+    "Editorial Scope vs VTRU Scope naming",
+    "Public support/contact and documentation destinations",
+    "Current user-facing feature readiness before new promotional claims"
+  ],
+  "limits": [
+    "Public navigation and page structure are observations, not verification of wallet actions or financial outcomes.",
+    "No inference that private help, email or other internal systems are absent."
+  ]
+}

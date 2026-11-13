@@ -1,0 +1,498 @@
+{
+  "checked_on": "2026-11-13",
+  "method": "Read live HTML declarations, fetched declared icon/manifest/share resources and conventional favicon/apple-touch fallback paths; 200 HTML responses are not counted as images. No site changes or wallet actions.",
+  "sites": [
+    {
+      "status": 200,
+      "url": "https://www.vitruveo.ai/",
+      "content_type": "text/html; charset=utf-8",
+      "brand": "vitruveo",
+      "requested_url": "https://www.vitruveo.ai/",
+      "title": "Vitruveo - Webhooks for Web3 - Vitruveo",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+        "description": "Smart contracts have always been silent. Vitruveo gives them a voice. The first EVM chain where contracts speak HTTP.",
+        "og:title": "Webhooks for Web3",
+        "og:description": "Smart contracts have always been silent. Vitruveo gives them a voice. The first EVM chain where contracts speak HTTP\u2014no indexers, no polling, no middleware.",
+        "og:site_name": "Vitruveo",
+        "og:image": "https://www.vitruveo.ai/images/preview.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "og:image:alt": "Vitruveo - Webhooks for Web3",
+        "og:type": "website",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Webhooks for Web3",
+        "twitter:description": "Smart contracts have always been silent. Vitruveo gives them a voice. The first EVM chain where contracts speak HTTP.",
+        "twitter:image": "https://www.vitruveo.ai/images/preview.png"
+      },
+      "assets": [
+        {
+          "status": 200,
+          "url": "https://www.vitruveo.ai/favicon.ico",
+          "content_type": "image/vnd.microsoft.icon",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "icon",
+            "href": "/favicon.ico"
+          },
+          "bytes": 15406,
+          "sha256": "d1cadba70114c188e36a5cd0c1caa780606d56380f06edfab4881b12907f38fc",
+          "valid_image": true,
+          "format": "ICO",
+          "width": 48,
+          "height": 48,
+          "ico_sizes": [
+            [
+              16,
+              16
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              48,
+              48
+            ]
+          ]
+        },
+        {
+          "status": 404,
+          "url": "https://www.vitruveo.ai/apple-touch-icon.png",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "6a800addc1fbe0d75faad24a586b13633a9035b2c65ebbae0512a10eb4891364"
+        },
+        {
+          "status": 200,
+          "url": "https://www.vitruveo.ai/images/preview.png",
+          "content_type": "image/png",
+          "kind": "og-image",
+          "declared": null,
+          "bytes": 875552,
+          "sha256": "8e332f11b1b674f741add78622d82d79af7eb8b7d94574a4a37158069363d14f",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "status": 200,
+          "url": "https://www.vitruveo.ai/images/preview.png",
+          "content_type": "image/png",
+          "kind": "twitter-image",
+          "declared": null,
+          "bytes": 875552,
+          "sha256": "8e332f11b1b674f741add78622d82d79af7eb8b7d94574a4a37158069363d14f",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 1200,
+          "height": 630
+        }
+      ],
+      "manifests": [],
+      "logo_images": [
+        {
+          "alt": "Vitruveo",
+          "url": "https://www.vitruveo.ai/images/vitruveo-logo-horizontal.svg"
+        },
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.vitruveo.ai/images/vertical-foundation-logo.png"
+        }
+      ]
+    },
+    {
+      "status": 200,
+      "url": "https://www.verticalfoundation.net/",
+      "content_type": "text/html; charset=utf-8",
+      "brand": "foundation",
+      "requested_url": "https://www.verticalfoundation.net/",
+      "title": "Vertical Foundation | Vitruveo Blockchain Governance",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "description": "Vertical Foundation governs and funds the Vitruveo blockchain \u2014 an EVM-compatible L1 built for the AI era \u2014 across six pillars: VTRU, Pretrend, VIBE, Scope, Protocol, and Validators.",
+        "keywords": "Vertical Foundation,Vitruveo,governance,blockchain,L1,EVM,VTRU,Pretrend,VIBE,HOST protocol,Scope,Validators,AI",
+        "og:title": "Vertical Foundation | Vitruveo Blockchain Governance",
+        "og:description": "The foundation governing and funding the Vitruveo blockchain and the projects built on it, from Pretrend prediction markets to bridges, naming, and community revenue.",
+        "og:site_name": "Vertical Foundation",
+        "og:locale": "en_US",
+        "og:image": "https://www.verticalfoundation.net/og.png",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "og:image:alt": "Vertical Foundation: governing and funding the Vitruveo blockchain",
+        "og:type": "website",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "Vertical Foundation | Vitruveo Blockchain Governance",
+        "twitter:description": "The foundation governing and funding the Vitruveo blockchain and the projects built on it, from Pretrend prediction markets to bridges, naming, and community revenue.",
+        "twitter:image": "https://www.verticalfoundation.net/og.png"
+      },
+      "assets": [
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/favicon.ico?favicon.03a32bc6.ico",
+          "content_type": "image/vnd.microsoft.icon",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "icon",
+            "href": "/favicon.ico?favicon.03a32bc6.ico",
+            "sizes": "48x48",
+            "type": "image/x-icon"
+          },
+          "bytes": 4804,
+          "sha256": "276c7b5591384a66e7fddc21a57821fc2db77b20a8dccdeca0ecedf5fe4918bc",
+          "valid_image": true,
+          "format": "ICO",
+          "width": 48,
+          "height": 48,
+          "ico_sizes": [
+            [
+              16,
+              16
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              48,
+              48
+            ]
+          ]
+        },
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/icon.png?icon.cb8386b0.png",
+          "content_type": "image/png",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "icon",
+            "href": "/icon.png?icon.cb8386b0.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          },
+          "bytes": 76403,
+          "sha256": "701836bf7ac410a7e59515fb66de6843b5ae7c56b064fbc16e5bed4b72b074e8",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 512,
+          "height": 512
+        },
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/apple-icon.png?apple-icon.0ee909af.png",
+          "content_type": "image/png",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "apple-touch-icon",
+            "href": "/apple-icon.png?apple-icon.0ee909af.png",
+            "sizes": "180x180",
+            "type": "image/png"
+          },
+          "bytes": 13552,
+          "sha256": "d7ceb064eea4ff2d6385f0ebcd52426b809c4ced3c1a2c2f6d4e8341c3aa67da",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 180,
+          "height": 180
+        },
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/favicon.ico",
+          "content_type": "image/vnd.microsoft.icon",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 4804,
+          "sha256": "276c7b5591384a66e7fddc21a57821fc2db77b20a8dccdeca0ecedf5fe4918bc",
+          "valid_image": true,
+          "format": "ICO",
+          "width": 48,
+          "height": 48,
+          "ico_sizes": [
+            [
+              16,
+              16
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              48,
+              48
+            ]
+          ]
+        },
+        {
+          "status": 404,
+          "url": "https://www.verticalfoundation.net/apple-touch-icon.png",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "f9b0bb11cd1237d83b3addf7afe11b9c65dd6da60fca13bfc14f21b6f90a7f37"
+        },
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/og.png",
+          "content_type": "image/png",
+          "kind": "og-image",
+          "declared": null,
+          "bytes": 170178,
+          "sha256": "6f1f8d3e90da1091a69079a520cfee401e52671bf88d19cc05293d98a62056ca",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "status": 200,
+          "url": "https://www.verticalfoundation.net/og.png",
+          "content_type": "image/png",
+          "kind": "twitter-image",
+          "declared": null,
+          "bytes": 170178,
+          "sha256": "6f1f8d3e90da1091a69079a520cfee401e52671bf88d19cc05293d98a62056ca",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 1200,
+          "height": 630
+        }
+      ],
+      "manifests": [],
+      "logo_images": [
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.verticalfoundation.net/assets/vertical-foundation-logo.png?dpl=dpl_2zYTNnphycNjMQUvt8YvR9UGneEY"
+        },
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.verticalfoundation.net/assets/vertical-foundation-logo.png?dpl=dpl_2zYTNnphycNjMQUvt8YvR9UGneEY"
+        },
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.verticalfoundation.net/assets/vertical-foundation-logo.png?dpl=dpl_2zYTNnphycNjMQUvt8YvR9UGneEY"
+        }
+      ]
+    },
+    {
+      "status": 503,
+      "url": "https://www.verticalfnd.com/",
+      "content_type": "text/plain",
+      "brand": "foundation-alias",
+      "requested_url": "https://www.verticalfnd.com/"
+    },
+    {
+      "status": 200,
+      "url": "https://www.pretrend.ai/",
+      "content_type": "text/html; charset=utf-8",
+      "brand": "pretrend",
+      "requested_url": "https://www.pretrend.ai/",
+      "title": "Trends | Pretrend",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "description": "Pretrend markets, live: pump.fun buy volume in 5-minute markets, Bitcoin in 15-minute markets, Ethereum in 30-minute markets, each resolved on the OLS trend of its window.",
+        "keywords": "Pretrend,prediction markets,oracle,trend,OLS regression,Vitruveo,blockchain,EVM,Timeslope,Vertical Foundation",
+        "og:title": "Pretrend Protocol | Continuous Trend Resolution for Prediction Markets",
+        "og:description": "Prediction markets that resolve on magnitude and direction \u2014 five graded outcome buckets, priced dime-to-dollar on a Timeslope, resolved by on-chain statistics.",
+        "og:type": "website",
+        "twitter:card": "summary",
+        "twitter:title": "Pretrend Protocol | Continuous Trend Resolution for Prediction Markets",
+        "twitter:description": "Prediction markets that resolve on magnitude and direction \u2014 five graded outcome buckets, priced dime-to-dollar on a Timeslope, resolved by on-chain statistics."
+      },
+      "assets": [
+        {
+          "status": 200,
+          "url": "https://www.pretrend.ai/assets/pretrend-logomark.png",
+          "content_type": "image/png",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "icon",
+            "href": "/assets/pretrend-logomark.png"
+          },
+          "bytes": 79043,
+          "sha256": "6bf83d626462a3ac9f178150c10f898964d16136407f36dc13fe446ad676e3f2",
+          "valid_image": true,
+          "format": "PNG",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "status": 404,
+          "url": "https://www.pretrend.ai/favicon.ico",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "0c5be696292fec6ae61fe670744ccf33ec5d7538c87f8c2de0f3eeefbb322f2b"
+        },
+        {
+          "status": 404,
+          "url": "https://www.pretrend.ai/apple-touch-icon.png",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "0c5be696292fec6ae61fe670744ccf33ec5d7538c87f8c2de0f3eeefbb322f2b"
+        }
+      ],
+      "manifests": [],
+      "logo_images": [
+        {
+          "alt": "Pretrend",
+          "url": "https://www.pretrend.ai/assets/pretrend-logomark.png"
+        },
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.pretrend.ai/assets/vertical-foundation-logo.png?dpl=dpl_64tgaTNm9W7tqTiycfCpXEGECmzR"
+        }
+      ]
+    },
+    {
+      "status": 200,
+      "url": "https://www.epicaiwars.com/",
+      "content_type": "text/html; charset=utf-8",
+      "brand": "aiwars",
+      "requested_url": "https://www.epicaiwars.com/",
+      "title": "AI Wars \u2014 The Fall of Meridian",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1",
+        "description": "A persistent science-fiction universe about agency, intelligence, memory and war. Shard public mint \u2014 5,000 NFTs, five tiers, four activations. A Vertical Foundation project.",
+        "og:title": "AI Wars \u2014 The Fall of Meridian",
+        "og:description": "Humanity's greatest city. Its most dangerous secret. Shard public mint \u2014 a Vertical Foundation project.",
+        "og:image": "https://www.epicaiwars.com/og.jpg",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "twitter:card": "summary_large_image",
+        "twitter:title": "AI Wars \u2014 The Fall of Meridian",
+        "twitter:description": "Humanity's greatest city. Its most dangerous secret. Shard public mint \u2014 a Vertical Foundation project.",
+        "twitter:image": "https://www.epicaiwars.com/og.jpg"
+      },
+      "assets": [
+        {
+          "status": 200,
+          "url": "https://www.epicaiwars.com/icon.svg?4b3240cfcfbe47d7",
+          "content_type": "image/svg+xml",
+          "kind": "declared-icon",
+          "declared": {
+            "rel": "icon",
+            "href": "/icon.svg?4b3240cfcfbe47d7",
+            "type": "image/svg+xml",
+            "sizes": "any"
+          },
+          "bytes": 380,
+          "sha256": "b1a8882c516e683518bd9ccd700677fc833d6d8b37e9a04ab5475face11dba62",
+          "valid_image": true,
+          "format": "SVG",
+          "viewBox": "0 0 64 64",
+          "width_attr": null,
+          "height_attr": null
+        },
+        {
+          "status": 404,
+          "url": "https://www.epicaiwars.com/favicon.ico",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "bc08857a5ad1722782899670c8454472c7f28de23ee21f50a30a4ecab5a4ae9b"
+        },
+        {
+          "status": 404,
+          "url": "https://www.epicaiwars.com/apple-touch-icon.png",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "bc08857a5ad1722782899670c8454472c7f28de23ee21f50a30a4ecab5a4ae9b"
+        },
+        {
+          "status": 200,
+          "url": "https://www.epicaiwars.com/og.jpg",
+          "content_type": "image/jpeg",
+          "kind": "og-image",
+          "declared": null,
+          "bytes": 175553,
+          "sha256": "e580afe85b502ac73b9bd745ec73a8a46f8b16e83c0f72fea3074190b693eea4",
+          "valid_image": true,
+          "format": "JPEG",
+          "width": 1200,
+          "height": 630
+        },
+        {
+          "status": 200,
+          "url": "https://www.epicaiwars.com/og.jpg",
+          "content_type": "image/jpeg",
+          "kind": "twitter-image",
+          "declared": null,
+          "bytes": 175553,
+          "sha256": "e580afe85b502ac73b9bd745ec73a8a46f8b16e83c0f72fea3074190b693eea4",
+          "valid_image": true,
+          "format": "JPEG",
+          "width": 1200,
+          "height": 630
+        }
+      ],
+      "manifests": [],
+      "logo_images": [
+        {
+          "alt": "Vertical Foundation",
+          "url": "https://www.epicaiwars.com/_next/image?url=%2Fvertical-foundation-logo.png&w=256&q=75"
+        }
+      ]
+    },
+    {
+      "status": 200,
+      "url": "https://scope.vitruveo.ai/",
+      "content_type": "text/html; charset=utf-8",
+      "brand": "scope",
+      "requested_url": "https://scope.vitruveo.ai/",
+      "title": "",
+      "meta": {
+        "viewport": "width=device-width, initial-scale=1"
+      },
+      "assets": [
+        {
+          "status": 200,
+          "url": "https://scope.vitruveo.ai/favicon.ico",
+          "content_type": "image/vnd.microsoft.icon",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 15406,
+          "sha256": "d1cadba70114c188e36a5cd0c1caa780606d56380f06edfab4881b12907f38fc",
+          "valid_image": true,
+          "format": "ICO",
+          "width": 48,
+          "height": 48,
+          "ico_sizes": [
+            [
+              16,
+              16
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              48,
+              48
+            ]
+          ]
+        },
+        {
+          "status": 404,
+          "url": "https://scope.vitruveo.ai/apple-touch-icon.png",
+          "content_type": "text/html; charset=utf-8",
+          "kind": "fallback-icon",
+          "declared": null,
+          "bytes": 10000,
+          "sha256": "60907e84d7c6ea90a759156810fe8f6c62e9bdb93b5bf212d53dfbc545347887"
+        }
+      ],
+      "manifests": [],
+      "logo_images": []
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+file,collection,platform,surface,width,height,type,bytes,sha256
+01-Ecosystem-Four-Brands/Facebook/facebook-page-cover.svg,01-Ecosystem-Four-Brands,Facebook,Page cover,1702,630,svg,93034,04093e28cbab0c840ff3fadd5558a5985c9382ff70a0aefe91ad4cdca857bfb7
+01-Ecosystem-Four-Brands/Facebook/facebook-page-cover.png,01-Ecosystem-Four-Brands,Facebook,Page cover,1702,630,png,709439,78d83d33dca6d1a5a413b24440b295e9ce52ab9bdd2ba33f58a3f037ae11f69d
+01-Ecosystem-Four-Brands/Facebook/facebook-cover-mobile-friendly.svg,01-Ecosystem-Four-Brands,Facebook,Alternate Page cover,1640,720,svg,93019,81bad52021a1f873156d6b57df512abf43a21f3998abb4f10b2caa7912340618
+01-Ecosystem-Four-Brands/Facebook/facebook-cover-mobile-friendly.png,01-Ecosystem-Four-Brands,Facebook,Alternate Page cover,1640,720,png,732518,8d1a2f6fff9a715781a21bf275906b22314e9aad7130c06840e93736581eef0a
+01-Ecosystem-Four-Brands/Facebook/facebook-feed-landscape.svg,01-Ecosystem-Four-Brands,Facebook,Feed landscape,1200,630,svg,93020,c40284377204c58ad3b7830ae0af2b2eec68828764b8d41800315252b9b56765
+01-Ecosystem-Four-Brands/Facebook/facebook-feed-landscape.png,01-Ecosystem-Four-Brands,Facebook,Feed landscape,1200,630,png,484638,4073ef944a51f79c85a02081751e5ffb88cdd57df20f56a08e6a279455f16cb3
+01-Ecosystem-Four-Brands/X/x-profile-banner.svg,01-Ecosystem-Four-Brands,X,Profile header,1500,500,svg,93033,5c1de839b555ba3467b070f915e1627e0c4d96de76afd1ec8918f0283157e4b1
+01-Ecosystem-Four-Brands/X/x-profile-banner.png,01-Ecosystem-Four-Brands,X,Profile header,1500,500,png,630095,bbb328ceea73acf62e1f4cbfef4b24b7f1de5d571728b6bc2885d7b1f99382e3
+01-Ecosystem-Four-Brands/YouTube/youtube-channel-banner.svg,01-Ecosystem-Four-Brands,YouTube,Channel banner,2560,1440,svg,93104,6704417b78bb4d2a6bc2db204b3918e5aaa7a620169c560eb18123647045a501
+01-Ecosystem-Four-Brands/YouTube/youtube-channel-banner.png,01-Ecosystem-Four-Brands,YouTube,Channel banner,2560,1440,png,1211939,fd63c43edc842f26334d84122f2824847e4fd3c081ede122b7e085be474b4f0e
+01-Ecosystem-Four-Brands/YouTube/youtube-video-thumbnail.svg,01-Ecosystem-Four-Brands,YouTube,Video thumbnail,1280,720,svg,92984,7af4629eb20d6727d9799fda62c8fae74b284d6c3638bfcb6722e8e60ab66d9f
+01-Ecosystem-Four-Brands/YouTube/youtube-video-thumbnail.png,01-Ecosystem-Four-Brands,YouTube,Video thumbnail,1280,720,png,548361,a73a66c6dffbcc6cf33f774104021b80cf137ff09b8ed6f5cf78b3af0c697ec7
+01-Ecosystem-Four-Brands/TikTok/tiktok-vertical-cover.svg,01-Ecosystem-Four-Brands,TikTok,Vertical content cover,1080,1920,svg,93072,66ac662178076878e9783af42fd3fbf008a2a9085474004d15b6603900cefd59
+01-Ecosystem-Four-Brands/TikTok/tiktok-vertical-cover.png,01-Ecosystem-Four-Brands,TikTok,Vertical content cover,1080,1920,png,1091510,2b0f6675dfbdbdf3d155d51d57e56e3e207d0283fc5c581e3715932153d6a17f
+01-Ecosystem-Four-Brands/Instagram/instagram-feed-square.svg,01-Ecosystem-Four-Brands,Instagram,Square feed post,1080,1080,svg,92960,e30588b342dd21dd9c1275286372da3142835f75469abb4293306ef0adef136f
+01-Ecosystem-Four-Brands/Instagram/instagram-feed-square.png,01-Ecosystem-Four-Brands,Instagram,Square feed post,1080,1080,png,485326,93e196f08f160875e2481e7065c1a8f88b9f7daff7b4ea07dcc5f9bb8c73af45
+01-Ecosystem-Four-Brands/Instagram/instagram-feed-portrait.svg,01-Ecosystem-Four-Brands,Instagram,Portrait feed post,1080,1350,svg,93078,bbcaf697b6537715492ed29eabb5c9e570dca012b83dd1c244411fcb0dbf3bec
+01-Ecosystem-Four-Brands/Instagram/instagram-feed-portrait.png,01-Ecosystem-Four-Brands,Instagram,Portrait feed post,1080,1350,png,679153,a1d999cce32ac6829f954a694625532cf075d42af732b0c3f2d134bf8459cbbc
+01-Ecosystem-Four-Brands/Instagram/instagram-story-reel-cover.svg,01-Ecosystem-Four-Brands,Instagram,Story / Reel cover,1080,1920,svg,93028,b55ed35bda2384fffe237388f3c692c79be83fb1e6737c20da0adf4f46d773f2
+01-Ecosystem-Four-Brands/Instagram/instagram-story-reel-cover.png,01-Ecosystem-Four-Brands,Instagram,Story / Reel cover,1080,1920,png,1084712,f39bfec751125abafce2a5b79296d5df6e4648d729b990a3758245efa3e12bf2
+01-Ecosystem-Four-Brands/Rumble/rumble-channel-backsplash.svg,01-Ecosystem-Four-Brands,Rumble,Channel backsplash,3600,600,svg,92734,91ba97928609ede95df4099af7fc471375d37c7840ba9104edcb88300593d0e5
+01-Ecosystem-Four-Brands/Rumble/rumble-channel-backsplash.png,01-Ecosystem-Four-Brands,Rumble,Channel backsplash,3600,600,png,787463,c1efa62bfdf7fe2a8f9ab212b65f099943490fb29c5348906b8619a58a067e7e
+01-Ecosystem-Four-Brands/Master/reference-wide-master.svg,01-Ecosystem-Four-Brands,Master,Wide reference composition,2400,800,svg,93029,26e0a7437bc3b04c6145672a04824a2e43050770f36464cd17e916aeff878c13
+01-Ecosystem-Four-Brands/Master/reference-wide-master.png,01-Ecosystem-Four-Brands,Master,Wide reference composition,2400,800,png,1077376,7ac17e43d12a8b5c85a9de20ef84647f3165da148e6b4ddbb55aa94219d360bc
+02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.svg,02-Ecosystem-Five-Brands,Facebook,Page cover,1702,630,svg,101504,2b9db57b55c009d5f217ad5624c931c6a3c57ef298065d641c58ef688506a935
+02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.png,02-Ecosystem-Five-Brands,Facebook,Page cover,1702,630,png,708417,51834608567542de8dc2a16c9214e2f4d247d8aa3fa975c881347d50540f05e2
+02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.svg,02-Ecosystem-Five-Brands,Facebook,Alternate Page cover,1640,720,svg,101498,7aaf91f7b6e7d6482f03b648fd262d8317f8c84f12e466f61c2d6e8517121b6b
+02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.png,02-Ecosystem-Five-Brands,Facebook,Alternate Page cover,1640,720,png,733494,b7aea1adc4094c910e98e46d6dbcc89da33e70a2b9b6de94f20325865aa66976
+02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.svg,02-Ecosystem-Five-Brands,Facebook,Feed landscape,1200,630,svg,101484,a22d844e0a0779c17329c8f69ebbeb42adbd01296c59016ef9255af062501d01
+02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.png,02-Ecosystem-Five-Brands,Facebook,Feed landscape,1200,630,png,483809,6595dbf92d103d5a6aa24f3fc78c3c575cc069c787f4395cbee0bda71380965f
+02-Ecosystem-Five-Brands/X/x-profile-banner.svg,02-Ecosystem-Five-Brands,X,Profile header,1500,500,svg,101487,daf7f7e14d21182c75b8d3394ea2da368a63236772c8a964aa02cd9935896499
+02-Ecosystem-Five-Brands/X/x-profile-banner.png,02-Ecosystem-Five-Brands,X,Profile header,1500,500,png,629860,b8722f63dc169998938dfeaf9314c64fe870b8d59a7419323b30a04deece38b3
+02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.svg,02-Ecosystem-Five-Brands,YouTube,Channel banner,2560,1440,svg,101597,f3fc0c653129cca0985bdca5d9da92b914b28799309473216d7dec4c133884a2
+02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.png,02-Ecosystem-Five-Brands,YouTube,Channel banner,2560,1440,png,1215124,0ac38df0276f3c1a88dc2966c5cf289aba2f4779e8653c7b1664a16158f72c09
+02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.svg,02-Ecosystem-Five-Brands,YouTube,Video thumbnail,1280,720,svg,101500,554b1feb6d8a33f8f1ef0b5632efb26af32872ca34ad8abaf499ac83d6625d16
+02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.png,02-Ecosystem-Five-Brands,YouTube,Video thumbnail,1280,720,png,548618,2fa786e6a7f9a7b3d10aa982e43748d1b5e845711a6f8c8bc1f284401501883d
+02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.svg,02-Ecosystem-Five-Brands,TikTok,Vertical content cover,1080,1920,svg,101522,343d89f6a3d5454530217de0139dd3e4bd29c6725c63ce4042378174aa13e881
+02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.png,02-Ecosystem-Five-Brands,TikTok,Vertical content cover,1080,1920,png,1096914,221a388f70dde316b0387590f86753920cdef2784e7ae3d8a8772f0c1b312341
+02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.svg,02-Ecosystem-Five-Brands,Instagram,Square feed post,1080,1080,svg,101360,bd678a857da68b2172026a5ec61d51c4ddce1b4356ca41ace670670f939e9ee0
+02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.png,02-Ecosystem-Five-Brands,Instagram,Square feed post,1080,1080,png,490195,a5fb3df1749de7b26b32fd295163bae592aa7fa9f5c9006f5ca2a10aad3a148c
+02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.svg,02-Ecosystem-Five-Brands,Instagram,Portrait feed post,1080,1350,svg,101535,c477f6495d5804be93bd43bc0eaa422dfc230d7a9d726b023bdd3f791bc1404d
+02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.png,02-Ecosystem-Five-Brands,Instagram,Portrait feed post,1080,1350,png,684050,591d4e60c8d83b238139a1f904d6a8128c6f840500ba2de014f6fd79e3a017dc
+02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.svg,02-Ecosystem-Five-Brands,Instagram,Story / Reel cover,1080,1920,svg,101478,c68b56d84c2bfc4a54485f19f72f123307f0dd77d2c33f6baee9e299079faff4
+02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.png,02-Ecosystem-Five-Brands,Instagram,Story / Reel cover,1080,1920,png,1089067,6b3f063bf6e705f3d6416669e1263327fdf960b74dbab541dafc1370ff0f4d94
+02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.svg,02-Ecosystem-Five-Brands,Rumble,Channel backsplash,3600,600,svg,101238,6d9247bed6858cdfbfda1538218630f91c8fb14694b2c0ea73d379556c70dc62
+02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.png,02-Ecosystem-Five-Brands,Rumble,Channel backsplash,3600,600,png,786936,58e1a172c87b14b628ba4d6ea74ff25c707e074e54e997581e515ee9d4adc474
+02-Ecosystem-Five-Brands/Master/reference-wide-master.svg,02-Ecosystem-Five-Brands,Master,Wide reference composition,2400,800,svg,101474,79b0b389e0d8d407cd90b73156f38b13b9915fdbdcabcfec00c896635f908f50
+02-Ecosystem-Five-Brands/Master/reference-wide-master.png,02-Ecosystem-Five-Brands,Master,Wide reference composition,2400,800,png,1073561,0b92c4a67609129aa700d952a638aae4d23862f8e5fccdffab601b8616678550
+03-Vitruveo/Facebook/facebook-page-cover.svg,03-Vitruveo,Facebook,Page cover,1702,630,svg,9284,5f208fb3d32c6322fb0c0fa8b7a3d4fb747e92bc6cf4b44ce154db43ffec46d6
+03-Vitruveo/Facebook/facebook-page-cover.png,03-Vitruveo,Facebook,Page cover,1702,630,png,485434,0a23bca5703c4e67a51352f18409e3385e02712e9e21fa5d5011584a4f77e790
+03-Vitruveo/Facebook/facebook-cover-mobile-friendly.svg,03-Vitruveo,Facebook,Alternate Page cover,1640,720,svg,9311,fa6c03e4906e8d1b1f371b53b25d54db3623291a377d79efafd2329d1b77ad09
+03-Vitruveo/Facebook/facebook-cover-mobile-friendly.png,03-Vitruveo,Facebook,Alternate Page cover,1640,720,png,505533,efa7f2b67a7b0c6cd8267d806072818246a089df79de4ae69bfaa505d415c024
+03-Vitruveo/Facebook/facebook-feed-landscape.svg,03-Vitruveo,Facebook,Feed landscape,1200,630,svg,9254,9697ad09d12787fe5d9cdbb80a7e0e2d8a0a81f04e2a559cd027d6651dac57d4
+03-Vitruveo/Facebook/facebook-feed-landscape.png,03-Vitruveo,Facebook,Feed landscape,1200,630,png,291998,b64d02f7da75fdbe710f04298d5181123813988f5f7ec7eb048abacbbeada922
+03-Vitruveo/X/x-profile-banner.svg,03-Vitruveo,X,Profile header,1500,500,svg,9288,2e4482a06c4d3675b28d285d9eb27729ca56a87670f4cd6b1d4ed7e09f2acc1c
+03-Vitruveo/X/x-profile-banner.png,03-Vitruveo,X,Profile header,1500,500,png,410777,7f9d370f777eaa5dbbf482b17c985c4f6a93d38fd40cca53416fd2a5ef27d301
+03-Vitruveo/YouTube/youtube-channel-banner.svg,03-Vitruveo,YouTube,Channel banner,2560,1440,svg,9334,3cca340213018838557b15452d38626e7bdb07ff0aa8a5d68d688d50a6ff4b4d
+03-Vitruveo/YouTube/youtube-channel-banner.png,03-Vitruveo,YouTube,Channel banner,2560,1440,png,934079,ab35d6823a9036658c5ad792fa321e043e3e5560474f3d32ede158098b6a6e51
+03-Vitruveo/YouTube/youtube-video-thumbnail.svg,03-Vitruveo,YouTube,Video thumbnail,1280,720,svg,9236,da23e6ee5a65d3e7ed2b7d7874ecb3c451d360f749dddba2922ab8b1fabc24f6
+03-Vitruveo/YouTube/youtube-video-thumbnail.png,03-Vitruveo,YouTube,Video thumbnail,1280,720,png,325337,68a33d49d826667b2d940a6037cf2320851170cdea9dd4b3bc2972ff7951cbf5
+03-Vitruveo/TikTok/tiktok-vertical-cover.svg,03-Vitruveo,TikTok,Vertical content cover,1080,1920,svg,9421,1d736219313a9dd2567c52ae0b4277ef4d197a6ed7c95590928084a1324e16c7
+03-Vitruveo/TikTok/tiktok-vertical-cover.png,03-Vitruveo,TikTok,Vertical content cover,1080,1920,png,800161,572146bcdf2c9180990812b83761ce6689376797873e0c5385cb9eef576abab6
+03-Vitruveo/Instagram/instagram-feed-square.svg,03-Vitruveo,Instagram,Square feed post,1080,1080,svg,9401,48d61aa4419eac7db3079a54d691fa3d2957be947d1205d541e0e6973f95700a
+03-Vitruveo/Instagram/instagram-feed-square.png,03-Vitruveo,Instagram,Square feed post,1080,1080,png,322788,633d3c37ff23575e0ed2cbefe9b1c637551938f0c4104916ab12e6c9bb0bb81a
+03-Vitruveo/Instagram/instagram-feed-portrait.svg,03-Vitruveo,Instagram,Portrait feed post,1080,1350,svg,9463,959fce885a9af55264cd59aa39892c4141fd6a7e89809a22b0ca0942088eb672
+03-Vitruveo/Instagram/instagram-feed-portrait.png,03-Vitruveo,Instagram,Portrait feed post,1080,1350,png,464240,b15a7e68331bea3ce417ca2dc8fc85ad69fd85ea3b9e42b19fa0b2b58eb77eaf
+03-Vitruveo/Instagram/instagram-story-reel-cover.svg,03-Vitruveo,Instagram,Story / Reel cover,1080,1920,svg,9432,7c3cecf2bbb911d8d49e859b23b8a51ddcca215950c84aaf25153c8ff65190ee
+03-Vitruveo/Instagram/instagram-story-reel-cover.png,03-Vitruveo,Instagram,Story / Reel cover,1080,1920,png,791606,970d572636ac47841b0a17a8dcc2f3f0fa5cf9f92774ee0fa5cce09890e21ce0
+03-Vitruveo/Rumble/rumble-channel-backsplash.svg,03-Vitruveo,Rumble,Channel backsplash,3600,600,svg,9262,42cc80729189916ba66c74e69f70556a9ec73e2b96067bb136d9ef16ab1d27e0
+03-Vitruveo/Rumble/rumble-channel-backsplash.png,03-Vitruveo,Rumble,Channel backsplash,3600,600,png,525233,9bf2ab7eb07c404c5c545a84f49bafc6ffa51b5b9337b044fcafb8ab5d24fe95
+04-Vertical-Foundation/Facebook/facebook-page-cover.svg,04-Vertical-Foundation,Facebook,Page cover,1702,630,svg,18916,909f3db5b2ef9c4ad32b4531786a57fb233b269753b6b94c4a52992662aa5601
+04-Vertical-Foundation/Facebook/facebook-page-cover.png,04-Vertical-Foundation,Facebook,Page cover,1702,630,png,472903,ba060223ad15f251820fe9323d6c0230de2c800744896d3a96cd9ad23c306e49
+04-Vertical-Foundation/Facebook/facebook-cover-mobile-friendly.svg,04-Vertical-Foundation,Facebook,Alternate Page cover,1640,720,svg,18943,2e21f182ff8877762d11e24e5b6eaa27074496d4529f08d058b4aeea35e9c843
+04-Vertical-Foundation/Facebook/facebook-cover-mobile-friendly.png,04-Vertical-Foundation,Facebook,Alternate Page cover,1640,720,png,494583,0b09564ad7a39c9b33726740ce5fd2910b9217317be479a8860274111e5d2177
+04-Vertical-Foundation/Facebook/facebook-feed-landscape.svg,04-Vertical-Foundation,Facebook,Feed landscape,1200,630,svg,18886,9a58c9bce7463572b7da7f7e231a71d62187c04ae803a99a40fb9717fc4b8cd7
+04-Vertical-Foundation/Facebook/facebook-feed-landscape.png,04-Vertical-Foundation,Facebook,Feed landscape,1200,630,png,281014,3acd42fdc79fbe9ecbfb610432182f1218888e258bd8d3adf394d4578b3c3594
+04-Vertical-Foundation/X/x-profile-banner.svg,04-Vertical-Foundation,X,Profile header,1500,500,svg,18947,f8cfb4823195949ccefb2b09a2880a361eb23e71f71ea2cbd7de1f12d9523a68
+04-Vertical-Foundation/X/x-profile-banner.png,04-Vertical-Foundation,X,Profile header,1500,500,png,396444,5018f6a7b2261877ae8a1705ee663b2fbf705e617097a005e16b1615209d2fb1
+04-Vertical-Foundation/YouTube/youtube-channel-banner.svg,04-Vertical-Foundation,YouTube,Channel banner,2560,1440,svg,18972,b738138e4da9f5be13192d05ee0a904793c97b8e8d91556a680c1f71ac8af6a8
+04-Vertical-Foundation/YouTube/youtube-channel-banner.png,04-Vertical-Foundation,YouTube,Channel banner,2560,1440,png,916067,b3b3afe3faed9cadb6b74cba0ea8122ef29a005c9127c2f9f2d7652210e0030c
+04-Vertical-Foundation/YouTube/youtube-video-thumbnail.svg,04-Vertical-Foundation,YouTube,Video thumbnail,1280,720,svg,18868,feb8bd002076b637549d5408a02643dd9f0356539d4cafe118860a2e74b01968
+04-Vertical-Foundation/YouTube/youtube-video-thumbnail.png,04-Vertical-Foundation,YouTube,Video thumbnail,1280,720,png,312704,98585f379ca40b9f1df88cb772a67a8fa530b9672393153632574ddeb46b173e
+04-Vertical-Foundation/TikTok/tiktok-vertical-cover.svg,04-Vertical-Foundation,TikTok,Vertical content cover,1080,1920,svg,19112,313ca9671cf8f8c3143ab46d157e29cc0201891b98185b605f4e0629ce3b3057
+04-Vertical-Foundation/TikTok/tiktok-vertical-cover.png,04-Vertical-Foundation,TikTok,Vertical content cover,1080,1920,png,797839,b9c4bc581c09fe20456a4c57b36470cd783752be3411318f923917c2a15353cd
+04-Vertical-Foundation/Instagram/instagram-feed-square.svg,04-Vertical-Foundation,Instagram,Square feed post,1080,1080,svg,19093,2df5ad4c20be2e523a744cddeee6136eb0ad92d12b8d490b3eff428a5bd428c8
+04-Vertical-Foundation/Instagram/instagram-feed-square.png,04-Vertical-Foundation,Instagram,Square feed post,1080,1080,png,318776,054aa6345579e4087c52a0a4d6e4177df68355f6b767df5625f2c25de580911e
+04-Vertical-Foundation/Instagram/instagram-feed-portrait.svg,04-Vertical-Foundation,Instagram,Portrait feed post,1080,1350,svg,19122,90843cede3080c7ba43f223c09205a716192fc0ca1be91e4d31f56da6e47ca14
+04-Vertical-Foundation/Instagram/instagram-feed-portrait.png,04-Vertical-Foundation,Instagram,Portrait feed post,1080,1350,png,459445,e1e8efde01e309a94ad0cf93be9b54c862cf6e3476d7008885c7db557fff135a
+04-Vertical-Foundation/Instagram/instagram-story-reel-cover.svg,04-Vertical-Foundation,Instagram,Story / Reel cover,1080,1920,svg,19135,ef6ddbe11d2dc498fb891bef0c423cb7956c645ff9cf963e6c73e25d05acd1dc
+04-Vertical-Foundation/Instagram/instagram-story-reel-cover.png,04-Vertical-Foundation,Instagram,Story / Reel cover,1080,1920,png,788588,88cef8b1a5ddba3ad3d2133da3226b2a95689e680c7dd7d921ca34019ab9da66
+04-Vertical-Foundation/Rumble/rumble-channel-backsplash.svg,04-Vertical-Foundation,Rumble,Channel backsplash,3600,600,svg,18884,b59541c58e080e5defbfb7e45f32bde4b1d375a1961016aa0c692d06673a1b8c
+04-Vertical-Foundation/Rumble/rumble-channel-backsplash.png,04-Vertical-Foundation,Rumble,Channel backsplash,3600,600,png,505722,26c1e1399389b8e2c08dba5bac24e73f1ca9f235ff61eef7cbc03dd5b9a18234
+05-Pretrend/Facebook/facebook-page-cover.svg,05-Pretrend,Facebook,Page cover,1702,630,svg,62929,68575c9a29095942227067c00e4275e0033c6f6b38aaec7532601957df58a497
+05-Pretrend/Facebook/facebook-page-cover.png,05-Pretrend,Facebook,Page cover,1702,630,png,480417,59786d4a7eddd6169b5b4182fbdfd1906eeecb92a1fc6f000b7022ea95b40c84
+05-Pretrend/Facebook/facebook-cover-mobile-friendly.svg,05-Pretrend,Facebook,Alternate Page cover,1640,720,svg,62956,f130fe878968a7ac51e171d3f6e626f08e7a65d8732b18060771b201575aea5f
+05-Pretrend/Facebook/facebook-cover-mobile-friendly.png,05-Pretrend,Facebook,Alternate Page cover,1640,720,png,503269,60809fdc5c97acd1127c777fbba3e0f50f66f71280bf9954c051c2f7ff4a43b1
+05-Pretrend/Facebook/facebook-feed-landscape.svg,05-Pretrend,Facebook,Feed landscape,1200,630,svg,62899,e0b7365d213d460491929e562da6d3bcc558390d63b9f7b1c4c259b600d97419
+05-Pretrend/Facebook/facebook-feed-landscape.png,05-Pretrend,Facebook,Feed landscape,1200,630,png,291017,e29b5396cf9821e8e5af4262d4915d85d96ec8b54040e1b0b28fd0719857c131
+05-Pretrend/X/x-profile-banner.svg,05-Pretrend,X,Profile header,1500,500,svg,62939,342dc5dbbca7e9bb567fcff0431b50a1ba32030b30dfebf7dec4602167372ce4
+05-Pretrend/X/x-profile-banner.png,05-Pretrend,X,Profile header,1500,500,png,404168,dd3b32886ed5935bf56b0e52e9b2092c34b1ba4470ae25da6a063798982102ff
+05-Pretrend/YouTube/youtube-channel-banner.svg,05-Pretrend,YouTube,Channel banner,2560,1440,svg,62986,feecde5f78618343334ba73754c8b8c069fc849770c785438056bddd39938305
+05-Pretrend/YouTube/youtube-channel-banner.png,05-Pretrend,YouTube,Channel banner,2560,1440,png,923537,4da093ffb2e7eb3febeadebd05337ba594c6b864bed21a8aa48e57c44409d161
+05-Pretrend/YouTube/youtube-video-thumbnail.svg,05-Pretrend,YouTube,Video thumbnail,1280,720,svg,62881,05aabea47b3b32bf93e353674ae91487cb81a44a6d84df9cff5eeb1ecd8335bd
+05-Pretrend/YouTube/youtube-video-thumbnail.png,05-Pretrend,YouTube,Video thumbnail,1280,720,png,323979,f10bc25f20504c097ef19663ef188250fd2b4375d93d02efa6b8960034bc52f3
+05-Pretrend/TikTok/tiktok-vertical-cover.svg,05-Pretrend,TikTok,Vertical content cover,1080,1920,svg,63125,e68c8195ada517b301f647df96f29cbaef8bb14bbf9d64689954e1ffb7d5b050
+05-Pretrend/TikTok/tiktok-vertical-cover.png,05-Pretrend,TikTok,Vertical content cover,1080,1920,png,804464,abfeea01fde5c959b00890775a206d45fd05eb9239d542d31ca828d480fcda16
+05-Pretrend/Instagram/instagram-feed-square.svg,05-Pretrend,Instagram,Square feed post,1080,1080,svg,63106,5445369efc2d972513687cd547794f722511928d154c47237152aa12d2448519
+05-Pretrend/Instagram/instagram-feed-square.png,05-Pretrend,Instagram,Square feed post,1080,1080,png,326726,9ff1708e75024d32ea23952a063413c8fa2db22569568811f9f3168eb973fb06
+05-Pretrend/Instagram/instagram-feed-portrait.svg,05-Pretrend,Instagram,Portrait feed post,1080,1350,svg,63135,2e8c83fbb1fd2272b110856c72a79988f35cb9042c08ebaceac98e98dd58106e
+05-Pretrend/Instagram/instagram-feed-portrait.png,05-Pretrend,Instagram,Portrait feed post,1080,1350,png,467844,7c08a4876de43fcfe26f3947bdf40b1bcef514883f71a13633f46509688988ce
+05-Pretrend/Instagram/instagram-story-reel-cover.svg,05-Pretrend,Instagram,Story / Reel cover,1080,1920,svg,63148,3912740e2d768f1c34e883c8590d07715fe5613a1dd6e0b6bdb14548de377497
+05-Pretrend/Instagram/instagram-story-reel-cover.png,05-Pretrend,Instagram,Story / Reel cover,1080,1920,png,796001,b56fa48f0e86faf375440217230e34519cdeb1a61bfe18e4d1f2d5840fd09ee1
+05-Pretrend/Rumble/rumble-channel-backsplash.svg,05-Pretrend,Rumble,Channel backsplash,3600,600,svg,62898,699367d169bb2cc62315487c6a6596a739458898c4b1a26875b831fe89a334aa
+05-Pretrend/Rumble/rumble-channel-backsplash.png,05-Pretrend,Rumble,Channel backsplash,3600,600,png,512968,ad04c4eca678901fbd2aedbdcdaaff300c11fd214bd69b234f22e58253517d98
+06-AI-Wars/Facebook/facebook-page-cover.svg,06-AI-Wars,Facebook,Page cover,1702,630,svg,6568,5028ae23af4f84fa8c8beb4ca6f9dcfd6e37aefe1443c4961f4156d61418e640
+06-AI-Wars/Facebook/facebook-page-cover.png,06-AI-Wars,Facebook,Page cover,1702,630,png,489634,c512f1a40fdc822b20239ccb1b2db51a9f9bf61548941e3da426f2ea70484667
+06-AI-Wars/Facebook/facebook-cover-mobile-friendly.svg,06-AI-Wars,Facebook,Alternate Page cover,1640,720,svg,6595,5eef58b2cdfc02e597631757f7bb725caaa8cd44de94da23a55a7c77b029c784
+06-AI-Wars/Facebook/facebook-cover-mobile-friendly.png,06-AI-Wars,Facebook,Alternate Page cover,1640,720,png,508662,2d6425066ff60c8258757fff0ae2612549f2c65355f77d97f193a6e237c7c1cf
+06-AI-Wars/Facebook/facebook-feed-landscape.svg,06-AI-Wars,Facebook,Feed landscape,1200,630,svg,6538,13c12c82a1e9a670ccaa46217a35c9104321c990ba25365769dbe548fb92b4c8
+06-AI-Wars/Facebook/facebook-feed-landscape.png,06-AI-Wars,Facebook,Feed landscape,1200,630,png,294514,435893dd6d75dcb60e600ba1a88edf83f3214b7b6e8bba6b976d5ab70c642ea2
+06-AI-Wars/X/x-profile-banner.svg,06-AI-Wars,X,Profile header,1500,500,svg,6578,b42c674f2eccdeb5e469438fcaf43ec1e6a568c62310979663b4ccc18305b3f5
+06-AI-Wars/X/x-profile-banner.png,06-AI-Wars,X,Profile header,1500,500,png,410749,3498272e608b993143eb838f72cef7af85edc65d30dc3e8f5ede124551b703b2
+06-AI-Wars/YouTube/youtube-channel-banner.svg,06-AI-Wars,YouTube,Channel banner,2560,1440,svg,6625,a5220f76c578537e04d99a023476b01ebba50931c2ab9bdc5cfbb703ea1c0198
+06-AI-Wars/YouTube/youtube-channel-banner.png,06-AI-Wars,YouTube,Channel banner,2560,1440,png,940127,3d0044537f6f1d214df9c218d0f4d0590bd7579f4303d3a0b8fc6693cc9e3f79
+06-AI-Wars/YouTube/youtube-video-thumbnail.svg,06-AI-Wars,YouTube,Video thumbnail,1280,720,svg,6520,0c6a4196c47f16c49ee29e184d44d008e0b7f3de7f2e0371c0d4293be453000a
+06-AI-Wars/YouTube/youtube-video-thumbnail.png,06-AI-Wars,YouTube,Video thumbnail,1280,720,png,327966,67b4063e2560be076a83aef514e831160cb691feb8cfd6e9c8439eff608a951b
+06-AI-Wars/TikTok/tiktok-vertical-cover.svg,06-AI-Wars,TikTok,Vertical content cover,1080,1920,svg,6764,6dcc17cb2c60aaa061b09f173e893e198e8925c13ac71f8cdd91f8edc783037a
+06-AI-Wars/TikTok/tiktok-vertical-cover.png,06-AI-Wars,TikTok,Vertical content cover,1080,1920,png,803670,e9da18fc4a45e5c64cf4efc20b300014160d8f723a5057b86aa66e384d4bb795
+06-AI-Wars/Instagram/instagram-feed-square.svg,06-AI-Wars,Instagram,Square feed post,1080,1080,svg,6745,c2930cb4ed92a58e00bc08c4df247a797b4139af6a2438784703548e80d5f1fa
+06-AI-Wars/Instagram/instagram-feed-square.png,06-AI-Wars,Instagram,Square feed post,1080,1080,png,326827,5819df476af81f49899e86ab7791ff165cc70f9379b820e232262425ae37d03f
+06-AI-Wars/Instagram/instagram-feed-portrait.svg,06-AI-Wars,Instagram,Portrait feed post,1080,1350,svg,6774,4e17b9f12b6bc7565bf66473a6863a8ed5a92c69f7a5b697a2e22770ff351d1b
+06-AI-Wars/Instagram/instagram-feed-portrait.png,06-AI-Wars,Instagram,Portrait feed post,1080,1350,png,467541,7c52bf5cc57314b7b907b525aad0a5a8c0c9f65a25b4be1da386d7225a8b8908
+06-AI-Wars/Instagram/instagram-story-reel-cover.svg,06-AI-Wars,Instagram,Story / Reel cover,1080,1920,svg,6787,68ec020091d0462fdc4a69735d536d731058434370f19129945f6aa97b920ca1
+06-AI-Wars/Instagram/instagram-story-reel-cover.png,06-AI-Wars,Instagram,Story / Reel cover,1080,1920,png,794931,fb5d9a6c7ee3f171251208cc175c16d60ad28986c4744f051a017fcefcd31e06
+06-AI-Wars/Rumble/rumble-channel-backsplash.svg,06-AI-Wars,Rumble,Channel backsplash,3600,600,svg,6537,7ca874259ba596e9bcafe8ecc2ab379b3d313cf2fcc2d5a1b83255b3c8b84140
+06-AI-Wars/Rumble/rumble-channel-backsplash.png,06-AI-Wars,Rumble,Channel backsplash,3600,600,png,533034,fc5ea4682cc3494c3ab314018ce235e6bbccd4aa13be1c62369d9ba5bcd40b5d
+07-VTRU-Scope/Facebook/facebook-page-cover.svg,07-VTRU-Scope,Facebook,Page cover,1702,630,svg,10059,7893d90bc047deb76f348bf90d748ed4a4d8fba75721fc5322016b2db18eb393
+07-VTRU-Scope/Facebook/facebook-page-cover.png,07-VTRU-Scope,Facebook,Page cover,1702,630,png,494820,e628e8ebe8edd6541c450cb96dbad7f5b0168c87f85cd2e3dcae81752717125b
+07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.svg,07-VTRU-Scope,Facebook,Alternate Page cover,1640,720,svg,10086,8ec37d53a2339e394d415f31a8e979883845626d4b65bc85d448c22af7b21f23
+07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.png,07-VTRU-Scope,Facebook,Alternate Page cover,1640,720,png,513349,077993bb3f610a367269bc0e6fdbea5b82957c034c5205e2765cb4e8e5ccfe86
+07-VTRU-Scope/Facebook/facebook-feed-landscape.svg,07-VTRU-Scope,Facebook,Feed landscape,1200,630,svg,10029,bee2e1ba8130fea41c4492f25abf6b03d5cb69f1fcf7d224e772a4e3744d02bc
+07-VTRU-Scope/Facebook/facebook-feed-landscape.png,07-VTRU-Scope,Facebook,Feed landscape,1200,630,png,301871,130b1e239509a74bc863f132402d94a822155a71740ac0b2f05ffb5c9645b8dd
+07-VTRU-Scope/X/x-profile-banner.svg,07-VTRU-Scope,X,Profile header,1500,500,svg,10069,75bcb5c266537f13ac85a866be41735b6b83263e4aa1dc4105e19d312a9cbbf7
+07-VTRU-Scope/X/x-profile-banner.png,07-VTRU-Scope,X,Profile header,1500,500,png,418807,aadacbe66ca83b1ab2a750c655ff5554ec475240faa51113e4a08b99b7130987
+07-VTRU-Scope/YouTube/youtube-channel-banner.svg,07-VTRU-Scope,YouTube,Channel banner,2560,1440,svg,10116,eae022d3ba198436a0a692c10e4de1034b2395ca4022d2dcb18e493cc977e4fb
+07-VTRU-Scope/YouTube/youtube-channel-banner.png,07-VTRU-Scope,YouTube,Channel banner,2560,1440,png,947619,a78feb294814a7ecd07d7f53c3458f212052b993dceb78e0e8f4c422a6c3dfbf
+07-VTRU-Scope/YouTube/youtube-video-thumbnail.svg,07-VTRU-Scope,YouTube,Video thumbnail,1280,720,svg,10011,fc651dd9bbf0b5bc3d1a8b3c2b857a5ca721e6b16f54c65a0db16768fb925654
+07-VTRU-Scope/YouTube/youtube-video-thumbnail.png,07-VTRU-Scope,YouTube,Video thumbnail,1280,720,png,334990,bc043a9c61b9c6a501f3037e5584274a2a89b80f1938b8af15c1cdbae7464db4
+07-VTRU-Scope/TikTok/tiktok-vertical-cover.svg,07-VTRU-Scope,TikTok,Vertical content cover,1080,1920,svg,10255,4f72026415a08f2c12e0d6aebc24d65c2e104efddc9d3c0427dac248b59bbc8a
+07-VTRU-Scope/TikTok/tiktok-vertical-cover.png,07-VTRU-Scope,TikTok,Vertical content cover,1080,1920,png,806854,909718856b9cc1e8c22061661eab4157d7e7c0af6489d144a92910e6c605e204
+07-VTRU-Scope/Instagram/instagram-feed-square.svg,07-VTRU-Scope,Instagram,Square feed post,1080,1080,svg,10236,35290c94360d0c3dea7e7f7d9a5f25f0555503f1fb5cb045094092677b103b6c
+07-VTRU-Scope/Instagram/instagram-feed-square.png,07-VTRU-Scope,Instagram,Square feed post,1080,1080,png,329664,13ce381bc58c142e22fd51f35ed8d038105c83d97a6c02e7cf9a4f092dbd0939
+07-VTRU-Scope/Instagram/instagram-feed-portrait.svg,07-VTRU-Scope,Instagram,Portrait feed post,1080,1350,svg,10265,e9af7f3568ccf323865981511a79801ceff2a8b1382bef236c8328c64d9ec7d7
+07-VTRU-Scope/Instagram/instagram-feed-portrait.png,07-VTRU-Scope,Instagram,Portrait feed post,1080,1350,png,472425,b56755b14f82e9418757716401b3a1ead7a82e0c51cf90bce211a29f67297010
+07-VTRU-Scope/Instagram/instagram-story-reel-cover.svg,07-VTRU-Scope,Instagram,Story / Reel cover,1080,1920,svg,10278,e3e12a69dc6179645abb69ae16c7f45ca74bcaf0afea5b31a5399ea06c958737
+07-VTRU-Scope/Instagram/instagram-story-reel-cover.png,07-VTRU-Scope,Instagram,Story / Reel cover,1080,1920,png,798476,9ea232403550b3dd45b87fecbf2e2951fa9d0ba513fe3e491b573a0a90b7fdcb
+07-VTRU-Scope/Rumble/rumble-channel-backsplash.svg,07-VTRU-Scope,Rumble,Channel backsplash,3600,600,svg,10028,30286d107927f586cac4b5f92ea94674b8dcef9e99062969f78b06402b46dcd2
+07-VTRU-Scope/Rumble/rumble-channel-backsplash.png,07-VTRU-Scope,Rumble,Channel backsplash,3600,600,png,538239,a87cc2c46ff18a8fd84cdc09cdd4b0427ad8dab05e1d59f5f924f0d14bfee19c

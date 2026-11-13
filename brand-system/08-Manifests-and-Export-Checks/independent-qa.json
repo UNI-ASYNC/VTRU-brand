@@ -1,0 +1,2833 @@
+{
+  "status": "PASS",
+  "scope": "Independent file-level and rendered text-bound audit of generated production assets; visual sample review reported separately",
+  "counts": {
+    ".md": 1,
+    ".png": 176,
+    ".pdf": 17,
+    ".svg": 176,
+    ".txt": 5,
+    ".docx": 15
+  },
+  "errors": [],
+  "warnings": [],
+  "svg_checks": [
+    {
+      "file": "00-Brand-Guide-and-Audit/Five-Brand-Identity-Sheet.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "vitruveo/vitruveo-logo-white.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg",
+        "verticalfoundation/verticalfoundation-logo-white.svg",
+        "pretrend/pretrend-logo.svg",
+        "pretrend/pretrend-logo-white.svg",
+        "aiwars/aiwars-logomark.svg",
+        "aiwars/aiwars-logo-white.svg",
+        "vtruscope/vtruscope-logo.svg",
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-announcement.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-event.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-update.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Document-Headers/vitruveo-document-header-dark.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo-white.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Document-Headers/vitruveo-document-header-light.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-01-node.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-02-validated.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-03-block.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-04-linked.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-05-build.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-06-sync.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-07-launch.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-08-secure.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-09-vote.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-10-signal.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-formal-A4.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-office-A4.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-technical-A4.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-dark.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-framed.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-light.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logomark.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-discord-server.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-facebook-cover.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-linkedin-company.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-linkedin-personal.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-social-landscape.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-social-square.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-story-vertical.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-website-hero.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-x-banner.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-01-online.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo-white.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-02-validated.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo-white.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-03-building.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo-white.svg"
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-04-network.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo-white.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-announcement.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-event.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-update.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Document-Headers/verticalfoundation-document-header-dark.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-white.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Document-Headers/verticalfoundation-document-header-light.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-01-foundation.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-02-connect.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-03-grant.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-04-milestone.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-05-governance.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-06-community.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-07-roadmap.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-08-approval.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-09-announce.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-10-impact.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-formal-A4.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-office-A4.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-technical-A4.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-dark.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-framed.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-light.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logomark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-discord-server.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-facebook-cover.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-linkedin-company.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-linkedin-personal.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-social-landscape.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-social-square.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-story-vertical.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-website-hero.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-x-banner.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-01-approved.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-white.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-02-announcement.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-white.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-03-progress.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-white.svg"
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-04-community.svg",
+      "source_images": [
+        "verticalfoundation/verticalfoundation-logo-white.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-announcement.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-event.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-update.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Document-Headers/pretrend-document-header-dark.svg",
+      "source_images": [
+        "pretrend/pretrend-logo-white.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Document-Headers/pretrend-document-header-light.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-01-crash.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-02-bear.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-03-flat.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-04-bull.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-05-moon.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-06-analysis.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-07-resolve.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-08-volatility.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-09-momentum.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-10-target.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-formal-A4.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-office-A4.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-technical-A4.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-dark.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-framed.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-light.svg",
+      "source_images": [
+        "pretrend/pretrend-logomark.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-discord-server.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-facebook-cover.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-linkedin-company.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-linkedin-personal.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-social-landscape.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-social-square.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-story-vertical.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-website-hero.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-x-banner.svg",
+      "source_images": [
+        "pretrend/pretrend-logo.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-01-bullish.svg",
+      "source_images": [
+        "pretrend/pretrend-logo-white.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-02-bearish.svg",
+      "source_images": [
+        "pretrend/pretrend-logo-white.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-03-trending.svg",
+      "source_images": [
+        "pretrend/pretrend-logo-white.svg"
+      ]
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-04-resolved.svg",
+      "source_images": [
+        "pretrend/pretrend-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-announcement.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-event.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-update.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Document-Headers/aiwars-document-header-dark.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Document-Headers/aiwars-document-header-light.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-01-battle.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-02-victory.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-03-strategy.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-04-energy.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-05-reward.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-06-defend.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-07-defeat.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-08-gg.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-09-ready.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-10-respawn.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-formal-A4.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-office-A4.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-technical-A4.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-dark.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-framed.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-light.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-discord-server.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-facebook-cover.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-linkedin-company.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-linkedin-personal.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-social-landscape.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-social-square.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-story-vertical.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-website-hero.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-x-banner.svg",
+      "source_images": [
+        "aiwars/aiwars-logomark.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-01-victory.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-02-defeat.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-03-battle-ready.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-04-gg.svg",
+      "source_images": [
+        "aiwars/aiwars-logo-white.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-announcement.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-event.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-update.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Document-Headers/vtruscope-document-header-dark.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Document-Headers/vtruscope-document-header-light.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-01-chart.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-02-search.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-03-signal.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-04-report.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-05-status.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-06-filter.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-07-compare.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-08-insight.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-09-alert.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-10-verified.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-formal-A4.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-office-A4.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-technical-A4.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-dark.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-framed.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-light.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logomark.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-discord-server.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-facebook-cover.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-linkedin-company.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-linkedin-personal.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-social-landscape.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-social-square.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-story-vertical.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-website-hero.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-x-banner.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-01-data-live.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-02-verified.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-03-alert.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-04-insight.svg",
+      "source_images": [
+        "vtruscope/vtruscope-logo-white.svg"
+      ]
+    },
+    {
+      "file": "06-Ecosystem-Wide/Cross-Project-Announcements/ecosystem-announcement.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg",
+        "pretrend/pretrend-logo.svg",
+        "aiwars/aiwars-logomark.svg",
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "06-Ecosystem-Wide/Cross-Project-Announcements/ecosystem-event.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg",
+        "pretrend/pretrend-logo.svg",
+        "aiwars/aiwars-logomark.svg",
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/five-brand-banner.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg",
+        "pretrend/pretrend-logo.svg",
+        "aiwars/aiwars-logomark.svg",
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/five-brand-social-square.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg",
+        "pretrend/pretrend-logo.svg",
+        "aiwars/aiwars-logomark.svg",
+        "vtruscope/vtruscope-logo.svg"
+      ]
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/four-brand-banner.svg",
+      "source_images": [
+        "vitruveo/vitruveo-logo.svg",
+        "pretrend/pretrend-logo.svg",
+        "aiwars/aiwars-logomark.svg",
+        "verticalfoundation/verticalfoundation-logo-dark.svg"
+      ]
+    }
+  ],
+  "png_checks": [
+    {
+      "file": "00-Brand-Guide-and-Audit/Five-Brand-Identity-Sheet.png",
+      "dimensions": [
+        1800,
+        1650
+      ],
+      "bytes": 287626
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-announcement.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 76925
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-event.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 68379
+    },
+    {
+      "file": "01-Vitruveo/Announcement-Templates/vitruveo-update.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 71966
+    },
+    {
+      "file": "01-Vitruveo/Document-Headers/vitruveo-document-header-dark.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 22932
+    },
+    {
+      "file": "01-Vitruveo/Document-Headers/vitruveo-document-header-light.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 23813
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-01-node.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5127
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-02-validated.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5807
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-03-block.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5551
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-04-linked.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5814
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-05-build.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5236
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-06-sync.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5276
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-07-launch.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6868
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-08-secure.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5499
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-09-vote.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4446
+    },
+    {
+      "file": "01-Vitruveo/Emojis/vitruveo-emoji-10-signal.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 3747
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-formal-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 67404
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-office-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 65824
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-technical-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 86335
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 74410
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-framed.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 74796
+    },
+    {
+      "file": "01-Vitruveo/Profile-Images/vitruveo-avatar-light.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 65767
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-discord-server.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 58080
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-facebook-cover.png",
+      "dimensions": [
+        1640,
+        720
+      ],
+      "bytes": 70733
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-linkedin-company.png",
+      "dimensions": [
+        1512,
+        256
+      ],
+      "bytes": 43554
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-linkedin-personal.png",
+      "dimensions": [
+        1584,
+        396
+      ],
+      "bytes": 50652
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-social-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 71352
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 80014
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-story-vertical.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "bytes": 117142
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-website-hero.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 95290
+    },
+    {
+      "file": "01-Vitruveo/Social-Banners/vitruveo-x-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "bytes": 52419
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-01-online.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 12040
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-02-validated.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16273
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-03-building.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 14595
+    },
+    {
+      "file": "01-Vitruveo/Stickers/vitruveo-sticker-04-network.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 14943
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-announcement.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 57530
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-event.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 48777
+    },
+    {
+      "file": "02-Vertical-Foundation/Announcement-Templates/verticalfoundation-update.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 52666
+    },
+    {
+      "file": "02-Vertical-Foundation/Document-Headers/verticalfoundation-document-header-dark.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 21242
+    },
+    {
+      "file": "02-Vertical-Foundation/Document-Headers/verticalfoundation-document-header-light.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 20537
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-01-foundation.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 3893
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-02-connect.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4486
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-03-grant.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5583
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-04-milestone.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4060
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-05-governance.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4579
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-06-community.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5508
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-07-roadmap.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4370
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-08-approval.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5431
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-09-announce.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4467
+    },
+    {
+      "file": "02-Vertical-Foundation/Emojis/verticalfoundation-emoji-10-impact.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4005
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-formal-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 62811
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-office-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 57006
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-technical-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 78387
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 17931
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-framed.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 28211
+    },
+    {
+      "file": "02-Vertical-Foundation/Profile-Images/verticalfoundation-avatar-light.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 16835
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-discord-server.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 29965
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-facebook-cover.png",
+      "dimensions": [
+        1640,
+        720
+      ],
+      "bytes": 44371
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-linkedin-company.png",
+      "dimensions": [
+        1512,
+        256
+      ],
+      "bytes": 21879
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-linkedin-personal.png",
+      "dimensions": [
+        1584,
+        396
+      ],
+      "bytes": 26440
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-social-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 36281
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 46959
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-story-vertical.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "bytes": 63949
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-website-hero.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 39444
+    },
+    {
+      "file": "02-Vertical-Foundation/Social-Banners/verticalfoundation-x-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "bytes": 31008
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-01-approved.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16313
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-02-announcement.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 14927
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-03-progress.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 14738
+    },
+    {
+      "file": "02-Vertical-Foundation/Stickers/verticalfoundation-sticker-04-community.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 15949
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-announcement.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 70055
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-event.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 61172
+    },
+    {
+      "file": "03-Pretrend/Announcement-Templates/pretrend-update.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 64758
+    },
+    {
+      "file": "03-Pretrend/Document-Headers/pretrend-document-header-dark.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 22460
+    },
+    {
+      "file": "03-Pretrend/Document-Headers/pretrend-document-header-light.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 32012
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-01-crash.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4302
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-02-bear.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6419
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-03-flat.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 3518
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-04-bull.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6177
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-05-moon.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5836
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-06-analysis.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 3940
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-07-resolve.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6020
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-08-volatility.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4473
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-09-momentum.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4572
+    },
+    {
+      "file": "03-Pretrend/Emojis/pretrend-emoji-10-target.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6370
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-formal-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 77215
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-office-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 76974
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-technical-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 96557
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 69746
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-framed.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 83325
+    },
+    {
+      "file": "03-Pretrend/Profile-Images/pretrend-avatar-light.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 72143
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-discord-server.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 43693
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-facebook-cover.png",
+      "dimensions": [
+        1640,
+        720
+      ],
+      "bytes": 53832
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-linkedin-company.png",
+      "dimensions": [
+        1512,
+        256
+      ],
+      "bytes": 33201
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-linkedin-personal.png",
+      "dimensions": [
+        1584,
+        396
+      ],
+      "bytes": 38614
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-social-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 54091
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 68173
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-story-vertical.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "bytes": 90923
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-website-hero.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 60916
+    },
+    {
+      "file": "03-Pretrend/Social-Banners/pretrend-x-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "bytes": 38567
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-01-bullish.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 14531
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-02-bearish.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16184
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-03-trending.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 13064
+    },
+    {
+      "file": "03-Pretrend/Stickers/pretrend-sticker-04-resolved.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16176
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-announcement.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 70740
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-event.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 62558
+    },
+    {
+      "file": "04-AI-Wars/Announcement-Templates/aiwars-update.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 65958
+    },
+    {
+      "file": "04-AI-Wars/Document-Headers/aiwars-document-header-dark.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 29546
+    },
+    {
+      "file": "04-AI-Wars/Document-Headers/aiwars-document-header-light.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 29323
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-01-battle.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6777
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-02-victory.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5010
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-03-strategy.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4779
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-04-energy.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4425
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-05-reward.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6499
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-06-defend.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5476
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-07-defeat.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5399
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-08-gg.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5407
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-09-ready.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5243
+    },
+    {
+      "file": "04-AI-Wars/Emojis/aiwars-emoji-10-respawn.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5668
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-formal-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 76624
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-office-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 74246
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-technical-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 93588
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 30037
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-framed.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 38903
+    },
+    {
+      "file": "04-AI-Wars/Profile-Images/aiwars-avatar-light.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 30175
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-discord-server.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 45725
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-facebook-cover.png",
+      "dimensions": [
+        1640,
+        720
+      ],
+      "bytes": 58093
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-linkedin-company.png",
+      "dimensions": [
+        1512,
+        256
+      ],
+      "bytes": 36669
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-linkedin-personal.png",
+      "dimensions": [
+        1584,
+        396
+      ],
+      "bytes": 41577
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-social-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 59642
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 71553
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-story-vertical.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "bytes": 99311
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-website-hero.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 80662
+    },
+    {
+      "file": "04-AI-Wars/Social-Banners/aiwars-x-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "bytes": 44105
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-01-victory.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16188
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-02-defeat.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 17111
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-03-battle-ready.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 20064
+    },
+    {
+      "file": "04-AI-Wars/Stickers/aiwars-sticker-04-gg.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 15668
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-announcement.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 86788
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-event.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 78070
+    },
+    {
+      "file": "05-VTRU-Scope/Announcement-Templates/vtruscope-update.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 81494
+    },
+    {
+      "file": "05-VTRU-Scope/Document-Headers/vtruscope-document-header-dark.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 44218
+    },
+    {
+      "file": "05-VTRU-Scope/Document-Headers/vtruscope-document-header-light.png",
+      "dimensions": [
+        1600,
+        320
+      ],
+      "bytes": 42759
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-01-chart.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5433
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-02-search.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6168
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-03-signal.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4723
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-04-report.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4933
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-05-status.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 7128
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-06-filter.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5310
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-07-compare.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 4777
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-08-insight.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6202
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-09-alert.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 5557
+    },
+    {
+      "file": "05-VTRU-Scope/Emojis/vtruscope-emoji-10-verified.png",
+      "dimensions": [
+        128,
+        128
+      ],
+      "bytes": 6751
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-formal-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 87885
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-office-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 85188
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-technical-A4-300dpi.png",
+      "dimensions": [
+        2480,
+        3508
+      ],
+      "bytes": 102165
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-dark.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 222092
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-framed.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 183250
+    },
+    {
+      "file": "05-VTRU-Scope/Profile-Images/vtruscope-avatar-light.png",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "bytes": 193050
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-discord-server.png",
+      "dimensions": [
+        960,
+        540
+      ],
+      "bytes": 57809
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-facebook-cover.png",
+      "dimensions": [
+        1640,
+        720
+      ],
+      "bytes": 72464
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-linkedin-company.png",
+      "dimensions": [
+        1512,
+        256
+      ],
+      "bytes": 44370
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-linkedin-personal.png",
+      "dimensions": [
+        1584,
+        396
+      ],
+      "bytes": 54379
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-social-landscape.png",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "bytes": 74966
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 92177
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-story-vertical.png",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "bytes": 126645
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-website-hero.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 114672
+    },
+    {
+      "file": "05-VTRU-Scope/Social-Banners/vtruscope-x-banner.png",
+      "dimensions": [
+        1500,
+        500
+      ],
+      "bytes": 53574
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-01-data-live.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 17767
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-02-verified.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 19602
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-03-alert.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 16506
+    },
+    {
+      "file": "05-VTRU-Scope/Stickers/vtruscope-sticker-04-insight.png",
+      "dimensions": [
+        320,
+        320
+      ],
+      "bytes": 18292
+    },
+    {
+      "file": "06-Ecosystem-Wide/Cross-Project-Announcements/ecosystem-announcement.png",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 83652
+    },
+    {
+      "file": "06-Ecosystem-Wide/Cross-Project-Announcements/ecosystem-event.png",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "bytes": 77361
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/five-brand-banner.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 90529
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/five-brand-social-square.png",
+      "dimensions": [
+        1080,
+        1080
+      ],
+      "bytes": 87320
+    },
+    {
+      "file": "06-Ecosystem-Wide/Multi-Brand-Banners/four-brand-banner.png",
+      "dimensions": [
+        1920,
+        640
+      ],
+      "bytes": 88837
+    }
+  ],
+  "pdf_checks": [
+    {
+      "file": "00-Brand-Guide-and-Audit/Brand-System-Guide.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ],
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "00-Brand-Guide-and-Audit/Five-Brand-Identity-Sheet.pdf",
+      "pages": [
+        [
+          1350.0,
+          1237.5
+        ]
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-formal-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-office-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-technical-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-formal-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-office-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-technical-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-formal-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-office-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-technical-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-formal-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-office-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-technical-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-formal-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-office-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-technical-A4.pdf",
+      "pages": [
+        [
+          595.276,
+          841.89
+        ]
+      ]
+    }
+  ],
+  "docx_checks": [
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-formal-A4.docx",
+      "media_sources": [
+        "vitruveo/vitruveo-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-office-A4.docx",
+      "media_sources": [
+        "vitruveo/vitruveo-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "01-Vitruveo/Letterheads/vitruveo-letterhead-technical-A4.docx",
+      "media_sources": [
+        "vitruveo/vitruveo-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-formal-A4.docx",
+      "media_sources": [
+        "verticalfoundation/verticalfoundation-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-office-A4.docx",
+      "media_sources": [
+        "verticalfoundation/verticalfoundation-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "02-Vertical-Foundation/Letterheads/verticalfoundation-letterhead-technical-A4.docx",
+      "media_sources": [
+        "verticalfoundation/verticalfoundation-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-formal-A4.docx",
+      "media_sources": [
+        "pretrend/pretrend-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-office-A4.docx",
+      "media_sources": [
+        "pretrend/pretrend-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "03-Pretrend/Letterheads/pretrend-letterhead-technical-A4.docx",
+      "media_sources": [
+        "pretrend/pretrend-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-formal-A4.docx",
+      "media_sources": [
+        "aiwars/aiwars-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-office-A4.docx",
+      "media_sources": [
+        "aiwars/aiwars-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "04-AI-Wars/Letterheads/aiwars-letterhead-technical-A4.docx",
+      "media_sources": [
+        "aiwars/aiwars-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-formal-A4.docx",
+      "media_sources": [
+        "vtruscope/vtruscope-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-office-A4.docx",
+      "media_sources": [
+        "vtruscope/vtruscope-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    },
+    {
+      "file": "05-VTRU-Scope/Letterheads/vtruscope-letterhead-technical-A4.docx",
+      "media_sources": [
+        "vtruscope/vtruscope-logo.png"
+      ],
+      "headers": 1,
+      "footers": 1
+    }
+  ],
+  "text_bounds_failures": [],
+  "raw_source_assets_in_package": [],
+  "visual_review": {
+    "reviewed": "All 15 letterhead PNG layouts; 5 square socials, 5 company covers, 5 stories; 5 announcement templates; 5 dark document headers; 3 ecosystem banners; all 9 VTRU Scope social formats",
+    "initial_findings": [
+      "VTRU Scope long headline crossed dark motif panel in social-square and company-cover. Root regenerated all social layouts with actual font-metric fit.",
+      "Identity-sheet metadata initially listed only primary sources despite embedding white variants too. Root corrected record source list."
+    ],
+    "final_state": "Reviewed refreshed Scope square/company and all nine formats: headline fits and marks are visible. No clipping seen in reviewed final samples.",
+    "limits": [
+      "DOCX structure and media verified; editable document layout has not been rendered in Word or LibreOffice, which is unavailable.",
+      "Destination account crop and upload behavior require live destination preview."
+    ]
+  }
+}

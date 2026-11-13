@@ -1,0 +1,64 @@
+{
+  "packages": [
+    {
+      "name": "Vitruveo-Ecosystem-Brand-System.zip",
+      "bytes": 17538353,
+      "sha256": "084e817adb98ffd227e0543ab66de7b21c5a0e988c58c6c19f93b549d4024f22",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "Vitruveo-Neon-Social-Banners.zip",
+      "bytes": 61156087,
+      "sha256": "9494b2897cf787a57844509bc150ad587d50350a4c156be5ee47220b0b41d257",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "01-Ecosystem-Four-Brands-PNGs.zip",
+      "bytes": 9529134,
+      "sha256": "00e5dce28eb9833bd04133e55c847edcfb5e01499769e90d55856299e278d3b1",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "02-Ecosystem-Five-Brands-PNGs.zip",
+      "bytes": 9546688,
+      "sha256": "91ef79dc8d1aeca44f9970d01fdec1181ec36372e9330b68556f0910d28d12de",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "03-Vitruveo-PNGs.zip",
+      "bytes": 5861789,
+      "sha256": "5c45946788bd842b8e165e61d11bceab968f750118051c303464472960a17f8b",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "04-Vertical-Foundation-PNGs.zip",
+      "bytes": 5747832,
+      "sha256": "a3b5c0d4b1d9f0694d89da84bf4ba3f4199e2ee972f5c13d53dc5881cfbb4ce3",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "05-Pretrend-PNGs.zip",
+      "bytes": 5838436,
+      "sha256": "c5aea2cbf3a661367a1b25c86db8334db12313237636c375b7fa10323ac15524",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "06-AI-Wars-PNGs.zip",
+      "bytes": 5901947,
+      "sha256": "289f74ca5fd5f2794d8b36c411f785440e4d99380332848efa0708865013cfc1",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "07-VTRU-Scope-PNGs.zip",
+      "bytes": 5961359,
+      "sha256": "a3852fc0123c4f9989ce9218cd3c52473a33328f260462a4f8a24688bb74e6d1",
+      "distribution": "GitHub release v1.0.0"
+    },
+    {
+      "name": "08-Editable-SVG-Masters.zip",
+      "bytes": 4596624,
+      "sha256": "5d7517089759936533ca96448f4e1b520641d218281a98fe14cd67b39585651c",
+      "distribution": "GitHub release v1.0.0"
+    }
+  ]
+}
