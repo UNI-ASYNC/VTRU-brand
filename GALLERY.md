@@ -1,3 +1,5 @@
+> **V1 evidence gallery.** This first delivery includes newly created proposal artwork and sample slogans. Its images are preserved unchanged. For the separate source-only general templates, use the [V2 gallery](v2/GALLERY.md). See the [version guide](VERSIONS.md).
+
 # Image galleries
 
 Browse the actual images here. Each gallery includes full-resolution PNGs and links to editable masters. ZIP downloads are retained in the repository.

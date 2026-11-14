@@ -1,0 +1,47 @@
+{
+  "checked_on": "2026-11-14",
+  "scope": "Existing website wording selected for V2 templates. V1 artwork and reports remain unchanged.",
+  "policy": "Use the recorded wording exactly, or omit it. Line wrapping may change; words and punctuation must not be rewritten. No invented marketing slogans, decorative illustrations, or implied campaign messaging. Supplied ZIP artwork remains the logo source.",
+  "brands": {
+    "vitruveo": {
+      "name": "Vitruveo",
+      "headline": "Webhooks for Web3",
+      "source_url": "https://www.vitruveo.ai/",
+      "evidence": "Exact current homepage h1. HTTP 200 on this research pass.",
+      "website": "https://www.vitruveo.ai/",
+      "verification": "Live HTTPS HTML text and h1 inspection"
+    },
+    "verticalfoundation": {
+      "name": "Vertical Foundation",
+      "headline": "The foundation governing and funding the Vitruveo ecosystem.",
+      "source_url": "https://www.verticalfoundation.net/",
+      "evidence": "Exact hero description beneath the homepage h1. HTTP 200 on this research pass.",
+      "website": "https://www.verticalfoundation.net/",
+      "verification": "Live HTTPS HTML visible-text inspection"
+    },
+    "pretrend": {
+      "name": "Pretrend",
+      "headline": "Continuous trend resolution for prediction markets.",
+      "source_url": "https://www.pretrend.ai/protocol/",
+      "evidence": "Exact first sentence of the introduction beneath the protocol page h1. HTTP 200 on this research pass.",
+      "website": "https://www.pretrend.ai/",
+      "verification": "Live HTTPS HTML visible-text inspection"
+    },
+    "aiwars": {
+      "name": "AI Wars",
+      "headline": "The Fall of Meridian",
+      "source_url": "https://www.epicaiwars.com/",
+      "evidence": "Exact phrase in the current document title and the hero prologue line. It is an existing title phrase, not a newly authored slogan. HTTP 200 on this research pass.",
+      "website": "https://www.epicaiwars.com/",
+      "verification": "Live HTTPS HTML title and visible hero-text inspection"
+    },
+    "vtruscope": {
+      "name": "VTRU Scope",
+      "headline": "The focal point for your Vitruveo assets",
+      "source_url": "https://scope.vitruveo.ai/",
+      "evidence": "Exact visible application tagline after client rendering. Browser response HTTP 200; document title VTRU Scope by Vitruveo.",
+      "website": "https://scope.vitruveo.ai/",
+      "verification": "Current page rendered in Chromium; exact text locator matched the complete tagline"
+    }
+  }
+}

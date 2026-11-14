@@ -1,0 +1,3109 @@
+{
+  "designs": 60,
+  "files": [
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.svg",
+      "sha256": "9c32e9873eedebe55a44e20ead3bcc581b54ea6a457b2dc651980d824cd1b9e0",
+      "bytes": 8569,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-headline-first.png",
+      "sha256": "c5dc6b78eecaff84bca7005162a92aa071632e243fc1967389363ff452ac3427",
+      "bytes": 30914,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-image-first",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.svg",
+      "sha256": "e5aebcd8e0f813cafe8427717b2e57906693de3487209f411d71397d2d62aefd",
+      "bytes": 8567,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-image-first",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-image-first.png",
+      "sha256": "a3b5e896af0136f86983ce608af98fc57c85401f89fb4654e0b267f90a98340b",
+      "bytes": 31074,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-side-image",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.svg",
+      "sha256": "b9fe8ee824a95a34d63ac6c05375d0a52bbde1aee1993c6fe425686c9de10c07",
+      "bytes": 8566,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.svg",
+      "png_path": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vitruveo \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "announcement-side-image",
+      "file": "supplemental/vitruveo/Announcements/vitruveo-announcement-side-image.png",
+      "sha256": "0d888503efd113587919e4f8a544bc93b3fcdd42315f09ac3bbdd1a8ef011f1a",
+      "bytes": 30497,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.svg",
+      "png_path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vitruveo \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "document-header-standard",
+      "file": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.svg",
+      "sha256": "89948f4416d8825d3068a0334b0581bd18f68f9791848774437b15502cdc53e1",
+      "bytes": 8075,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.svg",
+      "png_path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vitruveo \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "document-header-standard",
+      "file": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-standard.png",
+      "sha256": "218516eb59124053913bf961c48998f150202baf7ab9c8987d09a6e388d3796c",
+      "bytes": 22855,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.svg",
+      "png_path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vitruveo \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "document-header-compact",
+      "file": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.svg",
+      "sha256": "9b33241d0e0c0e208182ad1f948c61f9e9d91050bc43c26e18933d3e44a44887",
+      "bytes": 8151,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.svg",
+      "png_path": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vitruveo \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "document-header-compact",
+      "file": "supplemental/vitruveo/Document-Headers/vitruveo-document-header-compact.png",
+      "sha256": "e84c35e28bd1d481689e989fd1eea709f47c8b54273e442236b51c720ff24912",
+      "bytes": 18442,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.svg",
+      "sha256": "175b3061886844146babea69b018ca88a0688e7bfe5b3e027af4bb1bb9c1742f",
+      "bytes": 7918,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-full-logo.png",
+      "sha256": "b4ae88a268b486da58b19071ffced3140cf2517ddca485de5daf483a752a5c8d",
+      "bytes": 28753,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logomark.svg",
+          "sha256": "6692c2780d72c5bc7a7614d3f205170ffea67f053add8046d217944b351cf8e1"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-logomark",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.svg",
+      "sha256": "e63416a1612e5c3e574ce3eeb1776d220c53dbb32ca3cc46b55ba7fe5a90294d",
+      "bytes": 4837,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logomark.svg",
+          "sha256": "6692c2780d72c5bc7a7614d3f205170ffea67f053add8046d217944b351cf8e1"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-logomark",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-logomark.png",
+      "sha256": "ed8ab2be81e124b0b783fbd6610168a81e6d53e615bb291144a44b0dcca6e2e4",
+      "bytes": 81829,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logomark-circle.svg",
+          "sha256": "2882054ff1de26dc8210b1309a900e0f8c0e1c5658c3c50db7a29ebce33019ba"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.svg",
+      "sha256": "298b4cf183615c3fbea92dabcdba18a7e2a361884c1d4df3a845dd0b814788cb",
+      "bytes": 4846,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.svg",
+      "png_path": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vitruveo \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vitruveo-logomark-circle.svg",
+          "sha256": "2882054ff1de26dc8210b1309a900e0f8c0e1c5658c3c50db7a29ebce33019ba"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/vitruveo/Profile-Images/vitruveo-avatar-source-circle.png",
+      "sha256": "d2118f43aafeb5e6ab52dad44c040e5831505dd18e0d8c716b030416ca7b10a2",
+      "bytes": 83703,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.svg",
+      "png_path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Vitruveo \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "linkedin-company",
+      "file": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.svg",
+      "sha256": "47c636d3366af03e47df54290cfcd1a9b52e921c0768f2a506856fa28ada5966",
+      "bytes": 8304,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.svg",
+      "png_path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Vitruveo \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "linkedin-company",
+      "file": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-company.png",
+      "sha256": "ef1489ee0d8eb098a151eb4c0229c1e441170e133e657c1dabd8d00c9c8f4a22",
+      "bytes": 19159,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.svg",
+      "png_path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Vitruveo \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "linkedin-personal",
+      "file": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.svg",
+      "sha256": "5c4d87be167038a0333ac2adfc36613dd55cca0671bf6ef5d82ca207201e75f3",
+      "bytes": 8306,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.svg",
+      "png_path": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Vitruveo \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "linkedin-personal",
+      "file": "supplemental/vitruveo/LinkedIn/vitruveo-linkedin-personal.png",
+      "sha256": "19dc91a8ea86eeae5fab6ab6a46e1aa8ba65cbf965ba8bc152a520f687ae4e1c",
+      "bytes": 22917,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.svg",
+      "png_path": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Vitruveo \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "discord-server-banner",
+      "file": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.svg",
+      "sha256": "318431028e80f92ee67f0d464f5777d1f9cc6efbb7182b33356553c4f331b47c",
+      "bytes": 8305,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.svg",
+      "png_path": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Vitruveo \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "discord-server-banner",
+      "file": "supplemental/vitruveo/Discord-Server/vitruveo-discord-server-banner.png",
+      "sha256": "11cca7f9428f0c5ef5fee4a1af9e758058c4c7215486166e2e3d5e87a9bd5464",
+      "bytes": 25037,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vitruveo/Website/vitruveo-website-hero.svg",
+      "png_path": "supplemental/vitruveo/Website/vitruveo-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Vitruveo \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "website-hero",
+      "file": "supplemental/vitruveo/Website/vitruveo-website-hero.svg",
+      "sha256": "914a7ebac64b37d3a380e6bb15721fed85bd9b3b213b9d77be17ac525e6d86f6",
+      "bytes": 8302,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vitruveo/Website/vitruveo-website-hero.svg",
+      "png_path": "supplemental/vitruveo/Website/vitruveo-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Vitruveo \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "vitruveo-logo.svg",
+          "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+        }
+      ],
+      "copy_ids": [
+        "vitruveo"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vitruveo",
+      "layout": "website-hero",
+      "file": "supplemental/vitruveo/Website/vitruveo-website-hero.png",
+      "sha256": "03b0b26e33cd0eb0d325572ee8bcb8fe705d07bb7cbf26b24328f79c6c289715",
+      "bytes": 37330,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.svg",
+      "sha256": "03c76e3ce275b0e579f7bdb001f77904dba9fda4ca60c1c0e169597a10f4dcf6",
+      "bytes": 18210,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-headline-first.png",
+      "sha256": "34f5327e759f7dd3a0b26bda4a49240e1d35bcedecab0478f1a245e4ddf424e8",
+      "bytes": 27366,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-image-first",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.svg",
+      "sha256": "fc06db3742ae37d12702a83924503c7cdba5f7d1473fcb5f5ebcca8a64fa4dd0",
+      "bytes": 18208,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-image-first",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-image-first.png",
+      "sha256": "dd10e0c3489729ada1f84373c952cc123919f5c74e54e49e80d5933005463b2e",
+      "bytes": 27377,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-side-image",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.svg",
+      "sha256": "c9b94c66a6feaa05772e8426a0521e7d1c6fe7b1646169758b11d8aa951b9952",
+      "bytes": 18207,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.svg",
+      "png_path": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Vertical Foundation \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "announcement-side-image",
+      "file": "supplemental/verticalfoundation/Announcements/verticalfoundation-announcement-side-image.png",
+      "sha256": "9e0462637fa22b6dcd13566f7fa27d644ce5b0ec2bb50de929ffa98c959ba995",
+      "bytes": 26774,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.svg",
+      "png_path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vertical Foundation \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "document-header-standard",
+      "file": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.svg",
+      "sha256": "2ac3cfc2e436a30f862dcdea43349ce94f1904e2a4ad32e574d711c45cf320d3",
+      "bytes": 17704,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.svg",
+      "png_path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vertical Foundation \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "document-header-standard",
+      "file": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-standard.png",
+      "sha256": "f8db6dd26512672465b6681c9c20b92d6df2155154c28842e9f1f5e41c787bb9",
+      "bytes": 21012,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.svg",
+      "png_path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vertical Foundation \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "document-header-compact",
+      "file": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.svg",
+      "sha256": "4aea5a61c27bc4395070e35d44144285617b7b74fd8e7ae08f752e18bc6abf4d",
+      "bytes": 17781,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.svg",
+      "png_path": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Vertical Foundation \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "document-header-compact",
+      "file": "supplemental/verticalfoundation/Document-Headers/verticalfoundation-document-header-compact.png",
+      "sha256": "20ca1dbb35dffff27a7e915bb3114fe80bb29137e841825287ba756c03c650ec",
+      "bytes": 15771,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.svg",
+      "sha256": "07e0b32467841cc279a88615beb4f03dca26b1bb3e5358c1556a85eba229a83f",
+      "bytes": 17545,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-full-logo.png",
+      "sha256": "60505baa4bfcfe848b2b81ebbda10963306b8a13fea2a5be9a38c0e43e310f8d",
+      "bytes": 35172,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logomark.svg",
+          "sha256": "4251116ad8eea40c9195ca412f413134d11e1437bccaa4a9629cd1653675b5d7"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-logomark",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.svg",
+      "sha256": "4ba18512117b2579aa200aabaaabc42c79aef997e56d5e0d9a10168b492250db",
+      "bytes": 4660,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logomark.svg",
+          "sha256": "4251116ad8eea40c9195ca412f413134d11e1437bccaa4a9629cd1653675b5d7"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-logomark",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-logomark.png",
+      "sha256": "e38e12582dad9e0b171a81f118413f9e52312d206eccc50b01f7b7bede8e5ba0",
+      "bytes": 19411,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logomark-circle.svg",
+          "sha256": "4bb9cb06715281a3de50dbc99cb3a25b4d5f9632822e753f1ac22a314e2734b6"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.svg",
+      "sha256": "733c744acf68e480eb0eef8bc8c8fbb371a98b8d66393b55c6345ae8df58940e",
+      "bytes": 4669,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.svg",
+      "png_path": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Vertical Foundation \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "verticalfoundation-logomark-circle.svg",
+          "sha256": "4bb9cb06715281a3de50dbc99cb3a25b4d5f9632822e753f1ac22a314e2734b6"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/verticalfoundation/Profile-Images/verticalfoundation-avatar-source-circle.png",
+      "sha256": "53c58bddb77db626747b53c8e943c327d8ffceedb8e51e1485244c866953869c",
+      "bytes": 17766,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.svg",
+      "png_path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Vertical Foundation \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "linkedin-company",
+      "file": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.svg",
+      "sha256": "c9080129f64e826207b072a9d795c7fb09a2030236f84b73c9b49ff2efb90082",
+      "bytes": 18103,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.svg",
+      "png_path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Vertical Foundation \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "linkedin-company",
+      "file": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-company.png",
+      "sha256": "4d065d737be6b37769814cec92f41cb79a1fdc956b2eb72680839c7b480f88ef",
+      "bytes": 26857,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.svg",
+      "png_path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Vertical Foundation \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "linkedin-personal",
+      "file": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.svg",
+      "sha256": "8ca5e08cd6ebd82f071b35d38cbe7774e0782fa11793984d832dec1927ce00b8",
+      "bytes": 18105,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.svg",
+      "png_path": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Vertical Foundation \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "linkedin-personal",
+      "file": "supplemental/verticalfoundation/LinkedIn/verticalfoundation-linkedin-personal.png",
+      "sha256": "ceb1e4830300bfd3000df0a5d4244980bb5d23ce0cf80d97f6d8af1751aa6df3",
+      "bytes": 33101,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.svg",
+      "png_path": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Vertical Foundation \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "discord-server-banner",
+      "file": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.svg",
+      "sha256": "bed1d4998a95b90e54f7876d7d176f022c3673566c3a6eb2e41cf811236141a7",
+      "bytes": 18102,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.svg",
+      "png_path": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Vertical Foundation \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "discord-server-banner",
+      "file": "supplemental/verticalfoundation/Discord-Server/verticalfoundation-discord-server-banner.png",
+      "sha256": "df42132bc088e7ea533d98ba97e5880ebd3df53c3b7d5107a7c7d36875a0a7cb",
+      "bytes": 31092,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.svg",
+      "png_path": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Vertical Foundation \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "website-hero",
+      "file": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.svg",
+      "sha256": "cccf00deec10ad02e471857dfe05d8ceb9037f226a74798175f49452ecd2ea6c",
+      "bytes": 18099,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.svg",
+      "png_path": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Vertical Foundation \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "verticalfoundation-logo.svg",
+          "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+        }
+      ],
+      "copy_ids": [
+        "verticalfoundation"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "verticalfoundation",
+      "layout": "website-hero",
+      "file": "supplemental/verticalfoundation/Website/verticalfoundation-website-hero.png",
+      "sha256": "504aa7e3df9642afce6aaa9e09110f471189f2644ffea96ab910ea2fb9d8c6cc",
+      "bytes": 47032,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.svg",
+      "sha256": "02146a1e419a7624f7dcbbe35f41332743ce088d6003d0aee972a2c13911faf1",
+      "bytes": 62299,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-headline-first.png",
+      "sha256": "8f47cc3a69842e306edc3b8b416783d2cf34d32812e10fdfece8179a7fab7410",
+      "bytes": 34777,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-image-first",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.svg",
+      "sha256": "7e678168ad5675a65c91ec066945de26d56c482b396e17a4ab73fab0c03dfa61",
+      "bytes": 62297,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-image-first",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-image-first.png",
+      "sha256": "7f4320f79cf87e536df25af810d7cca1c1026243593062bbf09a7ee3e3a588c6",
+      "bytes": 34819,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-side-image",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.svg",
+      "sha256": "2fa181a400b52bbf2e0f0df02570ac681dbb21db71966a98bb032473a5687e5c",
+      "bytes": 62296,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.svg",
+      "png_path": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "Pretrend \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "announcement-side-image",
+      "file": "supplemental/pretrend/Announcements/pretrend-announcement-side-image.png",
+      "sha256": "fc04c1ad950e1ec823357624ea3141ca5862f36c0d4050a0c621aab1bac65f31",
+      "bytes": 34299,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.svg",
+      "png_path": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Pretrend \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "document-header-standard",
+      "file": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.svg",
+      "sha256": "0b1fbfff1385341fd9a8c352ffcc9aa0b2689161fffe11bf32ff5d6196f1ac26",
+      "bytes": 61804,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.svg",
+      "png_path": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Pretrend \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "document-header-standard",
+      "file": "supplemental/pretrend/Document-Headers/pretrend-document-header-standard.png",
+      "sha256": "c96f637fa0295c199773e36797622a061cbe19687371524c660d3a23ff283c41",
+      "bytes": 32545,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.svg",
+      "png_path": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Pretrend \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "document-header-compact",
+      "file": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.svg",
+      "sha256": "249615f06529f26ea58c0fa400c8dbaac7d98a5d618ddeb865b1b33b4f7f595b",
+      "bytes": 61882,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.svg",
+      "png_path": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "Pretrend \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "document-header-compact",
+      "file": "supplemental/pretrend/Document-Headers/pretrend-document-header-compact.png",
+      "sha256": "cd0634d4adf7fda5db368975ba223c7d54408c88e22d66b6ebd1c81d9a399ce1",
+      "bytes": 21815,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.svg",
+      "sha256": "6b3ec84eba13d817f2ae2bd866c1810f2c20bd703fa28641da43c5e47ce4a2b6",
+      "bytes": 61646,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-full-logo.png",
+      "sha256": "10b3287b07d7ca8b4c3c57c358eedbf55bda9fb77b4fd57ef9b70868f8c09f46",
+      "bytes": 42245,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logomark.svg",
+          "sha256": "d5fbfd7091630df7b4d09c190a8fa4ebc0fb28a10ab313ccec823c1beb881b15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-logomark",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.svg",
+      "sha256": "2f59e88639b53e68491cddb35b6d75574462643a9be13da80a57f1e3b7629f50",
+      "bytes": 47969,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logomark.svg",
+          "sha256": "d5fbfd7091630df7b4d09c190a8fa4ebc0fb28a10ab313ccec823c1beb881b15"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-logomark",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-logomark.png",
+      "sha256": "39a09fb358d507ca6eaba5bb0a68e917e35b40b059c545d7062dba662b6c19f4",
+      "bytes": 101586,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logomark-circle.svg",
+          "sha256": "02aca5df94f26f84fdb1e8921e8c2a48ab306b93ea539eb8b8c909dd9306c8c0"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.svg",
+      "sha256": "761b99bd1b978136d39efa7332c6f05eaf7a5a2f1294c6756681bf2ef205bcb5",
+      "bytes": 47986,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.svg",
+      "png_path": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "Pretrend \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "pretrend-logomark-circle.svg",
+          "sha256": "02aca5df94f26f84fdb1e8921e8c2a48ab306b93ea539eb8b8c909dd9306c8c0"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/pretrend/Profile-Images/pretrend-avatar-source-circle.png",
+      "sha256": "200e4cdf830f5c88c7cd857a3bc8da212d5a33978166ea92b1659d941ea7057a",
+      "bytes": 60385,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.svg",
+      "png_path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Pretrend \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "linkedin-company",
+      "file": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.svg",
+      "sha256": "f40bc3a01e782aa25485c69f4daf314360e2eb980e42e4f1822dc1b7a6eaddcf",
+      "bytes": 62195,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.svg",
+      "png_path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "Pretrend \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "linkedin-company",
+      "file": "supplemental/pretrend/LinkedIn/pretrend-linkedin-company.png",
+      "sha256": "b62a73bcfa05d198cd45b015e59504ab28117a43b7de83e74ad9719a90e64384",
+      "bytes": 29335,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.svg",
+      "png_path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Pretrend \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "linkedin-personal",
+      "file": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.svg",
+      "sha256": "61235cf4127d3872e78829e684179ed7b6420aed008dd0f99ff466c3e08d0c35",
+      "bytes": 62194,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.svg",
+      "png_path": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "Pretrend \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "linkedin-personal",
+      "file": "supplemental/pretrend/LinkedIn/pretrend-linkedin-personal.png",
+      "sha256": "11b21323435cc0a58f96451eb36932d90db6bb8fa24b1886059b7e457938773c",
+      "bytes": 37060,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.svg",
+      "png_path": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Pretrend \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "discord-server-banner",
+      "file": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.svg",
+      "sha256": "5fe14d77793fb470aa0d0ed4941429e4681ec8d99edb527e203db580f2e104be",
+      "bytes": 62068,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.svg",
+      "png_path": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "Pretrend \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "discord-server-banner",
+      "file": "supplemental/pretrend/Discord-Server/pretrend-discord-server-banner.png",
+      "sha256": "ed0393d70b6a4acbe32995d5ddc34fad35519b0b49b10cc1d8f84751206fe7e1",
+      "bytes": 34373,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/pretrend/Website/pretrend-website-hero.svg",
+      "png_path": "supplemental/pretrend/Website/pretrend-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Pretrend \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "website-hero",
+      "file": "supplemental/pretrend/Website/pretrend-website-hero.svg",
+      "sha256": "15c3b75feff6bf3c6be60ccc2b533cca1da333efd8ed786512adaf7166b48e05",
+      "bytes": 62191,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/pretrend/Website/pretrend-website-hero.svg",
+      "png_path": "supplemental/pretrend/Website/pretrend-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "Pretrend \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "pretrend-logo.svg",
+          "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+        }
+      ],
+      "copy_ids": [
+        "pretrend"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "pretrend",
+      "layout": "website-hero",
+      "file": "supplemental/pretrend/Website/pretrend-website-hero.png",
+      "sha256": "95b75e803484180734b2505388f0b6c3958ec5adda3283fae321d233379357dc",
+      "bytes": 52285,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.svg",
+      "sha256": "7827fb6f00e504dd4ff1669b047b0511bb6251bfb96ef44273691eb9c688370e",
+      "bytes": 5848,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-headline-first.png",
+      "sha256": "5732fad01c4f527b3c5f5714125327d14f194b767b02830cf8d54ef63b582f75",
+      "bytes": 34876,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-image-first",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.svg",
+      "sha256": "a86f3e559f268b2f5657a77088fc9ebd39f947dbd824b38a5dc01f83440a038f",
+      "bytes": 5846,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-image-first",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-image-first.png",
+      "sha256": "fd26e7630f4592f2a4c264fc0f81500c2906564b545113b550268f6116919445",
+      "bytes": 34921,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-side-image",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.svg",
+      "sha256": "7be00b3224886c102b61a4ea6a3a4df6fb7d024a37b52f84f7ffbac565fcbbfc",
+      "bytes": 5845,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.svg",
+      "png_path": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "AI Wars \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "announcement-side-image",
+      "file": "supplemental/aiwars/Announcements/aiwars-announcement-side-image.png",
+      "sha256": "334b6b9fef78638ccfeb424bbcf5b422b94389a5bee92947731073bf7a95d54f",
+      "bytes": 34397,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.svg",
+      "png_path": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "AI Wars \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "document-header-standard",
+      "file": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.svg",
+      "sha256": "7e02b54c154cc60766d0c984b869f8bd8074b529f9ead5b5915557e0cda7cd79",
+      "bytes": 5354,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.svg",
+      "png_path": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "AI Wars \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "document-header-standard",
+      "file": "supplemental/aiwars/Document-Headers/aiwars-document-header-standard.png",
+      "sha256": "44ec422922f733064e0a57ce121e9c6b02a222ac52546b2909fde3abf7485751",
+      "bytes": 28489,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.svg",
+      "png_path": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "AI Wars \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "document-header-compact",
+      "file": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.svg",
+      "sha256": "5fbf71dffdfdc8e74b03ad702a239b40d53b2ca41767bec2b4711fafdd2e82a1",
+      "bytes": 5430,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.svg",
+      "png_path": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "AI Wars \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "document-header-compact",
+      "file": "supplemental/aiwars/Document-Headers/aiwars-document-header-compact.png",
+      "sha256": "cdfdaa46b61a686a375082b595b4915071a4bbf2286353cc6033d9dd976b3f5f",
+      "bytes": 22228,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.svg",
+      "sha256": "b5d50aba81a4b10fe3b4fdeb073bb7d82c36c5daf0221598debde46e6d496a56",
+      "bytes": 5197,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-full-logo.png",
+      "sha256": "cd567efc5d670fc825f15727424556808cc0a08c27024e87ae2ff67a38fd53ff",
+      "bytes": 35154,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logomark.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-logomark",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.svg",
+      "sha256": "94608b37b3a11f0e9701e329d7ca3e20158554438e264c7f4257ad9a7fa2526a",
+      "bytes": 5196,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logomark.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-logomark",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-logomark.png",
+      "sha256": "cd567efc5d670fc825f15727424556808cc0a08c27024e87ae2ff67a38fd53ff",
+      "bytes": 35154,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logomark-circle.svg",
+          "sha256": "28db609dbdd373e52d53ad5f0e7029177005be2d804c73ffbd5c7ca9595764bb"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.svg",
+      "sha256": "c8e3f230c41c3d248d744e5d642cf4542fffab2f0931f664929b664444f0d467",
+      "bytes": 5205,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.svg",
+      "png_path": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "AI Wars \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "aiwars-logomark-circle.svg",
+          "sha256": "28db609dbdd373e52d53ad5f0e7029177005be2d804c73ffbd5c7ca9595764bb"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/aiwars/Profile-Images/aiwars-avatar-source-circle.png",
+      "sha256": "3f1ffbd249886f23cf05347d19196a7db3ee8a0ffae1e53cde599688daffb479",
+      "bytes": 34865,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.svg",
+      "png_path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "AI Wars \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "linkedin-company",
+      "file": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.svg",
+      "sha256": "021e5ea66867ec8cda88ae9a869b869c3b750d078a042adfb64b45260253b142",
+      "bytes": 5586,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.svg",
+      "png_path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "AI Wars \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "linkedin-company",
+      "file": "supplemental/aiwars/LinkedIn/aiwars-linkedin-company.png",
+      "sha256": "8ed2c39600a69ee758c61869e4efa58df5215d8635df8de301bd8ad3692fa7f4",
+      "bytes": 20923,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.svg",
+      "png_path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "AI Wars \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "linkedin-personal",
+      "file": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.svg",
+      "sha256": "449580806a0b0881287af0c6d6bec388a023d9fb36e018eb15a06d6b463c65fc",
+      "bytes": 5589,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.svg",
+      "png_path": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "AI Wars \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "linkedin-personal",
+      "file": "supplemental/aiwars/LinkedIn/aiwars-linkedin-personal.png",
+      "sha256": "3ec17874ddf0743a9f0b55e860e03ba8f56a3e78e30b8b899d4e06e3427c27b6",
+      "bytes": 24899,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.svg",
+      "png_path": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "AI Wars \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "discord-server-banner",
+      "file": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.svg",
+      "sha256": "d30723e0125561315e3d919f043ee052b5a08ca5d39ae68103ddaedfaf54113f",
+      "bytes": 5587,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.svg",
+      "png_path": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "AI Wars \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "discord-server-banner",
+      "file": "supplemental/aiwars/Discord-Server/aiwars-discord-server-banner.png",
+      "sha256": "a51cb85208534774c139c8fe4a7f85ec1dc2f3d0f971ccb450c3136b3f9d7f59",
+      "bytes": 27115,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/aiwars/Website/aiwars-website-hero.svg",
+      "png_path": "supplemental/aiwars/Website/aiwars-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "AI Wars \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "website-hero",
+      "file": "supplemental/aiwars/Website/aiwars-website-hero.svg",
+      "sha256": "05e2e6950f87a7f16832b7a4b869ea7320b698e0899a857cd671ab95052ba36a",
+      "bytes": 5584,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/aiwars/Website/aiwars-website-hero.svg",
+      "png_path": "supplemental/aiwars/Website/aiwars-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "AI Wars \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "aiwars-logo.svg",
+          "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+        }
+      ],
+      "copy_ids": [
+        "aiwars"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "aiwars",
+      "layout": "website-hero",
+      "file": "supplemental/aiwars/Website/aiwars-website-hero.png",
+      "sha256": "0fbedfbcd259b579ebdae0755e8e36b1e5ef76c6648c830751dd8902385f07e7",
+      "bytes": 40640,
+      "type": "png"
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-headline-first",
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.svg",
+      "sha256": "6b654b25c4909131d5aae43159872165e0408a316bc635322e14652fee521104",
+      "bytes": 9339,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement headline first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-headline-first",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-headline-first.png",
+      "sha256": "b83b643cf2fc2aef090741f57fd0e7b4cca969464d2f5086003d233a38c41322",
+      "bytes": 34893,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-image-first",
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.svg",
+      "sha256": "6acd5c5241e713db23bde7ad6748ef1b9aa8adbdd1f667c755e27177c77d3b80",
+      "bytes": 9337,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement image first",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-image-first",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-image-first.png",
+      "sha256": "7d819446a1ab37b11a732bf87b9b280082fe00ea600c91fb58ca895b9e8574b5",
+      "bytes": 35008,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-side-image",
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.svg",
+      "sha256": "4e69afe056cbb9640af7fa970e9499c13bec3f7f15f0be1f8f1f07bd5d84984a",
+      "bytes": 9336,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.svg",
+      "png_path": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.png",
+      "width": 1080,
+      "height": 1080,
+      "title": "VTRU Scope \u2014 announcement side image",
+      "category": "Announcements",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "announcement-side-image",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Announcements/vtruscope-announcement-side-image.png",
+      "sha256": "32d750315a1e2a0b2a3825f57683cdc7165fc56e820a42dfbe12d782c8eb6764",
+      "bytes": 34468,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.svg",
+      "png_path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "VTRU Scope \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "document-header-standard",
+      "file": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.svg",
+      "sha256": "7db2268b4e54dc80fc5a60a50cbc2baba1f621a3a0b116b99a55ff1731e2b6c8",
+      "bytes": 8845,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.svg",
+      "png_path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.png",
+      "width": 1600,
+      "height": 320,
+      "title": "VTRU Scope \u2014 document header standard",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "document-header-standard",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-standard.png",
+      "sha256": "f368f7dcccbaac11b55b14e8bd8fa9237766286e3a65a09c204d5e0608d6bd9c",
+      "bytes": 28724,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.svg",
+      "png_path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "VTRU Scope \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "document-header-compact",
+      "file": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.svg",
+      "sha256": "f7d31fff2e3999dea92a6278a7523762d227a793bfceea44d0cb9559b3e9fae9",
+      "bytes": 8920,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.svg",
+      "png_path": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.png",
+      "width": 1600,
+      "height": 320,
+      "title": "VTRU Scope \u2014 document header compact",
+      "category": "Document-Headers",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "document-header-compact",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Document-Headers/vtruscope-document-header-compact.png",
+      "sha256": "d39c2ba405d149301ffcc6ad0a06dc5df2a9aebfd69fe3e32b8878e377445cc5",
+      "bytes": 21319,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-full-logo",
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.svg",
+      "sha256": "4aa37fcd35e71f9f8cc447454f22a290580b4708c48afcc59e2c0088d2cc4882",
+      "bytes": 8688,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar full logo",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-full-logo",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-full-logo.png",
+      "sha256": "4c75308a630dfe2bfeb2d6764e363dbdfaa06ec82760a4e588bd82d91411713e",
+      "bytes": 35123,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logomark.svg",
+          "sha256": "ca259026c016ab89ccaaa5e16200a75c4b7a1b04d919fd262254fb8e77735ecf"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-logomark",
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.svg",
+      "sha256": "ee6e1814b3c7cd9eec997bf25c8bc3b64e9ee2231d839f9e022571d67d337b42",
+      "bytes": 5871,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar logomark",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logomark.svg",
+          "sha256": "ca259026c016ab89ccaaa5e16200a75c4b7a1b04d919fd262254fb8e77735ecf"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-logomark",
+      "png_source_override": {
+        "file": "vtruscope-logomark.png",
+        "sha256": "66eb9d6643392f25e77a4af7c22f8014475d65eeec2ee1f59df1c3fb26e21d4b",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-logomark.png",
+      "sha256": "38c700adaafe9c3ca1692c0bf6a5656e63a4c0ac4b9875f2744b56dd524ddacf",
+      "bytes": 112450,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logomark.png",
+          "sha256": "66eb9d6643392f25e77a4af7c22f8014475d65eeec2ee1f59df1c3fb26e21d4b",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logomark-circle.svg",
+          "sha256": "ae5c65f31d3bf2fe6eb27b9fe7118f041c98ba1b9d8a63ba3c2a19215c76d7ee"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-source-circle",
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.svg",
+      "sha256": "463f70aff79e813b3169ee3b4644fa4d41f14973bfc5d9e9326419781e09449d",
+      "bytes": 5880,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.svg",
+      "png_path": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.png",
+      "width": 1024,
+      "height": 1024,
+      "title": "VTRU Scope \u2014 avatar source circle",
+      "category": "Profile-Images",
+      "sources": [
+        {
+          "file": "vtruscope-logomark-circle.svg",
+          "sha256": "ae5c65f31d3bf2fe6eb27b9fe7118f041c98ba1b9d8a63ba3c2a19215c76d7ee"
+        }
+      ],
+      "copy_ids": [],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "avatar-source-circle",
+      "png_source_override": {
+        "file": "vtruscope-logomark-circle.png",
+        "sha256": "85176ed60d862abc135bd4bc121df372cc7030018f4f9009322e99da6934f9d9",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Profile-Images/vtruscope-avatar-source-circle.png",
+      "sha256": "7401d1e54833e51fc5740f8fb17343c89aa1e7fe0f5931cbeb34c4f7f736e8d3",
+      "bytes": 115817,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logomark-circle.png",
+          "sha256": "85176ed60d862abc135bd4bc121df372cc7030018f4f9009322e99da6934f9d9",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.svg",
+      "png_path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "VTRU Scope \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "linkedin-company",
+      "file": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.svg",
+      "sha256": "54862889e33eb6cad16935b4ed7c49cceb59ad263bb1162746d676a3cb93eae5",
+      "bytes": 9096,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.svg",
+      "png_path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.png",
+      "width": 1512,
+      "height": 256,
+      "title": "VTRU Scope \u2014 linkedin company",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "linkedin-company",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-company.png",
+      "sha256": "08956d99bffb2d69c2f6864ad0d4319f09af3f7f6b6a2525cdb8970ffeacffe9",
+      "bytes": 25857,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.svg",
+      "png_path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "VTRU Scope \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "linkedin-personal",
+      "file": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.svg",
+      "sha256": "043bbf1396a55cb667da1a77145b83a96a80b1e07217371586a260119d1f44f0",
+      "bytes": 9225,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.svg",
+      "png_path": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.png",
+      "width": 1584,
+      "height": 396,
+      "title": "VTRU Scope \u2014 linkedin personal",
+      "category": "LinkedIn",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "linkedin-personal",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/LinkedIn/vtruscope-linkedin-personal.png",
+      "sha256": "d93bead997925e2dd8e565974ea08a6f73625c152c2d245da458a023bad3c2c7",
+      "bytes": 31419,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.svg",
+      "png_path": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "VTRU Scope \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "discord-server-banner",
+      "file": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.svg",
+      "sha256": "fc3d3a5ebb5670b33388b7f9597244c7a93c0b2c9d1d6b7f25b28c9b582f717d",
+      "bytes": 9098,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.svg",
+      "png_path": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.png",
+      "width": 960,
+      "height": 540,
+      "title": "VTRU Scope \u2014 discord server banner",
+      "category": "Discord-Server",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "discord-server-banner",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Discord-Server/vtruscope-discord-server-banner.png",
+      "sha256": "557bf861c54ce3ba97e56ba5fd6a9300f24afb39a536f540050449dab95e4a6a",
+      "bytes": 34128,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    },
+    {
+      "path": "supplemental/vtruscope/Website/vtruscope-website-hero.svg",
+      "png_path": "supplemental/vtruscope/Website/vtruscope-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "VTRU Scope \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "website-hero",
+      "file": "supplemental/vtruscope/Website/vtruscope-website-hero.svg",
+      "sha256": "59f7a676988858229401e0e19cd63a62de1b000ac45ef1dce51b5e52703c9173",
+      "bytes": 9095,
+      "type": "svg"
+    },
+    {
+      "path": "supplemental/vtruscope/Website/vtruscope-website-hero.svg",
+      "png_path": "supplemental/vtruscope/Website/vtruscope-website-hero.png",
+      "width": 1920,
+      "height": 640,
+      "title": "VTRU Scope \u2014 website hero",
+      "category": "Website",
+      "sources": [
+        {
+          "file": "vtruscope-logo.svg",
+          "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+        }
+      ],
+      "copy_ids": [
+        "vtruscope"
+      ],
+      "imagery": "supplied source marks only; client artwork area intentionally empty",
+      "background": "white",
+      "status": "V2 editable layout; no invented slogans or decorative imagery",
+      "brand": "vtruscope",
+      "layout": "website-hero",
+      "png_source_override": {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "role": "Exact supplied high-resolution paired PNG for raster export only; SVG master keeps exact source SVG."
+      },
+      "file": "supplemental/vtruscope/Website/vtruscope-website-hero.png",
+      "sha256": "d693c72f1b20f4fcc7d17204a82963808a357e1e514f184ce266666ea7324f45",
+      "bytes": 51165,
+      "type": "png",
+      "png_source_overrides": [
+        {
+          "file": "vtruscope-logo.png",
+          "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+          "reason": "Untouched paired high-resolution source PNG used by V2 renderer; source SVG remains embedded unchanged in master."
+        }
+      ]
+    }
+  ]
+}

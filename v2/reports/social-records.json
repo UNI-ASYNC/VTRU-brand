@@ -1,0 +1,2846 @@
+[
+  {
+    "path": "social-templates/03-Vitruveo/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/03-Vitruveo/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "Vitruveo / Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/03-Vitruveo/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "Vitruveo / Alternate Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/03-Vitruveo/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "Vitruveo / Feed landscape post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/X/x-profile-banner.svg",
+    "png_path": "social-templates/03-Vitruveo/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "Vitruveo / Profile header",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/03-Vitruveo/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "Vitruveo / Channel banner",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/03-Vitruveo/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "Vitruveo / Video thumbnail template",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/03-Vitruveo/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Vitruveo / Vertical content cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/03-Vitruveo/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "Vitruveo / Square feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/03-Vitruveo/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "Vitruveo / Portrait feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/03-Vitruveo/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Vitruveo / Story / Reel cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/03-Vitruveo/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/03-Vitruveo/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "Vitruveo / Channel backsplash",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "03-Vitruveo"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "Vertical Foundation / Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "Vertical Foundation / Alternate Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "Vertical Foundation / Feed landscape post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/X/x-profile-banner.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "Vertical Foundation / Profile header",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "Vertical Foundation / Channel banner",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "Vertical Foundation / Video thumbnail template",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Vertical Foundation / Vertical content cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "Vertical Foundation / Square feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "Vertical Foundation / Portrait feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Vertical Foundation / Story / Reel cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/04-Vertical-Foundation/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/04-Vertical-Foundation/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "Vertical Foundation / Channel backsplash",
+    "category": "social",
+    "sources": [
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "verticalfoundation"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "04-Vertical-Foundation"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/05-Pretrend/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "Pretrend / Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/05-Pretrend/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "Pretrend / Alternate Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/05-Pretrend/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "Pretrend / Feed landscape post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/X/x-profile-banner.svg",
+    "png_path": "social-templates/05-Pretrend/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "Pretrend / Profile header",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/05-Pretrend/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "Pretrend / Channel banner",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/05-Pretrend/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "Pretrend / Video thumbnail template",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/05-Pretrend/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Pretrend / Vertical content cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/05-Pretrend/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "Pretrend / Square feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/05-Pretrend/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "Pretrend / Portrait feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/05-Pretrend/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Pretrend / Story / Reel cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/05-Pretrend/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/05-Pretrend/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "Pretrend / Channel backsplash",
+    "category": "social",
+    "sources": [
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      }
+    ],
+    "copy_ids": [
+      "pretrend"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "05-Pretrend"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/06-AI-Wars/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "AI Wars / Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/06-AI-Wars/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "AI Wars / Alternate Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/06-AI-Wars/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "AI Wars / Feed landscape post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/X/x-profile-banner.svg",
+    "png_path": "social-templates/06-AI-Wars/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "AI Wars / Profile header",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/06-AI-Wars/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "AI Wars / Channel banner",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/06-AI-Wars/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "AI Wars / Video thumbnail template",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/06-AI-Wars/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "AI Wars / Vertical content cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/06-AI-Wars/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "AI Wars / Square feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/06-AI-Wars/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "AI Wars / Portrait feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/06-AI-Wars/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "AI Wars / Story / Reel cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/06-AI-Wars/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/06-AI-Wars/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "AI Wars / Channel backsplash",
+    "category": "social",
+    "sources": [
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      }
+    ],
+    "copy_ids": [
+      "aiwars"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "06-AI-Wars"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "VTRU Scope / Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "VTRU Scope / Alternate Page cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "VTRU Scope / Feed landscape post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/X/x-profile-banner.svg",
+    "png_path": "social-templates/07-VTRU-Scope/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "VTRU Scope / Profile header",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/07-VTRU-Scope/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "VTRU Scope / Channel banner",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/07-VTRU-Scope/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "VTRU Scope / Video thumbnail template",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/07-VTRU-Scope/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "VTRU Scope / Vertical content cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "VTRU Scope / Square feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "VTRU Scope / Portrait feed post",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "VTRU Scope / Story / Reel cover",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/07-VTRU-Scope/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/07-VTRU-Scope/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "VTRU Scope / Channel backsplash",
+    "category": "social",
+    "sources": [
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      }
+    ],
+    "copy_ids": [
+      "vtruscope"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "07-VTRU-Scope"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "Ecosystem Four Brands / Page cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "Ecosystem Four Brands / Alternate Page cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "Ecosystem Four Brands / Feed landscape post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/X/x-profile-banner.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "Ecosystem Four Brands / Profile header",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "Ecosystem Four Brands / Channel banner",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "Ecosystem Four Brands / Video thumbnail template",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Ecosystem Four Brands / Vertical content cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "Ecosystem Four Brands / Square feed post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "Ecosystem Four Brands / Portrait feed post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Ecosystem Four Brands / Story / Reel cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "Ecosystem Four Brands / Channel backsplash",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/01-Ecosystem-Four-Brands/Master/ecosystem-wide-master.svg",
+    "png_path": "social-templates/01-Ecosystem-Four-Brands/Master/ecosystem-wide-master.png",
+    "width": 2400,
+    "height": 800,
+    "title": "Ecosystem Four Brands / Wide ecosystem template",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [],
+    "platform": "Master",
+    "surface": "Wide ecosystem template",
+    "safe": [
+      160,
+      90,
+      2080,
+      580
+    ],
+    "collection": "01-Ecosystem-Four-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-page-cover.png",
+    "width": 1702,
+    "height": 630,
+    "title": "Ecosystem Five Brands / Page cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Page cover",
+    "safe": [
+      320,
+      80,
+      1140,
+      470
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-cover-mobile-friendly.png",
+    "width": 1640,
+    "height": 720,
+    "title": "Ecosystem Five Brands / Alternate Page cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Alternate Page cover",
+    "safe": [
+      300,
+      100,
+      1060,
+      520
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Facebook/facebook-feed-landscape.png",
+    "width": 1200,
+    "height": 630,
+    "title": "Ecosystem Five Brands / Feed landscape post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Facebook",
+    "surface": "Feed landscape post",
+    "safe": [
+      60,
+      50,
+      1080,
+      530
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/X/x-profile-banner.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/X/x-profile-banner.png",
+    "width": 1500,
+    "height": 500,
+    "title": "Ecosystem Five Brands / Profile header",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "X",
+    "surface": "Profile header",
+    "safe": [
+      380,
+      65,
+      1060,
+      360
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/YouTube/youtube-channel-banner.png",
+    "width": 2560,
+    "height": 1440,
+    "title": "Ecosystem Five Brands / Channel banner",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "YouTube",
+    "surface": "Channel banner",
+    "safe": [
+      508,
+      509,
+      1544,
+      422
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/YouTube/youtube-video-thumbnail.png",
+    "width": 1280,
+    "height": 720,
+    "title": "Ecosystem Five Brands / Video thumbnail template",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "YouTube",
+    "surface": "Video thumbnail template",
+    "safe": [
+      50,
+      50,
+      1180,
+      610
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/TikTok/tiktok-vertical-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Ecosystem Five Brands / Vertical content cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "TikTok",
+    "surface": "Vertical content cover",
+    "safe": [
+      108,
+      270,
+      800,
+      1230
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-feed-square.png",
+    "width": 1080,
+    "height": 1080,
+    "title": "Ecosystem Five Brands / Square feed post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Square feed post",
+    "safe": [
+      65,
+      65,
+      950,
+      950
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-feed-portrait.png",
+    "width": 1080,
+    "height": 1350,
+    "title": "Ecosystem Five Brands / Portrait feed post",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Portrait feed post",
+    "safe": [
+      75,
+      120,
+      930,
+      1110
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Instagram/instagram-story-reel-cover.png",
+    "width": 1080,
+    "height": 1920,
+    "title": "Ecosystem Five Brands / Story / Reel cover",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Instagram",
+    "surface": "Story / Reel cover",
+    "safe": [
+      90,
+      270,
+      850,
+      1230
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Rumble/rumble-channel-backsplash.png",
+    "width": 3600,
+    "height": 600,
+    "title": "Ecosystem Five Brands / Channel backsplash",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Rumble",
+    "surface": "Channel backsplash",
+    "safe": [
+      850,
+      100,
+      2250,
+      400
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  },
+  {
+    "path": "social-templates/02-Ecosystem-Five-Brands/Master/ecosystem-wide-master.svg",
+    "png_path": "social-templates/02-Ecosystem-Five-Brands/Master/ecosystem-wide-master.png",
+    "width": 2400,
+    "height": 800,
+    "title": "Ecosystem Five Brands / Wide ecosystem template",
+    "category": "ecosystem-social",
+    "sources": [
+      {
+        "file": "vitruveo-logo.svg",
+        "sha256": "faaa78e856fdbd983da09d1e48cfdd8cd6ad5b37a6bb3c519a5b38f21df0fc15"
+      },
+      {
+        "file": "pretrend-logo.svg",
+        "sha256": "a3c120b917221637ac87efb7c56ca2ef7e6881de9dcb3599fd8a9ed32b774e8c"
+      },
+      {
+        "file": "aiwars-logo.svg",
+        "sha256": "bb3bb5ac0c83b948f3149d0ce43be8df544556132223f52f9783ec58c4b46de3"
+      },
+      {
+        "file": "vtruscope-logo.svg",
+        "sha256": "56736e8cd58c98c65eb3a82eda968d3e75b473b42dc34e600531f8ca717d1025"
+      },
+      {
+        "file": "verticalfoundation-logo.svg",
+        "sha256": "e562476d0c4302b28c12f27831ef28187984f263e8b6f978be2407efcb6abe3a"
+      }
+    ],
+    "copy_ids": [
+      "vitruveo"
+    ],
+    "imagery": "supplied source marks only; client artwork area intentionally empty",
+    "background": "white",
+    "status": "V2 editable layout; no invented slogans or decorative imagery",
+    "png_source_overrides": [
+      {
+        "file": "vtruscope-logo.png",
+        "sha256": "700b7e236fe80d4e03fee5cd7597293a02a58091bbe2eaaddbdb0b8f1396c67e",
+        "reason": "Untouched paired high-resolution source PNG for Scope raster sharpness; SVG master keeps untouched SVG."
+      }
+    ],
+    "platform": "Master",
+    "surface": "Wide ecosystem template",
+    "safe": [
+      160,
+      90,
+      2080,
+      580
+    ],
+    "collection": "02-Ecosystem-Five-Brands"
+  }
+]

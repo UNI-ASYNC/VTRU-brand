@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "packages": [
+    {
+      "name": "VTRU-Brand-V2-General-Templates.zip",
+      "bytes": 17515230,
+      "sha256": "6204d8fb146aee945d2a30e8978c4dc869d6da44a0ba112567abb4efc38469a6"
+    },
+    {
+      "name": "Vitruveo-V2-Templates.zip",
+      "bytes": 2391952,
+      "sha256": "3dfe744fc23464ee215410270663541bb361fa0d6f070f5ccb8d83531a1010ae"
+    },
+    {
+      "name": "Vertical-Foundation-V2-Templates.zip",
+      "bytes": 2183368,
+      "sha256": "409e6c0bc7f26eee245cc33ca8f4a12a9192260e4906a56ea4a98a853aa577b9"
+    },
+    {
+      "name": "Pretrend-V2-Templates.zip",
+      "bytes": 2865131,
+      "sha256": "d3dee84a18ca59622f9f9ef746b5c8862229dbebeedd5c93662777a0d95f4906"
+    },
+    {
+      "name": "AI-Wars-V2-Templates.zip",
+      "bytes": 2425101,
+      "sha256": "67b7bc8e4fcb899a862912808fa2752c38b4db2854fb9443f9a0c14690229410"
+    },
+    {
+      "name": "VTRU-Scope-V2-Templates.zip",
+      "bytes": 2460967,
+      "sha256": "bc3b0db57c43f5b3c8c61ab0137927a1201b9fcb772eddb737d54ffd2bf1a00c"
+    },
+    {
+      "name": "Ecosystem-Four-Brands-V2-Templates.zip",
+      "bytes": 1873640,
+      "sha256": "714f4686f2199cd9c5f27135b7c55cfa29059b0225b1108dcf8367b4983607d0"
+    },
+    {
+      "name": "Ecosystem-Five-Brands-V2-Templates.zip",
+      "bytes": 2009578,
+      "sha256": "3da2f2f4adb7e871a36ff014f00ca54ae3e1f2addab78c29fed2c15ef162ddc5"
+    }
+  ]
+}

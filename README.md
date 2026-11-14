@@ -1,3 +1,18 @@
+# VTRU brand — versioned review collections
+
+**[V2: clean general templates](v2/README.md)** · **[Browse V2 images](v2/GALLERY.md)** · **[V2 ZIP downloads](downloads/v2/)** · **[Version/provenance guide](VERSIONS.md)**
+
+V2 uses the actual supplied marks and existing website wording. Its working canvases leave space for the team's own imagery. It supplies no newly invented slogans or decorative image panels.
+
+[![V2 Vitruveo Facebook cover template](v2/social-templates/03-Vitruveo/Facebook/facebook-page-cover.png)](v2/social-templates/03-Vitruveo/Facebook/facebook-page-cover.png)
+
+The previous work is retained as **V1 evidence**: [V1 gallery](GALLERY.md), [V1 ZIPs](downloads/README.md), and the [frozen v1.0.0 snapshot](https://github.com/UNI-ASYNC/VTRU-brand/tree/v1.0.0). V1 includes project-created design proposals; they should not be read as legacy official imagery or approved website copy.
+
+The [five original brand kits](source-brand-kits/) remain the source artwork. The existing [Gaps needing technical assistance](DEVELOPER-HANDOFF.md) report and research are also preserved.
+
+<details>
+<summary>V1 original delivery notes — preserved for evidence</summary>
+
 # VTRU brand
 
 Vitruveo ecosystem brand assets, image galleries, editable templates, and a source-backed research handoff.
@@ -48,3 +63,5 @@ For local integrity verification:
 ```sh
 python3 tools/verify_assets.py
 ```
+
+</details>

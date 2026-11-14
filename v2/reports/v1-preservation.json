@@ -1,0 +1,13 @@
+{
+  "checked_on": "2026-11-14",
+  "baseline_commit": "5f4d5593a67ecfc814326212a704a07289480b87",
+  "frozen_tag": "v1.0.0",
+  "unchanged_original_files": 739,
+  "navigation_files_updated": [
+    "GALLERY.md",
+    "README.md"
+  ],
+  "all_original_artwork_zip_reports_sources_unchanged": true,
+  "errors": [],
+  "note": "Only version-navigation documents are updated. Their original bytes remain in the frozen tag."
+}

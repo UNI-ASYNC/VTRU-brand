@@ -1,0 +1,205 @@
+{
+  "checked_on": "2026-11-14",
+  "sets": 15,
+  "errors": [],
+  "docx_visual_rendering": "Not performed; package/header/footer/media structure checked.",
+  "pdf": "A4 RGB print master, no bleed; source marks unchanged. Scope PDF/PNG render uses its untouched supplied high-resolution PNG; SVG retains original SVG.",
+  "checks": [
+    {
+      "brand": "vitruveo",
+      "layout": "formal",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "vitruveo",
+      "layout": "office",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "vitruveo",
+      "layout": "technical",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "verticalfoundation",
+      "layout": "formal",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "verticalfoundation",
+      "layout": "office",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "verticalfoundation",
+      "layout": "technical",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "pretrend",
+      "layout": "formal",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "pretrend",
+      "layout": "office",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "pretrend",
+      "layout": "technical",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "aiwars",
+      "layout": "formal",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "aiwars",
+      "layout": "office",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "aiwars",
+      "layout": "technical",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "vtruscope",
+      "layout": "formal",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "vtruscope",
+      "layout": "office",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    },
+    {
+      "brand": "vtruscope",
+      "layout": "technical",
+      "svg_source_exact": true,
+      "docx_source_exact": true,
+      "pdf_pages": 1,
+      "A4": true,
+      "png_size": [
+        2480,
+        3508
+      ],
+      "headers_footers": true
+    }
+  ],
+  "status": "PASS"
+}
