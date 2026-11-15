@@ -4,6 +4,16 @@
 
 V2 uses the actual supplied marks and existing website wording. Its working canvases leave space for the team's own imagery. It supplies no newly invented slogans or decorative image panels.
 
+## Browse the V2 artwork right here on GitHub
+
+Click a contact sheet below to see the actual PNGs in a full, scrollable gallery, with individual file and editable SVG links. No ZIP download is needed just to view the designs.
+
+| Vitruveo V2 | Full ecosystem V2 |
+|---|---|
+| [![Vitruveo V2 preview](v2/previews/social-03-vitruveo-contact-sheet.png)](v2/gallery/social-03-vitruveo.md) | [![Five-brand V2 preview](v2/previews/social-02-ecosystem-five-brands-contact-sheet.png)](v2/gallery/social-02-ecosystem-five-brands.md) |
+
+**[OPEN ALL V2 IMAGE GALLERIES](v2/GALLERY.md)** · [V2 ZIP packages](downloads/v2/README.md) · [V1 image galleries](GALLERY.md)
+
 [![V2 Vitruveo Facebook cover template](v2/social-templates/03-Vitruveo/Facebook/facebook-page-cover.png)](v2/social-templates/03-Vitruveo/Facebook/facebook-page-cover.png)
 
 The previous work is retained as **V1 evidence**: [V1 gallery](GALLERY.md), [V1 ZIPs](downloads/README.md), and the [frozen v1.0.0 snapshot](https://github.com/UNI-ASYNC/VTRU-brand/tree/v1.0.0). V1 includes project-created design proposals; they should not be read as legacy official imagery or approved website copy.
